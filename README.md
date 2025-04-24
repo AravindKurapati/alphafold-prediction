@@ -11,8 +11,15 @@ To predict the folded structure of human insulin from its amino acid FASTA seque
 - HHblits, Jackhmmer, PDB70, UniRef90, MGnify, BFD
 - Debian-based VM on cloud
 
-## Outputs
-Includes PDB and CIF files for each unrelaxed predicted model (1–5). These files can be visualized using PyMOL or Mol*.
+
+## Insulin Output Files
+
+This folder (`alphafold_insulin_output/insulin/`) contains:
+- `unrelaxed_model_X_pred_0.pdb`: Raw structure predictions
+- `unrelaxed_model_X_pred_0.cif`: Crystallographic Information Format for models
+- `result_model_X_pred_0.pkl`: Python dictionary containing per-residue confidence scores, distograms, etc.
+- `confidence_model_X_pred_0.json`: Confidence metrics
+- `features.pkl`: Input features fed to the model
 
 ---
 
