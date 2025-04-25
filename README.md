@@ -23,6 +23,15 @@ This folder (`alphafold_insulin_output/insulin/`) contains:
 
 ---
 
+## Predicted Insulin Structure 
+
+Below is the visualized result from the `unrelaxed_model_1_pred_0.pdb` output.
+
+![Insulin 3D Structure](images/insulin_structure.png)
+
+The structure was rendered using [Mol* Viewer](https://molstar.org/viewer/).
+
+
 ##  Citation
 
 
