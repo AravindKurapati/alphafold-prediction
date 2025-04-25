@@ -1,0 +1,1079 @@
+Query         insulin 
+Match_columns 54
+No_of_seqs    102 out of 612
+Neff          3.49832
+Searched_HMMs 80799
+Date          Sun Apr 20 16:29:40 2025
+Command       /usr/bin/hhsearch -i /tmp/tmp1smc_6if/query.a3m -o /tmp/tmp1smc_6if/output.hhr -maxseq 1000000 -d /mnt/alphafold-data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3W7Y_B Insulin; Human insulin,  99.6 3.6E-19 4.4E-24   92.7   0.0   29   26-54      2-30  (30)
+  2 6SOF_F Insulin receptor (E.C.2  99.6 3.6E-19 4.4E-24   92.7   0.0   29   26-54      2-30  (30)
+  3 5URT_B Insulin Chain A, Insuli  99.6 8.5E-19   1E-23   91.3   0.0   29   26-54      2-30  (30)
+  4 6B3Q_a Insulin-degrading enzym  99.3 9.6E-16 1.2E-20   93.9   0.0   52    1-52      1-52  (110)
+  5 6JK8_C Insulin-like growth fac  99.3 9.7E-16 1.2E-20   93.8   0.0   52    1-52      1-52  (110)
+  6 3LRI_A INSULIN-LIKE GROWTH FAC  98.2 4.7E-09 5.8E-14   63.6   0.0   29   25-53     13-41  (83)
+  7 2KQP_A Insulin; proinsulin, Ca  98.0 1.5E-08 1.8E-13   59.9   0.0   27   26-52      2-28  (86)
+  8 1WQJ_I Insulin-like growth fac  98.0 1.7E-08 2.1E-13   59.3   0.0   27   27-53      2-28  (70)
+  9 4XSS_B Insulin-like growth fac  98.0 1.7E-08 2.1E-13   59.3   0.0   27   27-53      2-28  (70)
+ 10 1TGR_A Insulin-like growth fac  97.9 3.8E-08 4.7E-13   55.6   0.0   26   27-52      2-27  (52)
+ 11 1ZEI_D INSULIN, M-CRESOL; HORM  97.8 5.9E-08 7.2E-13   54.3   0.0   27   26-52      2-28  (53)
+ 12 2JZQ_A Insulin; HORMONE, SINGL  97.8 7.9E-08 9.8E-13   54.7   0.0   28   26-53      2-29  (57)
+ 13 6PXV_E Insulin receptor (E.C.2  97.8   1E-07 1.2E-12   55.4   0.0   27   26-52      2-28  (74)
+ 14 6PXW_E Insulin receptor (E.C.2  97.8   1E-07 1.2E-12   55.4   0.0   27   26-52      2-28  (74)
+ 15 5L3L_A Insulin-like growth fac  97.7 1.1E-07 1.4E-12   55.4   0.0   28   26-53      4-31  (67)
+ 16 6INS_E PROTEIN; HORMONE; 2.0A   97.5 5.6E-07   7E-12   50.0   0.0   27   26-52      2-28  (50)
+ 17 1B9G_A GROWTH-FACTOR IGF-1; GR  97.3 1.4E-06 1.7E-11   50.1   0.0   26   27-52      2-27  (57)
+ 18 2H8B_B Insulin-like 3; INSULIN  94.1  0.0099 1.2E-07   31.8   0.0   20   26-45      5-24  (31)
+ 19 6BLQ_B H-2 class II histocompa  94.0   0.011 1.4E-07   39.0   0.0   15   34-48      1-15  (221)
+ 20 2MV1_B Relaxin B chain, Relaxi  94.0   0.012 1.5E-07   31.2   0.0   20   26-45      6-25  (30)
+ 21 2KJI_A Probable insulin-like p  90.4    0.11 1.4E-06   29.1   0.0   20   27-46      2-21  (50)
+ 22 1H9H_I TRYPSIN (E.C.3.4.21.4),  74.5     2.2 2.7E-05   24.0   0.0   12   41-52     19-30  (36)
+ 23 6MSL_C Integrin alpha-V, Integ  63.2     5.6   7E-05   21.8   0.0    8   41-48     23-30  (32)
+ 24 2M7T_A PROTEIN; Protein Engine  61.2     6.5   8E-05   21.7   0.0    8   41-48     24-31  (33)
+ 25 5WMM_A NRPS, MbtH homologue; N  53.9      10 0.00013   30.1   0.0   28   24-51    803-831 (926)
+ 26 3M7O_A Lymphocyte antigen 86;   44.1      19 0.00023   23.2   0.0   20   28-47     30-49  (162)
+ 27 3LB6_A Interleukin-13, Interle  41.7      22 0.00027   25.0   0.0   15    1-15      1-15  (132)
+ 28 3LB6_B Interleukin-13, Interle  41.7      22 0.00027   25.0   0.0   15    1-15      1-15  (132)
+ 29 3M0D_D TNF receptor-associated  37.6      28 0.00034   19.7   0.0    7   46-52     29-35  (75)
+ 30 5MFY_A RNA-binding protein 5;   36.4      30 0.00037   20.3   0.0    6   47-52     30-35  (64)
+ 31 3M0A_D TNF receptor-associated  33.2      36 0.00045   19.3   0.0    7   46-52     29-35  (75)
+ 32 1R0R_I subtilisin carlsberg (E  31.4      41  0.0005   16.1   0.0    6   28-33     16-21  (51)
+ 33 4J48_A E3 ubiquitin-protein li  31.3      41 0.00051   19.7   0.0    7   46-52     37-43  (86)
+ 34 2N71_A Protease inhibitor 2; n  31.0      42 0.00052   16.3   0.0    9   42-50     17-25  (50)
+ 35 3PIS_A Kazal-type serine prote  30.4      43 0.00054   16.8   0.0    7   28-34      8-14  (42)
+ 36 4J44_A E3 ubiquitin-protein li  30.1      44 0.00055   19.5   0.0    7   46-52     37-43  (86)
+ 37 5LUN_A Ethylene Forming Enzyme  29.3      47 0.00058   23.7   0.0   20   33-52     22-41  (352)
+ 38 3QTL_D Subtilisin-like serin p  29.0      48 0.00059   18.5   0.0   11   41-51      9-19  (75)
+ 39 1DCS_A DEACETOXYCEPHALOSPORIN   28.0      51 0.00063   22.7   0.0   19   34-52     17-35  (311)
+ 40 1RXF_A DEACETOXYCEPHALOSPORIN   28.0      51 0.00063   22.7   0.0   19   34-52     17-35  (311)
+ 41 1UNB_A DEACETOXYCEPHALOSPORIN   28.0      51 0.00063   22.7   0.0   19   34-52     17-35  (311)
+ 42 5V2T_A 2-oxoglutarate-dependen  27.9      51 0.00064   23.5   0.0   19   34-52     23-41  (352)
+ 43 5V2Z_A EFE (E.C.1.13.12.19); 2  27.9      51 0.00064   23.5   0.0   19   34-52     23-41  (352)
+ 44 6JYV_A Probable iron/ascorbate  26.5      56  0.0007   22.9   0.0   18   34-51     29-46  (339)
+ 45 4HGU_A Silk protease inhibitor  26.2      58 0.00071   15.4   0.0    7   28-34     10-16  (40)
+ 46 2GKT_I Ovomucoid; reactive-sit  26.0      59 0.00072   15.4   0.0    6   28-33     16-21  (51)
+ 47 2GKV_A Streptogrisin B (E.C.3.  26.0      59 0.00072   15.4   0.0    6   28-33     16-21  (51)
+ 48 3M1D_A Baculoviral IAP repeat-  25.7      60 0.00074   19.0   0.0    7   46-52     36-42  (85)
+ 49 5DAE_A AAEL006007-PA; inhibito  24.9      63 0.00078   17.5   0.0   10   41-50     13-22  (65)
+ 50 6TTN_A Hyoscyamine 6 beta-hydr  24.3      66 0.00081   22.2   0.0   19   33-51     15-33  (317)
+ 51 6TTO_A Hyoscyamine 6 beta-hydr  24.3      66 0.00081   22.2   0.0   19   33-51     15-33  (317)
+ 52 4KMN_A Baculoviral IAP repeat-  24.2      66 0.00082   19.8   0.0    7   46-52     37-43  (103)
+ 53 4WVT_A XIAP, 3,11-DIFLUORO-6,8  23.8      68 0.00085   19.8   0.0    7   46-52     54-60  (98)
+ 54 4WVU_A XIAP, 3,11-DIFLUORO-6,8  23.8      68 0.00085   19.8   0.0    7   46-52     54-60  (98)
+ 55 2POI_A Baculoviral IAP repeat-  23.3      71 0.00088   19.4   0.0    7   46-52     45-51  (94)
+ 56 2KMO_A Leech-derived tryptase   22.5      75 0.00093   15.1   0.0    9   42-50     13-21  (44)
+ 57 2POP_D Mitogen-activated prote  22.3      76 0.00095   19.3   0.0    7   46-52     45-51  (95)
+ 58 3HL5_B Baculoviral IAP repeat-  22.2      77 0.00095   19.1   0.0    7   46-52     36-42  (95)
+ 59 2KCX_A Follistatin-related pro  22.2      77 0.00095   17.4   0.0   12   40-51     37-48  (74)
+ 60 1QBH_A INHIBITOR OF APOPTOSIS   22.2      77 0.00095   19.3   0.0    7   46-52     31-37  (101)
+ 61 4MTZ_D E3 ubiquitin-protein li  22.2      77 0.00096   20.4   0.0    7   46-52     62-68  (111)
+ 62 6GJW_B E3 ubiquitin-protein li  22.2      77 0.00096   20.4   0.0    7   46-52     62-68  (111)
+ 63 2F3C_I Cationic trypsin (E.C.3  22.0      78 0.00097   15.5   0.0    8   42-49     15-22  (55)
+ 64 3ZYY_X IRON-SULFUR CLUSTER BIN  21.6      81   0.001   26.0   0.0   17   26-42    440-456 (631)
+ 65 4C1N_K CARBON MONOXIDE DEHYDRO  21.4      82   0.001   25.6   0.0   17   26-42    320-336 (510)
+ 66 1GP6_A LEUCOANTHOCYANIDIN DIOX  21.3      83   0.001   22.4   0.0   19   34-52     65-83  (356)
+ 67 3LYU_C Putative hydrogenase; T  21.2      83   0.001   18.5   0.0   14   36-49    107-120 (142)
+ 68 3LYU_D Putative hydrogenase; T  21.2      83   0.001   18.5   0.0   14   36-49    107-120 (142)
+ 69 2DK7_A Transcription elongatio  21.2      83   0.001   18.5   0.0    9   46-54     31-39  (73)
+ 70 3ZYY_Y IRON-SULFUR CLUSTER BIN  21.0      84   0.001   25.9   0.0   17   26-42    440-456 (631)
+ 71 1TBR_R THROMBIN, RHODNIIN; COM  21.0      85   0.001   17.9   0.0   13   39-51     65-77  (103)
+ 72 2QRA_A Baculoviral IAP repeat-  20.3      89  0.0011   20.1   0.0    7   46-52     62-68  (111)
+
+No 1
+>3W7Y_B Insulin; Human insulin, hormone, glucose metabolism; 0.92A {Homo sapiens}
+Probab=99.59  E-value=3.6e-19  Score=92.69  Aligned_cols=29  Identities=100%  Similarity=1.714  Sum_probs=26.9  Template_Neff=4.800
+
+Q insulin          26 VNQHLCGSHLVEALYLVCGERGFFYTPKT   54 (54)
+Q Consensus        26 ~~qhLCGshLVdALylVCGdrGFfY~Pkt   54 (54)
+                      ++||+||++|||+|+++|++|||||+++.
+T Consensus         2 ~~~~lCG~~Lv~al~~vCg~rGF~~~~~~   30 (30)
+T 3W7Y_B            2 VNQHLCGSHLVEALYLVCGERGFFYTPKT   30 (30)
+T ss_dssp             CCBCCCTHHHHHHHHHHHGGGCEEECCCC
+T ss_pred             CCccccchhHHHHHHHHhCCCCcccCCCC
+Confidence            58999999999999999999999999863
+
+
+No 2
+>6SOF_F Insulin receptor (E.C.2.7.10.1), Insulin; cell surface receptor, insulin, tyrosine; 4.3A {Homo sapiens}
+Probab=99.59  E-value=3.6e-19  Score=92.69  Aligned_cols=29  Identities=100%  Similarity=1.714  Sum_probs=26.9  Template_Neff=4.800
+
+Q insulin          26 VNQHLCGSHLVEALYLVCGERGFFYTPKT   54 (54)
+Q Consensus        26 ~~qhLCGshLVdALylVCGdrGFfY~Pkt   54 (54)
+                      ++||+||++|||+|+++|++|||||+++.
+T Consensus         2 ~~~~lCG~~Lv~al~~vCg~rGF~~~~~~   30 (30)
+T 6SOF_F            2 VNQHLCGSHLVEALYLVCGERGFFYTPKT   30 (30)
+T ss_dssp             CSSCCCTHHHHHHHHHHHCSCCCCCCCCC
+T ss_pred             CCccccchhHHHHHHHHhCCCCcccCCCC
+Confidence            58999999999999999999999999863
+
+
+No 3
+>5URT_B Insulin Chain A, Insulin Chain; Insulin, HORMONE; 1.18A {Homo sapiens}
+Probab=99.57  E-value=8.5e-19  Score=91.29  Aligned_cols=29  Identities=97%  Similarity=1.627  Sum_probs=26.6  Template_Neff=4.800
+
+Q insulin          26 VNQHLCGSHLVEALYLVCGERGFFYTPKT   54 (54)
+Q Consensus        26 ~~qhLCGshLVdALylVCGdrGFfY~Pkt   54 (54)
+                      ++||+||++|||+|+++|+||||||+++.
+T Consensus         2 ~~~~lCG~~Lvd~l~~vCg~rGF~~~~~~   30 (30)
+T 5URT_B            2 VNQHLCGSHLVEALYLVCGERGFFYTXKT   30 (30)
+T ss_dssp             CSSCCCTHHHHHHHHHHHGGGCBCCCCC-
+T ss_pred             CCccccchhHHHHHHHHhCCCccCCCCCC
+Confidence            58999999999999999999999999863
+
+
+No 4
+>6B3Q_a Insulin-degrading enzyme (E.C.3.4.24.56), Insulin; IDE, insulin degrading enzyme, amyloid;{Homo sapiens}
+Probab=99.32  E-value=9.6e-16  Score=93.85  Aligned_cols=52  Identities=100%  Similarity=1.746  Sum_probs=47.1  Template_Neff=7.700
+
+Q insulin           1 MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus         1 MalWl~~~~LL~Ll~~~~p~~~~a~~~qhLCGshLVdALylVCGdrGFfY~P   52 (54)
+                      |++|++.++++++++++.+..+++..++++||.+|+++|.++|+++||++.+
+T Consensus         1 ~~~~~~~~~~l~ll~~~~~~~~~~~~~~~lCG~~L~~~L~~vC~~~g~~~~~   52 (110)
+T 6B3Q_a            1 MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTP   52 (110)
+T ss_pred             CChHHHHHHHHHHHHHhcCCHHHhhcccccccHHHHHHHHHHhcccCCCCCC
+Confidence            7999999999999999888777777899999999999999999999988644
+
+
+No 5
+>6JK8_C Insulin-like growth factor 1 receptor; human type 1 insulin-like growth; HET: MAN, NAG; 4.7A {Homo sapiens}
+Probab=99.32  E-value=9.7e-16  Score=93.83  Aligned_cols=52  Identities=100%  Similarity=1.746  Sum_probs=0.0  Template_Neff=7.700
+
+Q insulin           1 MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus         1 MalWl~~~~LL~Ll~~~~p~~~~a~~~qhLCGshLVdALylVCGdrGFfY~P   52 (54)
+                      |++|++.++++++++++.+..+++..++++||.+|+++|.++|+++|+++.+
+T Consensus         1 ~~~~~~~~~~l~ll~~~~~~~~~~~~~~rlCG~~L~~~L~~vC~~~g~~~~~   52 (110)
+T 6JK8_C            1 MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTP   52 (110)
+T ss_dssp             ----------------------------------------------------
+T ss_pred             ChHHHHHHHHHHHHHHhCCCHHHhhcccccccHHHHHHHHHHhcccCCCCCc
+Confidence            7999999999999999888766677899999999999999999999988644
+
+
+No 6
+>3LRI_A INSULIN-LIKE GROWTH FACTOR-1 IGF-I; INSULIN-LIKE GROWTH FACTOR-1, GROWTH FACTOR; NMR {Homo sapiens} SCOP: g.1.1.1
+Probab=98.16  E-value=4.7e-09  Score=63.61  Aligned_cols=29  Identities=45%  Similarity=0.991  Sum_probs=25.4  Template_Neff=6.400
+
+Q insulin          25 FVNQHLCGSHLVEALYLVCGERGFFYTPK   53 (54)
+Q Consensus        25 ~~~qhLCGshLVdALylVCGdrGFfY~Pk   53 (54)
+                      ..++++||++|+|+|..+|+++||++.++
+T Consensus        13 ~~~~~lCG~~L~~~L~~vC~~~g~~~~~p   41 (83)
+T 3LRI_A           13 NGPRTLCGAELVDALQFVCGDRGFYFNKP   41 (83)
+T ss_dssp             SSSSSSSCTHHHHHHHHHHHTTCCCSSCC
+T ss_pred             CCCcccccHHHHHHHHHHHcCCCCCCCCC
+Confidence            45899999999999999999999987543
+
+
+No 7
+>2KQP_A Insulin; proinsulin, Carbohydrate metabolism, Cleavage on; NMR {Homo sapiens}
+Probab=98.02  E-value=1.5e-08  Score=59.93  Aligned_cols=27  Identities=93%  Similarity=1.601  Sum_probs=24.2  Template_Neff=7.800
+
+Q insulin          26 VNQHLCGSHLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        26 ~~qhLCGshLVdALylVCGdrGFfY~P   52 (54)
+                      +++++||.+|+++|.++|+++|+++.+
+T Consensus         2 ~~~~lCG~~L~~~L~~vC~~~g~~~~~   28 (86)
+T 2KQP_A            2 VNQHLCGSDLVEALYLVCGERGFFYTK   28 (86)
+T ss_pred             CCccccchHHHHHHHHHhcCcCCCCCC
+Confidence            478999999999999999999987655
+
+
+No 8
+>1WQJ_I Insulin-like growth factor binding protein; PROTEIN-PROTEIN COMPLEX, DISULFIDE RICH, DISULFIDE; 1.6A {Homo sapiens} SCOP: g.1.1.1
+Probab=98.00  E-value=1.7e-08  Score=59.25  Aligned_cols=27  Identities=48%  Similarity=1.145  Sum_probs=24.1  Template_Neff=6.700
+
+Q insulin          27 NQHLCGSHLVEALYLVCGERGFFYTPK   53 (54)
+Q Consensus        27 ~qhLCGshLVdALylVCGdrGFfY~Pk   53 (54)
+                      ++++||.+|+|+|.++|+++||++.++
+T Consensus         2 ~~~lCG~~L~~~l~~vC~~~g~~~~~~   28 (70)
+T 1WQJ_I            2 PETLCGAELVDALQFVCGDRGFYFNKP   28 (70)
+T ss_dssp             CCCCCHHHHHHHHHHHHGGGCBCSEEE
+T ss_pred             CcccCcHHHHHHHHHHHCCCCCCCCCC
+Confidence            689999999999999999999977543
+
+
+No 9
+>4XSS_B Insulin-like growth factor I, Insulin; CELL SURFACE RECEPTOR/IMMUNE SYSTEM, INSULIN; HET: BMA, FUC, NAG; 3.0A {Homo sapiens}
+Probab=98.00  E-value=1.7e-08  Score=59.25  Aligned_cols=27  Identities=48%  Similarity=1.145  Sum_probs=24.1  Template_Neff=6.700
+
+Q insulin          27 NQHLCGSHLVEALYLVCGERGFFYTPK   53 (54)
+Q Consensus        27 ~qhLCGshLVdALylVCGdrGFfY~Pk   53 (54)
+                      ++++||.+|+|+|.++|+++||++.++
+T Consensus         2 ~~~lCG~~L~~~l~~vC~~~g~~~~~~   28 (70)
+T 4XSS_B            2 PETLCGAELVDALQFVCGDRGFYFNKP   28 (70)
+T ss_pred             CcccCcHHHHHHHHHHHCCCCCCCCCC
+Confidence            689999999999999999999977543
+
+
+No 10
+>1TGR_A Insulin-like growth factor IA; IGF-I, IGF-1, Disulfide Isomerization, recepter; 1.42A {Homo sapiens} SCOP: g.1.1.1
+Probab=97.89  E-value=3.8e-08  Score=55.62  Aligned_cols=26  Identities=50%  Similarity=1.197  Sum_probs=23.7  Template_Neff=6.100
+
+Q insulin          27 NQHLCGSHLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        27 ~qhLCGshLVdALylVCGdrGFfY~P   52 (54)
+                      ++++||++|+|+|.++|+++||++++
+T Consensus         2 ~~~lCG~~L~~~l~~vC~~~g~~~~~   27 (52)
+T 1TGR_A            2 PETLCGAELVDALQFVCGDRGFYFNK   27 (52)
+T ss_dssp             TTHHHHHHHHHHHHHHHGGGCEEECH
+T ss_pred             CCccCcHHHHHHHHHHhcCcCCCCCC
+Confidence            68999999999999999999998754
+
+
+No 11
+>1ZEI_D INSULIN, M-CRESOL; HORMONE, METABOLIC ROLE, CHEMICAL ACTIVITY; HET: CRS; 1.9A {Sus scrofa} SCOP: g.1.1.1
+Probab=97.83  E-value=5.9e-08  Score=54.27  Aligned_cols=27  Identities=96%  Similarity=1.668  Sum_probs=24.4  Template_Neff=6.800
+
+Q insulin          26 VNQHLCGSHLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        26 ~~qhLCGshLVdALylVCGdrGFfY~P   52 (54)
+                      +++++||.+|++++..+|+++||++.+
+T Consensus         2 ~~~~~CG~~L~~~l~~vC~~~~~~~~~   28 (53)
+T 1ZEI_D            2 VNQHLCGSHLVEALYLVCGERGFFYTD   28 (53)
+T ss_dssp             HHHHHHHHHHHHHHHHHSGGGEEECCT
+T ss_pred             CCcccccHHHHHHHHHHHCccCCCCCc
+Confidence            478999999999999999999998765
+
+
+No 12
+>2JZQ_A Insulin; HORMONE, SINGLE CHAIN INSULIN, MUTANT; NMR {N/A}
+Probab=97.79  E-value=7.9e-08  Score=54.66  Aligned_cols=28  Identities=89%  Similarity=1.535  Sum_probs=25.0  Template_Neff=6.600
+
+Q insulin          26 VNQHLCGSHLVEALYLVCGERGFFYTPK   53 (54)
+Q Consensus        26 ~~qhLCGshLVdALylVCGdrGFfY~Pk   53 (54)
+                      +++++||++|+++|.++|+++||++.++
+T Consensus         2 ~~~~~CG~~L~~~l~~vC~~~~~~~~~~   29 (57)
+T 2JZQ_A            2 VNQHLCGSDLVEALYLVCGERGFFYTDP   29 (57)
+T ss_dssp             CSBCCCHHHHHHHHHHHHTTSCCCCSSC
+T ss_pred             CCcccccHHHHHHHHHHHcCCCCCCCCC
+Confidence            4789999999999999999999987654
+
+
+No 13
+>6PXV_E Insulin receptor (E.C.2.7.10.1), Insulin; insulin receptor, insulin, SIGNALING PROTEIN-HORMONE; 3.2A {Homo sapiens}
+Probab=97.76  E-value=1e-07  Score=55.36  Aligned_cols=27  Identities=100%  Similarity=1.770  Sum_probs=21.8  Template_Neff=7.600
+
+Q insulin          26 VNQHLCGSHLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        26 ~~qhLCGshLVdALylVCGdrGFfY~P   52 (54)
+                      +++++||.+|+++|.++|+++|+++.+
+T Consensus         2 ~~~~lCG~~L~~~l~~vC~~~~~~~~~   28 (74)
+T 6PXV_E            2 VNQHLCGSHLVEALYLVCGERGFFYTP   28 (74)
+T ss_dssp             --CCCCHHHHHHHHHHHSSSSCCCC--
+T ss_pred             CCcCccchHHHHHHHHHHcccCCCCCC
+Confidence            468899999999999999999987643
+
+
+No 14
+>6PXW_E Insulin receptor (E.C.2.7.10.1), Insulin; insulin receptor, insulin, SIGNALING PROTEIN-HORMONE; 3.1A {Homo sapiens}
+Probab=97.76  E-value=1e-07  Score=55.36  Aligned_cols=27  Identities=100%  Similarity=1.770  Sum_probs=21.8  Template_Neff=7.600
+
+Q insulin          26 VNQHLCGSHLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        26 ~~qhLCGshLVdALylVCGdrGFfY~P   52 (54)
+                      +++++||.+|+++|.++|+++|+++.+
+T Consensus         2 ~~~~lCG~~L~~~l~~vC~~~~~~~~~   28 (74)
+T 6PXW_E            2 VNQHLCGSHLVEALYLVCGERGFFYTP   28 (74)
+T ss_dssp             --CCCCHHHHHHHHHHHSSSSCCCC--
+T ss_pred             CCcCccchHHHHHHHHHHcccCCCCCC
+Confidence            468899999999999999999987643
+
+
+No 15
+>5L3L_A Insulin-like growth factor II; IGF-II, cell cycle; NMR {Homo sapiens}
+Probab=97.74  E-value=1.1e-07  Score=55.36  Aligned_cols=28  Identities=43%  Similarity=1.083  Sum_probs=25.0  Template_Neff=6.700
+
+Q insulin          26 VNQHLCGSHLVEALYLVCGERGFFYTPK   53 (54)
+Q Consensus        26 ~~qhLCGshLVdALylVCGdrGFfY~Pk   53 (54)
+                      .++++||.+|+|+|.++|+++||++.++
+T Consensus         4 ~~~~lCG~~L~~~l~~vC~~~~~~~~~~   31 (67)
+T 5L3L_A            4 PSETLCGGELVDTLQFVCGDRGFYFSRP   31 (67)
+T ss_dssp             CCCCCCTHHHHHHHHHHHGGGCBCCCCC
+T ss_pred             CCccccchHHHHHHHHHHccCCCCCCCC
+Confidence            4789999999999999999999987664
+
+
+No 16
+>6INS_E PROTEIN; HORMONE; 2.0A {Sus scrofa} SCOP: g.1.1.1
+Probab=97.49  E-value=5.6e-07  Score=50.05  Aligned_cols=27  Identities=100%  Similarity=1.770  Sum_probs=23.8  Template_Neff=6.600
+
+Q insulin          26 VNQHLCGSHLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        26 ~~qhLCGshLVdALylVCGdrGFfY~P   52 (54)
+                      +++++||.+|++++..+|++++|++.+
+T Consensus         2 ~~~~~CG~~L~~~l~~vC~~~~~~~~~   28 (50)
+T 6INS_E            2 VNQHLCGSHLVEALYLVCGERGFFYTP   28 (50)
+T ss_dssp             CCSCCCTHHHHHHHHHHHGGGCEEECT
+T ss_pred             CCcccccHHHHHHHHHHHCCcCCCCCC
+Confidence            478999999999999999999987643
+
+
+No 17
+>1B9G_A GROWTH-FACTOR IGF-1; GROWTH FACTOR IGF-1, GROWTH FACTOR; NMR {Homo sapiens} SCOP: g.1.1.1
+Probab=97.33  E-value=1.4e-06  Score=50.07  Aligned_cols=26  Identities=50%  Similarity=1.197  Sum_probs=23.1  Template_Neff=6.100
+
+Q insulin          27 NQHLCGSHLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        27 ~qhLCGshLVdALylVCGdrGFfY~P   52 (54)
+                      ++++||.+|.+++..+|+++||+..+
+T Consensus         2 ~~~~CG~~L~~~l~~vC~~~~~~~~~   27 (57)
+T 1B9G_A            2 PETLCGAELVDALQFVCGDRGFYFNK   27 (57)
+T ss_pred             CcccccHHHHHHHHHHHCCCCCCCCC
+Confidence            67899999999999999999987543
+
+
+No 18
+>2H8B_B Insulin-like 3; INSULIN/RELAXIN SUPARFAMILY FOLD, HORMONE-GROWTH FACTOR; NMR {N/A}
+Probab=94.13  E-value=0.0099  Score=31.79  Aligned_cols=20  Identities=50%  Similarity=1.027  Sum_probs=18.3  Template_Neff=4.000
+
+Q insulin          26 VNQHLCGSHLVEALYLVCGE   45 (54)
+Q Consensus        26 ~~qhLCGshLVdALylVCGd   45 (54)
+                      ...++||-+|+-++..+||.
+T Consensus         5 ~~~KlCGr~lvRa~I~iCG~   24 (31)
+T 2H8B_B            5 MREKLCGHHFVRALVRVCGG   24 (31)
+T ss_pred             HHHhHhhHHHHHHHHHHhCC
+Confidence            46789999999999999996
+
+
+No 19
+>6BLQ_B H-2 class II histocompatibility antigen; INSULIN, TYPE I DIABETES, T; HET: NAG, EDO, IPA; 1.8A {Mus musculus}
+Probab=94.02  E-value=0.011  Score=39.04  Aligned_cols=15  Identities=80%  Similarity=1.376  Sum_probs=13.3  Template_Neff=9.100
+
+Q insulin          34 HLVEALYLVCGERGF   48 (54)
+Q Consensus        34 hLVdALylVCGdrGF   48 (54)
+                      |||+.||+|||+.|-
+T Consensus         1 ~~~~~~~~~~~~~~~   15 (221)
+T 6BLQ_B            1 HLVERLYLVCGEEGA   15 (221)
+T ss_dssp             CCEECCCCCCCCCCT
+T ss_pred             CceeeEEEEeccccc
+Confidence            689999999999874
+
+
+No 20
+>2MV1_B Relaxin B chain, Relaxin A; insulin/relaxin family fold, signalling protein; HET: PCA, NH2; NMR {N/A}
+Probab=93.96  E-value=0.012  Score=31.21  Aligned_cols=20  Identities=40%  Similarity=0.713  Sum_probs=18.1  Template_Neff=4.200
+
+Q insulin          26 VNQHLCGSHLVEALYLVCGE   45 (54)
+Q Consensus        26 ~~qhLCGshLVdALylVCGd   45 (54)
+                      ...++||-+|+-++..+||.
+T Consensus         6 ~~~KlCGr~lvR~~I~iCG~   25 (30)
+T 2MV1_B            6 EVIKLCGRELVRAQIAICGM   25 (30)
+T ss_pred             HHHHHHhHHHHHHHHHHHcC
+Confidence            46789999999999999996
+
+
+No 21
+>2KJI_A Probable insulin-like peptide beta-type 5; HORMONE, INSULIN LIKE PEPTIDE, C.; NMR {Caenorhabditis elegans}
+Probab=90.44  E-value=0.11  Score=29.06  Aligned_cols=20  Identities=30%  Similarity=0.788  Sum_probs=17.8  Template_Neff=6.400
+
+Q insulin          27 NQHLCGSHLVEALYLVCGER   46 (54)
+Q Consensus        27 ~qhLCGshLVdALylVCGdr   46 (54)
+                      .++.||.+|++.+..+|++.
+T Consensus         2 ~~r~CG~~l~~~i~~vCg~~   21 (50)
+T 2KJI_A            2 ETRACGRKLISLVMAVCGDL   21 (50)
+T ss_dssp             CCCCSHHHHHHHHHHHTSSS
+T ss_pred             CCCchhHHHHHHHHHHHCCc
+Confidence            46899999999999999973
+
+
+No 22
+>1H9H_I TRYPSIN (E.C.3.4.21.4), TRYPSIN INHIBITOR II; HYDROLASE INHIBITOR, COMPLEX (SERINE PROTEASE-INHIBITOR); 1.5A {SUS SCROFA} SCOP: g.3.2.1
+Probab=74.55  E-value=2.2  Score=23.95  Aligned_cols=12  Identities=50%  Similarity=1.046  Sum_probs=9.2  Template_Neff=1.200
+
+Q insulin          41 LVCGERGFFYTP   52 (54)
+Q Consensus        41 lVCGdrGFfY~P   52 (54)
+                      -||+++||--+|
+T Consensus        19 cvc~~ngfcgsp   30 (36)
+T 1H9H_I           19 CVCGPNGFCGSP   30 (36)
+T ss_dssp             CEECTTSBEECC
+T ss_pred             eeecCCCccCCC
+Confidence            479999987665
+
+
+No 23
+>6MSL_C Integrin alpha-V, Integrin beta-3; HYBRID DOMAIN, PSI, EGF REPEATS; HET: MAN, NAG, BMA; 3.104A {Homo sapiens}
+Probab=63.16  E-value=5.6  Score=21.78  Aligned_cols=8  Identities=63%  Similarity=1.389  Sum_probs=6.1  Template_Neff=1.000
+
+Q insulin          41 LVCGERGF   48 (54)
+Q Consensus        41 lVCGdrGF   48 (54)
+                      -|||.+||
+T Consensus        23 cvcgpngf   30 (32)
+T 6MSL_C           23 CVCGPNGF   30 (32)
+T ss_dssp             SCCCTTSC
+T ss_pred             ccccCCCc
+Confidence            47888887
+
+
+No 24
+>2M7T_A PROTEIN; Protein Engineering, Cystine Knot, Knottin; NMR {synthetic construct}
+Probab=61.18  E-value=6.5  Score=21.67  Aligned_cols=8  Identities=63%  Similarity=1.389  Sum_probs=6.1  Template_Neff=1.000
+
+Q insulin          41 LVCGERGF   48 (54)
+Q Consensus        41 lVCGdrGF   48 (54)
+                      -|||.+||
+T Consensus        24 cvcgpngf   31 (33)
+T 2M7T_A           24 CVCGPNGF   31 (33)
+T ss_dssp             CCBCTTSB
+T ss_pred             ccccCCCc
+Confidence            47888887
+
+
+No 25
+>5WMM_A NRPS, MbtH homologue; Nonribosomal peptide, Thiocoraline, Depsipeptide, Thiolation; HET: B6G, SAH; 2.9A {Micromonospora sp. ML1}
+Probab=53.95  E-value=10  Score=30.07  Aligned_cols=28  Identities=25%  Similarity=0.287  Sum_probs=24.4  Template_Neff=9.900
+
+Q insulin          24 AFVNQHLCGSHL-VEALYLVCGERGFFYT   51 (54)
+Q Consensus        24 a~~~qhLCGshL-VdALylVCGdrGFfY~   51 (54)
+                      +..+++.||..| .+++...|+++||...
+T Consensus       803 ~~~~~~~~~~~~~~~~~~~~~~~~g~~~~  831 (926)
+T 5WMM_A          803 CGVPTNVGGTPLDPHELASWGGQRGYSVH  831 (926)
+T ss_dssp             HTCCCCCCSCCBCHHHHHHHHHHTTEEEE
+T ss_pred             cCCCCCCCCCCCCHHHHHHhccccceEEE
+Confidence            445788999999 9999999999999754
+
+
+No 26
+>3M7O_A Lymphocyte antigen 86; BETA SHEET, Glycoprotein, Immunity, Inflammatory; HET: NDG, L9R, NAG, BEN; 1.65A {Mus musculus}
+Probab=44.06  E-value=19  Score=23.22  Aligned_cols=20  Identities=25%  Similarity=0.474  Sum_probs=14.8  Template_Neff=8.700
+
+Q insulin          28 QHLCGSHLVEALYLVCGERG   47 (54)
+Q Consensus        28 qhLCGshLVdALylVCGdrG   47 (54)
+                      +..|.++-.+.-+..|++.+
+T Consensus        30 ~~~~~~~~~~v~~~~C~~~~   49 (162)
+T 3M7O_A           30 HTACNSGGLEVVYQSCDPLQ   49 (162)
+T ss_dssp             EEEEEETTEEEEEEECCTTC
+T ss_pred             eEEEccCCcEEEeEeCCCCc
+Confidence            34898887777888888743
+
+
+No 27
+>3LB6_A Interleukin-13, Interleukin-13 receptor subunit alpha-2; cytokine, receptor, decoy, decoy receptor; HET: NAG, MLY; 3.05A {Homo sapiens}
+Probab=41.73  E-value=22  Score=25.04  Aligned_cols=15  Identities=33%  Similarity=0.377  Sum_probs=0.0  Template_Neff=2.500
+
+Q insulin           1 MALWMRLLPLLALLA   15 (54)
+Q Consensus         1 MalWl~~~~LL~Ll~   15 (54)
+                      ||+|+-++..|..+-
+T Consensus         1 MAlwlt~VialtClg   15 (132)
+T 3LB6_A            1 MALLLTTVIALTCLG   15 (132)
+T ss_dssp             ---------------
+T ss_pred             ChHHHHHHHHHHHhh
+Confidence            899998887776554
+
+
+No 28
+>3LB6_B Interleukin-13, Interleukin-13 receptor subunit alpha-2; cytokine, receptor, decoy, decoy receptor; HET: NAG; 3.05A {Homo sapiens}
+Probab=41.73  E-value=22  Score=25.04  Aligned_cols=15  Identities=33%  Similarity=0.377  Sum_probs=11.9  Template_Neff=2.500
+
+Q insulin           1 MALWMRLLPLLALLA   15 (54)
+Q Consensus         1 MalWl~~~~LL~Ll~   15 (54)
+                      ||+|+-++..|..+-
+T Consensus         1 MAlwlt~VialtClg   15 (132)
+T 3LB6_B            1 MALLLTTVIALTCLG   15 (132)
+T ss_pred             ChHHHHHHHHHHHhh
+Confidence            899998887776554
+
+
+No 29
+>3M0D_D TNF receptor-associated factor 2, TNF; trimeric helix coiled coiled, apoptosis; 2.8A {Homo sapiens}
+Probab=37.64  E-value=28  Score=19.68  Aligned_cols=7  Identities=57%  Similarity=1.274  Sum_probs=4.4  Template_Neff=8.600
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||.+
+T Consensus        29 aGFy~~~   35 (75)
+T 3M0D_D           29 AGFYYTG   35 (75)
+T ss_dssp             TTEEECS
+T ss_pred             hCeEEcC
+Confidence            4677654
+
+
+No 30
+>5MFY_A RNA-binding protein 5; splicing, ocre; NMR {Homo sapiens}
+Probab=36.42  E-value=30  Score=20.26  Aligned_cols=6  Identities=50%  Similarity=1.613  Sum_probs=2.4  Template_Neff=6.500
+
+Q insulin          47 GFFYTP   52 (54)
+Q Consensus        47 GFfY~P   52 (54)
+                      |++|.+
+T Consensus        30 g~yYDp   35 (64)
+T 5MFY_A           30 GLYYDP   35 (64)
+T ss_dssp             TEEECT
+T ss_pred             CeEEeC
+Confidence            344433
+
+
+No 31
+>3M0A_D TNF receptor-associated factor 2, Baculoviral; TRAF2: cIAP2 and the TRAF1:; 2.61A {Homo sapiens}
+Probab=33.22  E-value=36  Score=19.26  Aligned_cols=7  Identities=57%  Similarity=1.274  Sum_probs=4.3  Template_Neff=8.500
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||.+
+T Consensus        29 aGFy~~~   35 (75)
+T 3M0A_D           29 AGFYYTG   35 (75)
+T ss_pred             cCeEEcC
+Confidence            4677654
+
+
+No 32
+>1R0R_I subtilisin carlsberg (EC 3.4.21.62), ovomucoid; high resolution, serine protease, protein; 1.1A {Bacillus licheniformis} SCOP: g.68.1.1
+Probab=31.44  E-value=41  Score=16.14  Aligned_cols=6  Identities=67%  Similarity=1.370  Sum_probs=2.7  Template_Neff=10.600
+
+Q insulin          28 QHLCGS   33 (54)
+Q Consensus        28 qhLCGs   33 (54)
+                      ..+||+
+T Consensus        16 ~pvCg~   21 (51)
+T 1R0R_I           16 RPLCGS   21 (51)
+T ss_dssp             CCEEET
+T ss_pred             CCEEec
+Confidence            334554
+
+
+No 33
+>4J48_A E3 ubiquitin-protein ligase XIAP (E.C.6.3.2.-); IAP, XIAP, CASPASE, APOPTOSIS, SMAC; 2.1A {Homo sapiens}
+Probab=31.26  E-value=41  Score=19.68  Aligned_cols=7  Identities=43%  Similarity=1.037  Sum_probs=4.5  Template_Neff=8.300
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||..
+T Consensus        37 aGFyy~g   43 (86)
+T 4J48_A           37 AGLYYTG   43 (86)
+T ss_dssp             TTEEECS
+T ss_pred             cCEEECC
+Confidence            5777754
+
+
+No 34
+>2N71_A Protease inhibitor 2; non-classical Kazal-inhibitor, HYDROLASE INHIBITOR; NMR {Cenchritis muricatus}
+Probab=31.04  E-value=42  Score=16.26  Aligned_cols=9  Identities=56%  Similarity=1.246  Sum_probs=3.7  Template_Neff=10.300
+
+Q insulin          42 VCGERGFFY   50 (54)
+Q Consensus        42 VCGdrGFfY   50 (54)
+                      ||+..|..|
+T Consensus        17 vCg~~g~ty   25 (50)
+T 2N71_A           17 VCGSDGVTY   25 (50)
+T ss_dssp             EEETTTEEE
+T ss_pred             EEcCCCCEE
+Confidence            344444333
+
+
+No 35
+>3PIS_A Kazal-type serine protease inhibitor SPI-1; typical non-classical Kazal type inhibitor; 2.0A {Carcinoscorpius rotundicauda}
+Probab=30.42  E-value=43  Score=16.82  Aligned_cols=7  Identities=29%  Similarity=1.075  Sum_probs=3.2  Template_Neff=8.500
+
+Q insulin          28 QHLCGSH   34 (54)
+Q Consensus        28 qhLCGsh   34 (54)
+                      +.+||++
+T Consensus         8 ~PvCg~d   14 (42)
+T 3PIS_A            8 KPVCGAN   14 (42)
+T ss_dssp             CCEEBTT
+T ss_pred             CCeecCC
+Confidence            3345544
+
+
+No 36
+>4J44_A E3 ubiquitin-protein ligase XIAP (E.C.6.3.2.-); IAP, XIAP, CASPASE, APOPTOSIS, SMAC; 1.3A {Homo sapiens}
+Probab=30.09  E-value=44  Score=19.54  Aligned_cols=7  Identities=43%  Similarity=1.037  Sum_probs=4.4  Template_Neff=8.300
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||..
+T Consensus        37 aGFyy~g   43 (86)
+T 4J44_A           37 AGLYYTG   43 (86)
+T ss_dssp             TTEEECS
+T ss_pred             CCEEEcC
+Confidence            4677654
+
+
+No 37
+>5LUN_A Ethylene Forming Enzyme; 2-oxoglutarate and ferrous iron dependent; HET: GOL, ARG, OGA; 1.08A {Pseudomonas savastanoi pv. phaseolicola}
+Probab=29.33  E-value=47  Score=23.68  Aligned_cols=20  Identities=25%  Similarity=0.233  Sum_probs=15.1  Template_Neff=9.400
+
+Q insulin          33 SHLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        33 shLVdALylVCGdrGFfY~P   52 (54)
+                      ..+.+.+...|.+.|||+-.
+T Consensus        22 ~~~~~~l~~A~~~~Gff~l~   41 (352)
+T 5LUN_A           22 ISLGRALIQAWQKDGIFQIK   41 (352)
+T ss_dssp             HHHHHHHHHHHHHHSCEEEE
+T ss_pred             HHHHHHHHHHHHccceEEEE
+Confidence            35677788888999998753
+
+
+No 38
+>3QTL_D Subtilisin-like serin protease (E.C.3.4.21.62), Kazal-type; SERINE PROTEASE -KAZAL TYPE SERINE; 2.6A {Bacillus licheniformis}
+Probab=28.95  E-value=48  Score=18.51  Aligned_cols=11  Identities=45%  Similarity=0.911  Sum_probs=5.8  Template_Neff=8.900
+
+Q insulin          41 LVCGERGFFYT   51 (54)
+Q Consensus        41 lVCGdrGFfY~   51 (54)
+                      -||+..|..|.
+T Consensus         9 pVCg~dg~ty~   19 (75)
+T 3QTL_D            9 PVCGANGEVYD   19 (75)
+T ss_dssp             CEEBTTSCEES
+T ss_pred             CEEccCCCEEC
+Confidence            34555565554
+
+
+No 39
+>1DCS_A DEACETOXYCEPHALOSPORIN C SYNTHASE; FERROUS OXYGENASE, CEPHALOSPORIN, 2-OXOGLUTARATE, OXIDOREDUCTASE; HET: SO4; 1.3A {Streptomyces clavuligerus} SCOP: b.82.2.1
+Probab=28.04  E-value=51  Score=22.71  Aligned_cols=19  Identities=16%  Similarity=0.361  Sum_probs=15.5  Template_Neff=9.900
+
+Q insulin          34 HLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        34 hLVdALylVCGdrGFfY~P   52 (54)
+                      .+.+.|...|.+.|||+-.
+T Consensus        17 ~~~~~l~~A~~~~Gff~l~   35 (311)
+T 1DCS_A           17 LHQDEFRRCLRDKGLFYLT   35 (311)
+T ss_dssp             CSHHHHHHHHHHTCEEEEE
+T ss_pred             hHHHHHHHHHHhcCcEEEe
+Confidence            5678888889999998753
+
+
+No 40
+>1RXF_A DEACETOXYCEPHALOSPORIN C SYNTHASE; FERROUS OXYGENASE, CEPHALOSPORIN, 2-OXOGLUTARATE, ANTIBIOTICS; 1.5A {Streptomyces clavuligerus} SCOP: b.82.2.1
+Probab=28.04  E-value=51  Score=22.71  Aligned_cols=19  Identities=16%  Similarity=0.361  Sum_probs=15.5  Template_Neff=9.900
+
+Q insulin          34 HLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        34 hLVdALylVCGdrGFfY~P   52 (54)
+                      .+.+.|...|.+.|||+-.
+T Consensus        17 ~~~~~l~~A~~~~Gff~l~   35 (311)
+T 1RXF_A           17 LHQDEFRRCLRDKGLFYLT   35 (311)
+T ss_dssp             TTHHHHHHHHHHTCEEEEE
+T ss_pred             hHHHHHHHHHHhcCcEEEe
+Confidence            5678888889999998753
+
+
+No 41
+>1UNB_A DEACETOXYCEPHALOSPORIN C SYNTHETASE (E.C.1.14.20.1); OXIDOREDUCTASE, ANTIBIOTIC BIOSYNTHESIS; HET: AKG, PN1; 1.5A {STREPTOMYCES CLAVULIGERUS} SCOP: b.82.2.1
+Probab=28.04  E-value=51  Score=22.71  Aligned_cols=19  Identities=16%  Similarity=0.361  Sum_probs=15.5  Template_Neff=9.900
+
+Q insulin          34 HLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        34 hLVdALylVCGdrGFfY~P   52 (54)
+                      .+.+.|...|.+.|||+-.
+T Consensus        17 ~~~~~l~~A~~~~Gff~l~   35 (311)
+T 1UNB_A           17 LHQDEFRRCLRDKGLFYLT   35 (311)
+T ss_dssp             TTHHHHHHHHHHTCEEEEE
+T ss_pred             hHHHHHHHHHHhcCcEEEe
+Confidence            5678888889999998753
+
+
+No 42
+>5V2T_A 2-oxoglutarate-dependent ethylene/succinate-forming enzyme (E.C.1.13.12.19,1.14.11.34); ethylene biosynthesis, OXIDOREDUCTASE; HET: MSE, TLA; 1.227A {Pseudomonas savastanoi pv. phaseolicola}
+Probab=27.85  E-value=51  Score=23.54  Aligned_cols=19  Identities=26%  Similarity=0.277  Sum_probs=14.4  Template_Neff=9.300
+
+Q insulin          34 HLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        34 hLVdALylVCGdrGFfY~P   52 (54)
+                      .+.+.+...|.+.|||+-.
+T Consensus        23 ~~~~~l~~A~~~~Gff~l~   41 (352)
+T 5V2T_A           23 SLGRALIQAWQKDGIFQIK   41 (352)
+T ss_dssp             HHHHHHHHHHHHHSCEEEE
+T ss_pred             HHHHHHHHHHHccceEEEE
+Confidence            4567777788999998753
+
+
+No 43
+>5V2Z_A EFE (E.C.1.13.12.19); 2-oxoadipic acid, alpha-Ketoadipic acid, 2-oxohexanedioic; HET: OOG, ARG; 1.23A {Pseudomonas savastanoi pv. phaseolicola}
+Probab=27.85  E-value=51  Score=23.54  Aligned_cols=19  Identities=26%  Similarity=0.277  Sum_probs=14.4  Template_Neff=9.300
+
+Q insulin          34 HLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        34 hLVdALylVCGdrGFfY~P   52 (54)
+                      .+.+.+...|.+.|||+-.
+T Consensus        23 ~~~~~l~~A~~~~Gff~l~   41 (352)
+T 5V2Z_A           23 SLGRALIQAWQKDGIFQIK   41 (352)
+T ss_dssp             HHHHHHHHHHHHHSCEEEE
+T ss_pred             HHHHHHHHHHHccceEEEE
+Confidence            4567777788999998753
+
+
+No 44
+>6JYV_A Probable iron/ascorbate oxidoreductase; Iron binding  isopenicillin N; 1.651A {Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)}
+Probab=26.53  E-value=56  Score=22.87  Aligned_cols=18  Identities=33%  Similarity=0.761  Sum_probs=14.2  Template_Neff=9.800
+
+Q insulin          34 HLVEALYLVCGERGFFYT   51 (54)
+Q Consensus        34 hLVdALylVCGdrGFfY~   51 (54)
+                      .+.+.|...|.+.|||+-
+T Consensus        29 ~~~~~l~~A~~~~Gff~l   46 (339)
+T 6JYV_A           29 SVAVRIDRACREQGFFYV   46 (339)
+T ss_dssp             HHHHHHHHHHHHTSEEEE
+T ss_pred             HHHHHHHHHHHhhCeEEE
+Confidence            566777788899999874
+
+
+No 45
+>4HGU_A Silk protease inhibitor 2; KAZAL-TYPE SERINE PROTEASE INHIBITOR, HYDROLASE; 0.98A {Galleria mellonella}
+Probab=26.16  E-value=58  Score=15.44  Aligned_cols=7  Identities=29%  Similarity=0.961  Sum_probs=3.0  Template_Neff=9.600
+
+Q insulin          28 QHLCGSH   34 (54)
+Q Consensus        28 qhLCGsh   34 (54)
+                      +.+||++
+T Consensus        10 ~pvCg~~   16 (40)
+T 4HGU_A           10 DPVCGKD   16 (40)
+T ss_dssp             CCEEETT
+T ss_pred             CCEEcCC
+Confidence            3345443
+
+
+No 46
+>2GKT_I Ovomucoid; reactive-site loop, alpha-helix, antiparallel beta-sheet; 1.23A {Meleagris gallopavo}
+Probab=25.96  E-value=59  Score=15.42  Aligned_cols=6  Identities=67%  Similarity=1.370  Sum_probs=2.8  Template_Neff=10.800
+
+Q insulin          28 QHLCGS   33 (54)
+Q Consensus        28 qhLCGs   33 (54)
+                      +.+||+
+T Consensus        16 ~pvCg~   21 (51)
+T 2GKT_I           16 RPLCGS   21 (51)
+T ss_dssp             CCEEET
+T ss_pred             CCEEEc
+Confidence            344554
+
+
+No 47
+>2GKV_A Streptogrisin B (E.C.3.4.21.81), Ovomucoid; beta-barrels, catalytic triad, substrate-binding region; 1.7A {Streptomyces griseus}
+Probab=25.96  E-value=59  Score=15.42  Aligned_cols=6  Identities=67%  Similarity=1.370  Sum_probs=2.8  Template_Neff=10.800
+
+Q insulin          28 QHLCGS   33 (54)
+Q Consensus        28 qhLCGs   33 (54)
+                      +.+||+
+T Consensus        16 ~pvCg~   21 (51)
+T 2GKV_A           16 RPLCGS   21 (51)
+T ss_pred             CCEEEc
+Confidence            344554
+
+
+No 48
+>3M1D_A Baculoviral IAP repeat-containing protein 2; BIR, IAP, Apoptosis, Zinc-finger, METAL; 2.0A {Homo sapiens}
+Probab=25.65  E-value=60  Score=19.02  Aligned_cols=7  Identities=57%  Similarity=1.274  Sum_probs=4.3  Template_Neff=8.200
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||.+
+T Consensus        36 aGFy~~~   42 (85)
+T 3M1D_A           36 AGFYYTG   42 (85)
+T ss_pred             cCeeeCC
+Confidence            4677654
+
+
+No 49
+>5DAE_A AAEL006007-PA; inhibitor, Kazal, trypsin, anticoagulant, PROTEIN; 1.4A {Aedes aegypti}
+Probab=24.93  E-value=63  Score=17.45  Aligned_cols=10  Identities=40%  Similarity=0.587  Sum_probs=4.6  Template_Neff=9.000
+
+Q insulin          41 LVCGERGFFY   50 (54)
+Q Consensus        41 lVCGdrGFfY   50 (54)
+                      -||+..|..|
+T Consensus        13 pVCgsdg~ty   22 (65)
+T 5DAE_A           13 PVCGSNLKTY   22 (65)
+T ss_dssp             CEEETTSCEE
+T ss_pred             CEECCCCCEE
+Confidence            3455444444
+
+
+No 50
+>6TTN_A Hyoscyamine 6 beta-hydroxylase; jelly-roll, non-heme, 2-oxoglutarate, OXIDOREDUCTASE; HET: HYO, OGA, EDO; 1.12A {Datura metel}
+Probab=24.31  E-value=66  Score=22.17  Aligned_cols=19  Identities=21%  Similarity=0.466  Sum_probs=15.0  Template_Neff=10.000
+
+Q insulin          33 SHLVEALYLVCGERGFFYT   51 (54)
+Q Consensus        33 shLVdALylVCGdrGFfY~   51 (54)
+                      ....+.|...|.+-|||+-
+T Consensus        15 ~~~~~~l~~A~~~~Gff~l   33 (317)
+T 6TTN_A           15 LLIVQQITKACQDFGLFQV   33 (317)
+T ss_dssp             HHHHHHHHHHHHHTSEEEE
+T ss_pred             HHHHHHHHHHHHhhCcEEE
+Confidence            4567788888999999874
+
+
+No 51
+>6TTO_A Hyoscyamine 6 beta-hydroxylase; jelly-roll, non-heme, 2-oxoglutarate, OXIDOREDUCTASE; HET: AKG, EDO; 1.31A {Datura metel}
+Probab=24.31  E-value=66  Score=22.17  Aligned_cols=19  Identities=21%  Similarity=0.466  Sum_probs=15.0  Template_Neff=10.000
+
+Q insulin          33 SHLVEALYLVCGERGFFYT   51 (54)
+Q Consensus        33 shLVdALylVCGdrGFfY~   51 (54)
+                      ....+.|...|.+-|||+-
+T Consensus        15 ~~~~~~l~~A~~~~Gff~l   33 (317)
+T 6TTO_A           15 LLIVQQITKACQDFGLFQV   33 (317)
+T ss_dssp             HHHHHHHHHHHHHTSCCEE
+T ss_pred             HHHHHHHHHHHHhhCcEEE
+Confidence            4567788888999999874
+
+
+No 52
+>4KMN_A Baculoviral IAP repeat-containing protein 2; apoptosis, cIAP1-BIR3, LIGASE-LIGASE INHIBITOR complex; HET: 436; 1.523A {Homo sapiens}
+Probab=24.23  E-value=66  Score=19.76  Aligned_cols=7  Identities=43%  Similarity=1.156  Sum_probs=4.7  Template_Neff=7.800
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||.+
+T Consensus        37 aGFy~~g   43 (103)
+T 4KMN_A           37 AGFYYVG   43 (103)
+T ss_dssp             TTEEECS
+T ss_pred             CCeEEcc
+Confidence            5777764
+
+
+No 53
+>4WVT_A XIAP, 3,11-DIFLUORO-6,8,13-TRIMETHYL-8H-QUINO[4,3,2-KL]ACRIDIN-13-IUM; IAP, XIAP-BIR2, APOPTOSIS; HET: MAA, 3V7; 1.96A {Homo sapiens}
+Probab=23.79  E-value=68  Score=19.83  Aligned_cols=7  Identities=43%  Similarity=1.037  Sum_probs=4.4  Template_Neff=7.300
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||..
+T Consensus        54 aGFyy~g   60 (98)
+T 4WVT_A           54 AGLYYTG   60 (98)
+T ss_dssp             TTEEECS
+T ss_pred             CCEEECC
+Confidence            5677654
+
+
+No 54
+>4WVU_A XIAP, 3,11-DIFLUORO-6,8,13-TRIMETHYL-8H-QUINO[4,3,2-KL]ACRIDIN-13-IUM; IAP, XIAP-BIR2, APOPTOSIS; HET: 3V8, GOL, MAA, HOX; 2.02A {Homo sapiens}
+Probab=23.79  E-value=68  Score=19.83  Aligned_cols=7  Identities=43%  Similarity=1.037  Sum_probs=4.4  Template_Neff=7.300
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||..
+T Consensus        54 aGFyy~g   60 (98)
+T 4WVU_A           54 AGLYYTG   60 (98)
+T ss_dssp             TTEEEEE
+T ss_pred             CCEEECC
+Confidence            5677654
+
+
+No 55
+>2POI_A Baculoviral IAP repeat-containing protein 4; Zinc finger, SIGNALING PROTEIN-APOPTOSIS COMPLEX; 1.8A {Homo sapiens}
+Probab=23.27  E-value=71  Score=19.37  Aligned_cols=7  Identities=57%  Similarity=1.127  Sum_probs=4.2  Template_Neff=7.700
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||..
+T Consensus        45 aGFy~~g   51 (94)
+T 2POI_A           45 AGFLYTG   51 (94)
+T ss_dssp             TTEEECS
+T ss_pred             cCcEEcC
+Confidence            4677654
+
+
+No 56
+>2KMO_A Leech-derived tryptase inhibitor C; Disulfide bond, Protease inhibitor, Serine; NMR {Hirudo medicinalis}
+Probab=22.54  E-value=75  Score=15.09  Aligned_cols=9  Identities=56%  Similarity=1.125  Sum_probs=4.0  Template_Neff=10.000
+
+Q insulin          42 VCGERGFFY   50 (54)
+Q Consensus        42 VCGdrGFfY   50 (54)
+                      +|+..|..|
+T Consensus        13 vC~~~g~ty   21 (44)
+T 2KMO_A           13 VCGSDGRTY   21 (44)
+T ss_dssp             EEETTSCEE
+T ss_pred             EEcCCCCEE
+Confidence            444444443
+
+
+No 57
+>2POP_D Mitogen-activated protein kinase kinase kinase; Zinc finger, PP2C-like domain, BIR; 3.1A {Homo sapiens}
+Probab=22.30  E-value=76  Score=19.33  Aligned_cols=7  Identities=57%  Similarity=1.127  Sum_probs=4.2  Template_Neff=7.600
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||.+
+T Consensus        45 aGFy~~g   51 (95)
+T 2POP_D           45 AGFLYTG   51 (95)
+T ss_dssp             TTEEECS
+T ss_pred             cCcEEcC
+Confidence            4677654
+
+
+No 58
+>3HL5_B Baculoviral IAP repeat-containing protein 4; BIR, IAP, apoptosis, small molecule; HET: 9JZ; 1.8A {Homo sapiens}
+Probab=22.24  E-value=77  Score=19.14  Aligned_cols=7  Identities=29%  Similarity=0.619  Sum_probs=4.5  Template_Neff=7.900
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||..
+T Consensus        36 aGFyy~g   42 (95)
+T 3HL5_B           36 AGFYALG   42 (95)
+T ss_dssp             TTEEECS
+T ss_pred             cCeEEcC
+Confidence            5777754
+
+
+No 59
+>2KCX_A Follistatin-related protein 3; Kazal-1, Follistatin, Glycoprotein, Nucleus, Proto-oncogene; NMR {Homo sapiens}
+Probab=22.19  E-value=77  Score=17.36  Aligned_cols=12  Identities=42%  Similarity=0.819  Sum_probs=7.1  Template_Neff=9.300
+
+Q insulin          40 YLVCGERGFFYT   51 (54)
+Q Consensus        40 ylVCGdrGFfY~   51 (54)
+                      .-||+..|..|.
+T Consensus        37 ~pVCgsdg~ty~   48 (74)
+T 2KCX_A           37 LQVCGSDGATYR   48 (74)
+T ss_dssp             CCEEETTSCEES
+T ss_pred             cCEecCCCCEeC
+Confidence            456666666554
+
+
+No 60
+>1QBH_A INHIBITOR OF APOPTOSIS PROTEIN (2MIHB/C-IAP-1); INHIBITOR OF APOPTOSIS (IAP), BACULOVIRAL; HET: ZN; NMR {Homo sapiens} SCOP: g.52.1.1
+Probab=22.17  E-value=77  Score=19.28  Aligned_cols=7  Identities=43%  Similarity=1.156  Sum_probs=4.5  Template_Neff=8.000
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||..
+T Consensus        31 aGFyy~g   37 (101)
+T 1QBH_A           31 AGFYYVG   37 (101)
+T ss_dssp             HTCTTSS
+T ss_pred             CCeEEcc
+Confidence            5777754
+
+
+No 61
+>4MTZ_D E3 ubiquitin-protein ligase XIAP; BIR domain, Anti-apoptotic, TAB1, LIGASE-LIGASE; HET: 0BU; 2.1A {Homo sapiens}
+Probab=22.15  E-value=77  Score=20.36  Aligned_cols=7  Identities=57%  Similarity=1.127  Sum_probs=4.2  Template_Neff=6.700
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||.+
+T Consensus        62 AGFyytg   68 (111)
+T 4MTZ_D           62 AGFLYTG   68 (111)
+T ss_dssp             TTEEECS
+T ss_pred             cCcEEcC
+Confidence            4676654
+
+
+No 62
+>6GJW_B E3 ubiquitin-protein ligase XIAP (E.C.2.3.2.27); BIR  NF-KB  XIAP; HET: F2H; 1.9A {Homo sapiens}
+Probab=22.15  E-value=77  Score=20.36  Aligned_cols=7  Identities=57%  Similarity=1.127  Sum_probs=4.2  Template_Neff=6.700
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||.+
+T Consensus        62 AGFyytg   68 (111)
+T 6GJW_B           62 AGFLYTG   68 (111)
+T ss_dssp             TTEEECS
+T ss_pred             cCcEEcC
+Confidence            4676654
+
+
+No 63
+>2F3C_I Cationic trypsin (E.C.3.4.21.4), thrombin inhibitor; serine protease - inhibitor complex; HET: SO4; 2.5A {Bos taurus} SCOP: g.68.1.1
+Probab=22.01  E-value=78  Score=15.45  Aligned_cols=8  Identities=50%  Similarity=0.945  Sum_probs=3.2  Template_Neff=10.500
+
+Q insulin          42 VCGERGFF   49 (54)
+Q Consensus        42 VCGdrGFf   49 (54)
+                      +|+..|-.
+T Consensus        15 vCg~~g~~   22 (55)
+T 2F3C_I           15 VCGSDGNT   22 (55)
+T ss_pred             EEecCCCE
+Confidence            34444433
+
+
+No 64
+>3ZYY_X IRON-SULFUR CLUSTER BINDING PROTEIN; IRON-SULFUR-BINDING PROTEIN, ASHKA FAMILY, ATPASE; HET: BU3, PO4, SO4; 2.2A {CARBOXYDOTHERMUS HYDROGENOFORMANS}
+Probab=21.56  E-value=81  Score=26.02  Aligned_cols=17  Identities=29%  Similarity=0.497  Sum_probs=14.5  Template_Neff=6.800
+
+Q insulin          26 VNQHLCGSHLVEALYLV   42 (54)
+Q Consensus        26 ~~qhLCGshLVdALylV   42 (54)
+                      .+..+|||-++|+++..
+T Consensus       440 ~p~GicGSGlid~va~l  456 (631)
+T 3ZYY_X          440 PPVGICGSGLIDLLANL  456 (631)
+T ss_dssp             CCSEECHHHHHHHHHHH
+T ss_pred             CCCccChHHHHHHHHHH
+Confidence            57889999999998754
+
+
+No 65
+>4C1N_K CARBON MONOXIDE DEHYDROGENASE CORRINOID/IRON-SULFUR PROTEIN; OXIDOREDUCTASE-METAL BINDING PROTEIN COMPLEX; HET: SF4, B12; 2.53A {CARBOXYDOTHERMUS HYDROGENOFORMANS}
+Probab=21.38  E-value=82  Score=25.60  Aligned_cols=17  Identities=29%  Similarity=0.497  Sum_probs=14.3  Template_Neff=6.200
+
+Q insulin          26 VNQHLCGSHLVEALYLV   42 (54)
+Q Consensus        26 ~~qhLCGshLVdALylV   42 (54)
+                      .+..+|||-++|+++..
+T Consensus       320 ~p~GICGSGlid~vA~L  336 (510)
+T 4C1N_K          320 PPVGICGSGLIDLLANL  336 (510)
+T ss_dssp             CCCEEEHHHHHHHHHHH
+T ss_pred             CCCccCHHHHHHHHHHH
+Confidence            57789999999998754
+
+
+No 66
+>1GP6_A LEUCOANTHOCYANIDIN DIOXYGENASE (E.C.1.14.11.19); OXIDOREDUCTASE, OXYGENASE, 2-OXOGLUTARATE DEPENDENT DIOXYGENASE; HET: DH2, QUE, MES; 1.75A {ARABIDOPSIS THALIANA} SCOP: b.82.2.1
+Probab=21.28  E-value=83  Score=22.45  Aligned_cols=19  Identities=16%  Similarity=0.095  Sum_probs=14.8  Template_Neff=9.500
+
+Q insulin          34 HLVEALYLVCGERGFFYTP   52 (54)
+Q Consensus        34 hLVdALylVCGdrGFfY~P   52 (54)
+                      ...+.|...|.+.|||+-.
+T Consensus        65 ~~~~~l~~A~~~~Gff~l~   83 (356)
+T 1GP6_A           65 NCIEELKKASLDWGVMHLI   83 (356)
+T ss_dssp             HHHHHHHHHHHHTSEEEEE
+T ss_pred             HHHHHHHHHHhcccEEEEE
+Confidence            4667788888999998753
+
+
+No 67
+>3LYU_C Putative hydrogenase; The C-terminal has an alpha-beta; HET: MSE; 2.3A {Pyrococcus furiosus}
+Probab=21.20  E-value=83  Score=18.55  Aligned_cols=14  Identities=21%  Similarity=0.064  Sum_probs=9.7  Template_Neff=10.600
+
+Q insulin          36 VEALYLVCGERGFF   49 (54)
+Q Consensus        36 VdALylVCGdrGFf   49 (54)
+                      .+..+++||..+|.
+T Consensus       107 ~~~~v~vcG~~~~~  120 (142)
+T 3LYU_C          107 DWDLVFMVGPVGDQ  120 (142)
+T ss_dssp             CCSEEEEESCHHHH
+T ss_pred             CCeEEEEECCHHHH
+Confidence            45567888887654
+
+
+No 68
+>3LYU_D Putative hydrogenase; The C-terminal has an alpha-beta; HET: MSE; 2.3A {Pyrococcus furiosus}
+Probab=21.20  E-value=83  Score=18.55  Aligned_cols=14  Identities=21%  Similarity=0.064  Sum_probs=9.7  Template_Neff=10.600
+
+Q insulin          36 VEALYLVCGERGFF   49 (54)
+Q Consensus        36 VdALylVCGdrGFf   49 (54)
+                      .+..+++||..+|.
+T Consensus       107 ~~~~v~vcG~~~~~  120 (142)
+T 3LYU_D          107 DWDLVFMVGPVGDQ  120 (142)
+T ss_dssp             CCSEEEEESCHHHH
+T ss_pred             CCeEEEEECCHHHH
+Confidence            45567888887654
+
+
+No 69
+>2DK7_A Transcription elongation regulator 1; structural genomics, WW domain, Transcription; NMR {Homo sapiens}
+Probab=21.19  E-value=83  Score=18.49  Aligned_cols=9  Identities=67%  Similarity=1.254  Sum_probs=5.0  Template_Neff=7.200
+
+Q insulin          46 RGFFYTPKT   54 (54)
+Q Consensus        46 rGFfY~Pkt   54 (54)
+                      +-|||+..|
+T Consensus        31 ~~yYyN~~T   39 (73)
+T 2DK7_A           31 RVFFYNPTT   39 (73)
+T ss_dssp             CEEEEETTT
+T ss_pred             CEEEEeCCC
+Confidence            456666543
+
+
+No 70
+>3ZYY_Y IRON-SULFUR CLUSTER BINDING PROTEIN; IRON-SULFUR-BINDING PROTEIN, ASHKA FAMILY, ATPASE; HET: PO4, SO4, BU3; 2.2A {CARBOXYDOTHERMUS HYDROGENOFORMANS}
+Probab=21.02  E-value=84  Score=25.92  Aligned_cols=17  Identities=29%  Similarity=0.497  Sum_probs=14.5  Template_Neff=6.800
+
+Q insulin          26 VNQHLCGSHLVEALYLV   42 (54)
+Q Consensus        26 ~~qhLCGshLVdALylV   42 (54)
+                      .+..+|||-++|+++..
+T Consensus       440 ~p~GiCGSGlid~va~l  456 (631)
+T 3ZYY_Y          440 PPVGICGSGLIDLLANL  456 (631)
+T ss_dssp             CCCEECHHHHHHHHHHH
+T ss_pred             CCCccCHHHHHHHHHHH
+Confidence            57889999999998754
+
+
+No 71
+>1TBR_R THROMBIN, RHODNIIN; COMPLEX (SERINE PROTEASE-INHIBITOR), KAZAL-TYPE INHIBITOR; 2.6A {Bos taurus} SCOP: g.68.1.1
+Probab=20.95  E-value=85  Score=17.92  Aligned_cols=13  Identities=31%  Similarity=0.608  Sum_probs=7.4  Template_Neff=9.900
+
+Q insulin          39 LYLVCGERGFFYT   51 (54)
+Q Consensus        39 LylVCGdrGFfY~   51 (54)
+                      ..-||+..|..|.
+T Consensus        65 ~~pvCgsdg~ty~   77 (103)
+T 1TBR_R           65 YKPVCGSDDITYD   77 (103)
+T ss_dssp             CCCEEETTTEEES
+T ss_pred             cccEEccCCCEEC
+Confidence            3456666665554
+
+
+No 72
+>2QRA_A Baculoviral IAP repeat-containing protein 4; Apoptosis, Signaling protein, Zinc binding; HET: EOH; 2.5A {Homo sapiens}
+Probab=20.34  E-value=89  Score=20.09  Aligned_cols=7  Identities=57%  Similarity=1.127  Sum_probs=4.2  Template_Neff=6.700
+
+Q insulin          46 RGFFYTP   52 (54)
+Q Consensus        46 rGFfY~P   52 (54)
+                      .||||..
+T Consensus        62 AGFyytg   68 (111)
+T 2QRA_A           62 AGFLYTG   68 (111)
+T ss_dssp             TTEEECS
+T ss_pred             cCeEeCC
+Confidence            4676654
+
+

@@ -1,0 +1,1354 @@
+# STOCKHOLM 1.0
+
+#=GS UniRef90_L5LRB0/1-53           DE [subseq from] Insulin n=1 Tax=Myotis davidii TaxID=225400 RepID=L5LRB0_MYODS
+#=GS UniRef90_L5LRB0/84-113         DE [subseq from] Insulin n=1 Tax=Myotis davidii TaxID=225400 RepID=L5LRB0_MYODS
+#=GS UniRef90_UPI001D0465D7/1-53    DE [subseq from] insulin-like growth factor II-B isoform X1 n=2 Tax=Equus TaxID=9789 RepID=UPI001D0465D7
+#=GS UniRef90_UPI001D0465D7/198-242 DE [subseq from] insulin-like growth factor II-B isoform X1 n=2 Tax=Equus TaxID=9789 RepID=UPI001D0465D7
+#=GS UniRef90_A0A485P8Y2/1-53       DE [subseq from] Insulin n=2 Tax=Felinae TaxID=338152 RepID=A0A485P8Y2_LYNPA
+#=GS UniRef90_A0A485P8Y2/200-245    DE [subseq from] Insulin n=2 Tax=Felinae TaxID=338152 RepID=A0A485P8Y2_LYNPA
+#=GS UniRef90_L5LR50/1-41           DE [subseq from] Insulin n=1 Tax=Myotis davidii TaxID=225400 RepID=L5LR50_MYODS
+#=GS UniRef90_L5LR50/40-68          DE [subseq from] Insulin n=1 Tax=Myotis davidii TaxID=225400 RepID=L5LR50_MYODS
+#=GS UniRef90_A0A9E9AQX1/1-54       DE [subseq from] INS (Fragment) n=3 Tax=Hominidae TaxID=9604 RepID=A0A9E9AQX1_HUMAN
+#=GS UniRef90_P01308/1-54           DE [subseq from] Insulin n=14 Tax=Catarrhini TaxID=9526 RepID=INS_HUMAN
+#=GS UniRef90_A0A2R9C3W5/1-54       DE [subseq from] Insulin n=5 Tax=Hominidae TaxID=9604 RepID=A0A2R9C3W5_PANPA
+#=GS UniRef90_F8WCM5/1-54           DE [subseq from] Insulin, isoform 2 n=8 Tax=Hominoidea TaxID=314295 RepID=INSR2_HUMAN
+#=GS UniRef90_Q8HXV2/1-54           DE [subseq from] Insulin n=16 Tax=Boreoeutheria TaxID=1437010 RepID=INS_PONPY
+#=GS UniRef90_P30410/1-54           DE [subseq from] Insulin n=11 Tax=Euarchontoglires TaxID=314146 RepID=INS_PANTR
+#=GS UniRef90_UPI0005F37D96/1-54    DE [subseq from] insulin isoform X4 n=1 Tax=Colobus angolensis palliatus TaxID=336983 RepID=UPI0005F37D96
+#=GS UniRef90_G7PNW8/1-54           DE [subseq from] Insulin-like domain-containing protein n=4 Tax=Cercopithecidae TaxID=9527 RepID=G7PNW8_MACFA
+#=GS UniRef90_P30407/1-54           DE [subseq from] Insulin n=7 Tax=Cercopithecidae TaxID=9527 RepID=INS_CHLAE
+#=GS UniRef90_B5FWC2/1-53           DE [subseq from] Insulin n=3 Tax=Lorisiformes TaxID=376917 RepID=B5FWC2_OTOGA
+#=GS UniRef90_A0A8D2GB84/1-54       DE [subseq from] Insulin n=9 Tax=Cercopithecidae TaxID=9527 RepID=A0A8D2GB84_THEGE
+#=GS UniRef90_A0A8B7EXV1/1-54       DE [subseq from] Insulin n=5 Tax=Lemuriformes TaxID=376915 RepID=A0A8B7EXV1_MICMU
+#=GS UniRef90_UPI002A5AD54E/1-52    DE [subseq from] uncharacterized protein LOC133133247 n=1 Tax=Conger conger TaxID=82655 RepID=UPI002A5AD54E
+#=GS UniRef90_UPI002A5AD54E/277-328 DE [subseq from] uncharacterized protein LOC133133247 n=1 Tax=Conger conger TaxID=82655 RepID=UPI002A5AD54E
+#=GS UniRef90_A0A8C2N454/1-54       DE [subseq from] Insulin n=1 Tax=Cricetulus griseus TaxID=10029 RepID=A0A8C2N454_CRIGR
+#=GS UniRef90_UPI001B34E99A/1-53    DE [subseq from] insulin n=3 Tax=Ochotona TaxID=9977 RepID=UPI001B34E99A
+#=GS UniRef90_A0A1A6FUB4/1-54       DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Neotoma lepida TaxID=56216 RepID=A0A1A6FUB4_NEOLE
+#=GS UniRef90_A0A8C9UNC8/1-54       DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Spermophilus dauricus TaxID=99837 RepID=A0A8C9UNC8_SPEDA
+#=GS UniRef90_A0A8C3WAF9/1-53       DE [subseq from] Insulin n=3 Tax=Bilateria TaxID=33213 RepID=A0A8C3WAF9_9CETA
+#=GS UniRef90_A0ELZ1/1-54           DE [subseq from] Insulin n=4 Tax=Muroidea TaxID=337687 RepID=A0ELZ1_MICKK
+#=GS UniRef90_A0A8B8Y4P9/1-53       DE [subseq from] Insulin n=2 Tax=Mysticeti TaxID=9761 RepID=A0A8B8Y4P9_BALMU
+#=GS UniRef90_UPI0004D042A8/1-53    DE [subseq from] insulin, isoform 2-like n=2 Tax=Cynocephalidae TaxID=30657 RepID=UPI0004D042A8
+#=GS UniRef90_M3Y2P2/1-53           DE [subseq from] Insulin n=7 Tax=Mustelidae TaxID=9655 RepID=M3Y2P2_MUSPF
+#=GS UniRef90_UPI0003F0EB1C/1-54    DE [subseq from] insulin n=1 Tax=Elephantulus edwardii TaxID=28737 RepID=UPI0003F0EB1C
+#=GS UniRef90_A0A8C4KSY9/1-53       DE [subseq from] Insulin n=2 Tax=Equus TaxID=9789 RepID=A0A8C4KSY9_EQUAS
+#=GS UniRef90_P01315/1-53           DE [subseq from] Insulin n=2 Tax=Sus scrofa TaxID=9823 RepID=INS_PIG
+#=GS UniRef90_UPI00188EEF0E/1-53    DE [subseq from] LOW QUALITY PROTEIN: insulin n=1 Tax=Talpa occidentalis TaxID=50954 RepID=UPI00188EEF0E
+#=GS UniRef90_Q91XI3/1-54           DE [subseq from] Insulin n=8 Tax=Sciuridae TaxID=55153 RepID=INS_ICTTR
+#=GS UniRef90_P67972/1-54           DE [subseq from] Insulin n=5 Tax=Platyrrhini TaxID=9479 RepID=INS_AOTTR
+#=GS UniRef90_A0A2K5DMS7/1-54       DE [subseq from] Insulin n=2 Tax=Aotus nancymaae TaxID=37293 RepID=A0A2K5DMS7_AOTNA
+#=GS UniRef90_G3HXZ8/139-192        DE [subseq from] Insulin n=3 Tax=Muroidea TaxID=337687 RepID=G3HXZ8_CRIGR
+#=GS UniRef90_P01321/1-53           DE [subseq from] Insulin n=13 Tax=Carnivora TaxID=33554 RepID=INS_CANLF
+#=GS UniRef90_UPI0021E38EA2/1-54    DE [subseq from] insulin n=1 Tax=Phodopus roborovskii TaxID=109678 RepID=UPI0021E38EA2
+#=GS UniRef90_UPI0007672009/1-53    DE [subseq from] insulin n=1 Tax=Myotis davidii TaxID=225400 RepID=UPI0007672009
+#=GS UniRef90_UPI0028BEFF68/1-53    DE [subseq from] insulin n=1 Tax=Balaenoptera ricei TaxID=2746895 RepID=UPI0028BEFF68
+#=GS UniRef90_A0A2Y9PTW5/1-53       DE [subseq from] Insulin n=12 Tax=Artiodactyla TaxID=91561 RepID=A0A2Y9PTW5_DELLE
+#=GS UniRef90_A0A8C0NNU2/123-175    DE [subseq from] Insulin n=2 Tax=Canis lupus familiaris TaxID=9615 RepID=A0A8C0NNU2_CANLF
+#=GS UniRef90_UPI00174E3F67/1-53    DE [subseq from] insulin-like n=3 Tax=Vespertilionidae TaxID=9431 RepID=UPI00174E3F67
+#=GS UniRef90_A0A1S3FKC1/1-54       DE [subseq from] Insulin n=4 Tax=Rodentia TaxID=9989 RepID=A0A1S3FKC1_DIPOR
+#=GS UniRef90_A0A7J8ERN5/1-53       DE [subseq from] Insulin n=1 Tax=Molossus molossus TaxID=27622 RepID=A0A7J8ERN5_MOLMO
+#=GS UniRef90_A0A836CT95/1-53       DE [subseq from] Insulin n=2 Tax=Ovis TaxID=9935 RepID=A0A836CT95_SHEEP
+#=GS UniRef90_Q62587/1-53           DE [subseq from] Insulin n=3 Tax=Gerbillinae TaxID=10045 RepID=INS_PSAOB
+#=GS UniRef90_A0A4V5PB51/40-92      DE [subseq from] Insulin (Fragment) n=1 Tax=Monodon monoceros TaxID=40151 RepID=A0A4V5PB51_MONMO
+#=GS UniRef90_UPI0003C030E3/1-53    DE [subseq from] insulin n=1 Tax=Bos mutus TaxID=72004 RepID=UPI0003C030E3
+#=GS UniRef90_A0A6B0RRD4/1-53       DE [subseq from] Insulin n=1 Tax=Bos mutus TaxID=72004 RepID=A0A6B0RRD4_9CETA
+#=GS UniRef90_L5KR12/1-53           DE [subseq from] Insulin n=1 Tax=Pteropus alecto TaxID=9402 RepID=L5KR12_PTEAL
+#=GS UniRef90_A5PJB2/1-53           DE [subseq from] Insulin n=6 Tax=Bovinae TaxID=27592 RepID=A5PJB2_BOVIN
+#=GS UniRef90_UPI0023EDE615/1-53    DE [subseq from] insulin n=4 Tax=Microchiroptera TaxID=30560 RepID=UPI0023EDE615
+#=GS UniRef90_A0A8J6ANK6/1-53       DE [subseq from] Insulin n=1 Tax=Galemys pyrenaicus TaxID=202257 RepID=A0A8J6ANK6_GALPY
+#=GS UniRef90_A0A6J2M1G9/1-53       DE [subseq from] Insulin n=3 Tax=Phyllostomus TaxID=9422 RepID=A0A6J2M1G9_9CHIR
+#=GS UniRef90_UPI001924188C/1-53    DE [subseq from] insulin n=1 Tax=Hyaena hyaena TaxID=95912 RepID=UPI001924188C
+#=GS UniRef90_A0A9B0T8C7/1-54       DE [subseq from] Insulin n=1 Tax=Chrysochloris asiatica TaxID=185453 RepID=A0A9B0T8C7_CHRAS
+#=GS UniRef90_P01317/1-53           DE [subseq from] Insulin n=13 Tax=Pecora TaxID=35500 RepID=INS_BOVIN
+#=GS UniRef90_UPI001C6FC402/1-53    DE [subseq from] insulin n=4 Tax=Felidae TaxID=9681 RepID=UPI001C6FC402
+#=GS UniRef90_A0A452S4G8/1-53       DE [subseq from] Insulin n=3 Tax=Ursus TaxID=9639 RepID=A0A452S4G8_URSAM
+#=GS UniRef90_A0A7N5JXI9/39-91      DE [subseq from] Insulin n=2 Tax=Ailuropoda melanoleuca TaxID=9646 RepID=A0A7N5JXI9_AILME
+#=GS UniRef90_D2HDS9/1-53           DE [subseq from] Insulin (Fragment) n=2 Tax=Ursidae TaxID=9632 RepID=D2HDS9_AILME
+#=GS UniRef90_A0A1U7T3P2/1-53       DE [subseq from] Insulin-like n=1 Tax=Carlito syrichta TaxID=1868482 RepID=A0A1U7T3P2_CARSF
+#=GS UniRef90_G3TLG9/1-54           DE [subseq from] Insulin n=2 Tax=Afrotheria TaxID=311790 RepID=G3TLG9_LOXAF
+#=GS UniRef90_UPI0007041584/1-51    DE [subseq from] insulin n=1 Tax=Myotis brandtii TaxID=109478 RepID=UPI0007041584
+#=GS UniRef90_UPI0007041584/89-129  DE [subseq from] insulin n=1 Tax=Myotis brandtii TaxID=109478 RepID=UPI0007041584
+#=GS UniRef90_A0A667HLH0/61-113     DE [subseq from] Insulin n=5 Tax=Felidae TaxID=9681 RepID=A0A667HLH0_LYNCA
+#=GS UniRef90_UPI001658E440/59-111  DE [subseq from] insulin n=1 Tax=Halichoerus grypus TaxID=9711 RepID=UPI001658E440
+#=GS UniRef90_A0A8B7AMV9/1-54       DE [subseq from] Insulin n=1 Tax=Orycteropus afer afer TaxID=1230840 RepID=A0A8B7AMV9_ORYAF
+#=GS UniRef90_A0A9B0GR56/1-53       DE [subseq from] Insulin n=1 Tax=Odobenus rosmarus divergens TaxID=9708 RepID=A0A9B0GR56_ODORO
+#=GS UniRef90_UPI00265F10AD/1-53    DE [subseq from] insulin n=1 Tax=Dasypus novemcinctus TaxID=9361 RepID=UPI00265F10AD
+#=GS UniRef90_UPI001C5C8CE7/1-54    DE [subseq from] insulin-like n=1 Tax=Orycteropus afer afer TaxID=1230840 RepID=UPI001C5C8CE7
+#=GS UniRef90_P06306/1-53           DE [subseq from] Insulin n=4 Tax=Felis catus TaxID=9685 RepID=INS_FELCA
+#=GS UniRef90_G5C2F2/1-53           DE [subseq from] Insulin n=1 Tax=Heterocephalus glaber TaxID=10181 RepID=G5C2F2_HETGA
+#=GS UniRef90_A0A6J0WR23/470-522    DE [subseq from] Insulin n=2 Tax=Odocoileus virginianus texanus TaxID=9880 RepID=A0A6J0WR23_ODOVR
+#=GS UniRef90_P01323/1-53           DE [subseq from] Insulin-2 n=23 Tax=cellular organisms TaxID=131567 RepID=INS2_RAT
+#=GS UniRef90_P21563/1-53           DE [subseq from] Insulin n=1 Tax=Rodentia sp. TaxID=69158 RepID=INS_RODSP
+#=GS UniRef90_A0A7J8H071/1-53       DE [subseq from] Insulin n=2 Tax=Rousettus aegyptiacus TaxID=9407 RepID=A0A7J8H071_ROUAE
+#=GS UniRef90_A0A5N4BXJ1/1-53       DE [subseq from] Insulin n=3 Tax=Camelidae TaxID=9835 RepID=A0A5N4BXJ1_CAMDR
+#=GS UniRef90_D3YWU5/1-53           DE [subseq from] Insulin II (Fragment) n=1 Tax=Mus musculus TaxID=10090 RepID=D3YWU5_MOUSE
+#=GS UniRef90_D3Z596/1-53           DE [subseq from] Insulin II n=1 Tax=Mus musculus TaxID=10090 RepID=D3Z596_MOUSE
+#=GS UniRef90_UPI003526512A/16-68   DE [subseq from] insulin-like growth factor n=5 Tax=Gammaproteobacteria TaxID=1236 RepID=UPI003526512A
+#=GS UniRef90_P01326/1-53           DE [subseq from] Insulin-2 n=19 Tax=Muroidea TaxID=337687 RepID=INS2_MOUSE
+#=GS UniRef90_D3Z595/1-53           DE [subseq from] Insulin II n=1 Tax=Mus musculus TaxID=10090 RepID=D3Z595_MOUSE
+#=GS UniRef90_UPI0012628981/1-52    DE [subseq from] insulin isoform X1 n=1 Tax=Mastomys coucha TaxID=35658 RepID=UPI0012628981
+#=GS UniRef90_A0A8C6GMX7/13-65      DE [subseq from] Insulin n=4 Tax=Murinae TaxID=39107 RepID=A0A8C6GMX7_MUSSI
+#=GS UniRef90_G1TTU1/27-80          DE [subseq from] Insulin n=1 Tax=Oryctolagus cuniculus TaxID=9986 RepID=G1TTU1_RABIT
+#=GS UniRef90_B3RFH3/1-52           DE [subseq from] Insulin n=3 Tax=Sorex TaxID=9379 RepID=B3RFH3_SORAR
+#=GS UniRef90_A0A383Z7M6/1-55       DE [subseq from] Insulin n=5 Tax=Artiodactyla TaxID=91561 RepID=A0A383Z7M6_BALAS
+#=GS UniRef90_UPI000333696B/1-54    DE [subseq from] insulin n=1 Tax=Echinops telfairi TaxID=9371 RepID=UPI000333696B
+#=GS UniRef90_A0ELY4/1-54           DE [subseq from] Insulin n=3 Tax=Murinae TaxID=39107 RepID=A0ELY4_MUSCR
+#=GS UniRef90_UPI00189DC123/1-53    DE [subseq from] insulin n=1 Tax=Choloepus didactylus TaxID=27675 RepID=UPI00189DC123
+#=GS UniRef90_A0A8C2W2Q8/1-53       DE [subseq from] Insulin n=1 Tax=Chinchilla lanigera TaxID=34839 RepID=A0A8C2W2Q8_CHILA
+#=GS UniRef90_A0A8C2W6V2/1-53       DE [subseq from] Insulin n=1 Tax=Chinchilla lanigera TaxID=34839 RepID=A0A8C2W6V2_CHILA
+#=GS UniRef90_A0A8C9MM83/1-53       DE [subseq from] Insulin n=113 Tax=root TaxID=1 RepID=A0A8C9MM83_SERCA
+#=GS UniRef90_A0A8C5JB52/1-53       DE [subseq from] Insulin n=15 Tax=root TaxID=1 RepID=A0A8C5JB52_JUNHY
+#=GS UniRef90_A0A7K7LNG9/1-54       DE [subseq from] Insulin (Fragment) n=1 Tax=Asarcornis scutulata TaxID=75869 RepID=A0A7K7LNG9_9AVES
+#=GS UniRef90_A0A8C2W4I8/1-53       DE [subseq from] Insulin n=1 Tax=Chinchilla lanigera TaxID=34839 RepID=A0A8C2W4I8_CHILA
+#=GS UniRef90_A0A7K9HWY1/1-53       DE [subseq from] Insulin (Fragment) n=3 Tax=Neognathae TaxID=8825 RepID=A0A7K9HWY1_9PICI
+#=GS UniRef90_A0A8C3FJX1/1-53       DE [subseq from] Insulin n=7 Tax=Testudines TaxID=8459 RepID=A0A8C3FJX1_CHRPI
+#=GS UniRef90_A0A091FRU0/1-53       DE [subseq from] Insulin n=2 Tax=Cuculus canorus TaxID=55661 RepID=A0A091FRU0_9AVES
+#=GS UniRef90_U3J027/35-88          DE [subseq from] Insulin n=17 Tax=Anatidae TaxID=8830 RepID=U3J027_ANAPP
+#=GS UniRef90_K7G107/1-53           DE [subseq from] Insulin n=2 Tax=Cryptodira TaxID=8464 RepID=K7G107_PELSI
+#=GS UniRef90_A0A851WB17/1-53       DE [subseq from] Insulin (Fragment) n=51 Tax=Neognathae TaxID=8825 RepID=A0A851WB17_CORMO
+#=GS UniRef90_UPI0005290803/1-53    DE [subseq from] insulin n=1 Tax=Antrostomus carolinensis TaxID=279965 RepID=UPI0005290803
+#=GS UniRef90_P01311/2-54           DE [subseq from] Insulin n=3 Tax=Leporidae TaxID=9979 RepID=INS_RABIT
+#=GS UniRef90_A6JHT1/14-61          DE [subseq from] Insulin n=1 Tax=Rattus norvegicus TaxID=10116 RepID=A6JHT1_RAT
+#=GS UniRef90_A0A2I0MHN3/1-53       DE [subseq from] Insulin n=32 Tax=Neognathae TaxID=8825 RepID=A0A2I0MHN3_COLLI
+#=GS UniRef90_A0A091DCT1/1-53       DE [subseq from] Insulin n=2 Tax=Fukomys damarensis TaxID=885580 RepID=A0A091DCT1_FUKDA
+#=GS UniRef90_A0A8C3TQ79/37-89      DE [subseq from] Insulin n=5 Tax=Passeriformes TaxID=9126 RepID=A0A8C3TQ79_CATUS
+#=GS UniRef90_A0A7K7QSM1/1-53       DE [subseq from] Insulin (Fragment) n=2 Tax=Poecile atricapillus TaxID=48891 RepID=A0A7K7QSM1_POEAT
+#=GS UniRef90_A0A8T1SQZ2/12-64      DE [subseq from] Insulin (Fragment) n=14 Tax=Testudines TaxID=8459 RepID=A0A8T1SQZ2_CHESE
+#=GS UniRef90_U3KAN7/1-53           DE [subseq from] Insulin n=50 Tax=Aves TaxID=8782 RepID=U3KAN7_FICAL
+#=GS UniRef90_A0A672TP51/1-53       DE [subseq from] Insulin n=27 Tax=Neognathae TaxID=8825 RepID=A0A672TP51_STRHB
+#=GS UniRef90_P67970/1-53           DE [subseq from] Insulin n=47 Tax=Aves TaxID=8782 RepID=INS_CHICK
+#=GS UniRef90_A0A835NLW6/39-91      DE [subseq from] Insulin n=2 Tax=Sturnidae TaxID=9170 RepID=A0A835NLW6_9PASS
+#=GS UniRef90_UPI0031390012/35-87   DE [subseq from] insulin isoform X1 n=1 Tax=Pseudopipra pipra TaxID=415032 RepID=UPI0031390012
+#=GS UniRef90_A0A6J0GLW5/53-105     DE [subseq from] Insulin n=8 Tax=Passeriformes TaxID=9126 RepID=A0A6J0GLW5_9PASS
+#=GS UniRef90_A0A851Y9K2/1-53       DE [subseq from] Insulin (Fragment) n=17 Tax=Neognathae TaxID=8825 RepID=A0A851Y9K2_9AVES
+#=GS UniRef90_A0A6I8PEP2/1-53       DE [subseq from] Insulin n=2 Tax=Monotremata TaxID=9255 RepID=A0A6I8PEP2_ORNAN
+#=GS UniRef90_A0A7L2IBB3/1-53       DE [subseq from] Insulin (Fragment) n=30 Tax=Neognathae TaxID=8825 RepID=A0A7L2IBB3_9PICI
+#=GS UniRef90_A0A091K077/1-53       DE [subseq from] Insulin n=11 Tax=Neognathae TaxID=8825 RepID=A0A091K077_COLST
+#=GS UniRef90_UPI0035251F39/16-65   DE [subseq from] hypothetical protein n=1 Tax=Pseudomonas aeruginosa TaxID=287 RepID=UPI0035251F39
+#=GS UniRef90_A0A7K6SPT6/1-53       DE [subseq from] Insulin (Fragment) n=2 Tax=Caloenas nicobarica TaxID=187106 RepID=A0A7K6SPT6_CALNI
+#=GS UniRef90_A0A670I9D6/1-54       DE [subseq from] Insulin n=5 Tax=Lacertinae TaxID=162266 RepID=A0A670I9D6_PODMU
+#=GS UniRef90_UPI002AC83772/1-54    DE [subseq from] insulin n=2 Tax=Rhineura floridana TaxID=261503 RepID=UPI002AC83772
+#=GS UniRef90_A0A093GS49/1-53       DE [subseq from] Insulin n=4 Tax=Picidae TaxID=9220 RepID=A0A093GS49_DRYPU
+#=GS UniRef90_A0A1S3AJG7/1-52       DE [subseq from] Insulin n=1 Tax=Erinaceus europaeus TaxID=9365 RepID=A0A1S3AJG7_ERIEU
+#=GS UniRef90_A0A7L0FR77/1-53       DE [subseq from] Insulin (Fragment) n=6 Tax=Neognathae TaxID=8825 RepID=A0A7L0FR77_CORCN
+#=GS UniRef90_A0A662YSV0/1-53       DE [subseq from] Insulin n=3 Tax=Acipenseroidei TaxID=186622 RepID=A0A662YSV0_ACIRT
+#=GS UniRef90_A0A6J0TAC8/1-54       DE [subseq from] Insulin n=1 Tax=Pogona vitticeps TaxID=103695 RepID=A0A6J0TAC8_9SAUR
+#=GS UniRef90_A0A663M7B5/1-53       DE [subseq from] Insulin n=2 Tax=Athene cunicularia TaxID=194338 RepID=A0A663M7B5_ATHCN
+#=GS UniRef90_H3ACE0/1-53           DE [subseq from] Insulin n=1 Tax=Latimeria chalumnae TaxID=7897 RepID=H3ACE0_LATCH
+#=GS UniRef90_UPI002235D004/68-120  DE [subseq from] insulin n=1 Tax=Antechinus flavipes TaxID=38775 RepID=UPI002235D004
+#=GS UniRef90_UPI00313C998E/1-53    DE [subseq from] LOW QUALITY PROTEIN: insulin n=1 Tax=Latimeria chalumnae TaxID=7897 RepID=UPI00313C998E
+#=GS UniRef90_P51463/3-49           DE [subseq from] Insulin (Fragment) n=3 Tax=Trochilidae TaxID=9242 RepID=INS_SELRF
+#=GS UniRef90_UPI002FCCFA9F/1-54    DE [subseq from] insulin n=1 Tax=Elgaria multicarinata webbii TaxID=159646 RepID=UPI002FCCFA9F
+#=GS UniRef90_A0A6P5IWP1/1-53       DE [subseq from] Insulin n=7 Tax=Metatheria TaxID=9263 RepID=A0A6P5IWP1_PHACI
+#=GS UniRef90_A0A8C0TQL9/85-124     DE [subseq from] Insulin n=1 Tax=Canis lupus familiaris TaxID=9615 RepID=A0A8C0TQL9_CANLF
+#=GS UniRef90_P01329/1-53           DE [subseq from] Insulin n=1 Tax=Cavia porcellus TaxID=10141 RepID=INS_CAVPO
+#=GS UniRef90_A6JHT3/1-45           DE [subseq from] Insulin n=1 Tax=Rattus norvegicus TaxID=10116 RepID=A6JHT3_RAT
+#=GS UniRef90_A0A0M4U741/1-53       DE [subseq from] Insulin n=1 Tax=Coleonyx mitratus TaxID=449391 RepID=A0A0M4U741_COLMT
+#=GS UniRef90_A0A9Q1B7V2/1-54       DE [subseq from] Insulin n=1 Tax=Phrynocephalus forsythii TaxID=171643 RepID=A0A9Q1B7V2_9SAUR
+#=GS UniRef90_Q6XVL4/1-46           DE [subseq from] Preproinsulin (Fragment) n=1 Tax=Pica pica TaxID=34924 RepID=Q6XVL4_PICPC
+#=GS UniRef90_A0A1U7SDF5/1-53       DE [subseq from] Insulin n=3 Tax=Crocodylia TaxID=1294634 RepID=A0A1U7SDF5_ALLSI
+#=GS UniRef90_A0A6P8PJS5/1-52       DE [subseq from] Insulin n=2 Tax=Gymnophiona TaxID=8445 RepID=A0A6P8PJS5_GEOSA
+#=GS UniRef90_A0A8D0BZ55/1-54       DE [subseq from] Insulin n=1 Tax=Salvator merianae TaxID=96440 RepID=A0A8D0BZ55_SALMN
+#=GS UniRef90_A0A7K4Y622/1-51       DE [subseq from] Insulin (Fragment) n=2 Tax=Bucerotiformes TaxID=57379 RepID=A0A7K4Y622_BUCAB
+#=GS UniRef90_Q6XVM2/1-46           DE [subseq from] Preproinsulin (Fragment) n=1 Tax=Gallinula chloropus TaxID=9123 RepID=Q6XVM2_GALCH
+#=GS UniRef90_A0AAV3A176/1-52       DE [subseq from] Insulin n=2 Tax=Ranoidea TaxID=30352 RepID=A0AAV3A176_PYXAD
+#=GS UniRef90_G1KJA0/1-54           DE [subseq from] Insulin n=3 Tax=Iguania TaxID=8511 RepID=G1KJA0_ANOCA
+#=GS UniRef90_A0A9F2KUK3/1-53       DE [subseq from] Insulin n=6 Tax=Serpentes TaxID=8570 RepID=A0A9F2KUK3_PYTBI
+#=GS UniRef90_UPI00112A95CD/1-52    DE [subseq from] insulin n=1 Tax=Rhinatrema bivittatum TaxID=194408 RepID=UPI00112A95CD
+#=GS UniRef90_UPI002349AAB1/1-52    DE [subseq from] insulin n=1 Tax=Spea bombifrons TaxID=233779 RepID=UPI002349AAB1
+#=GS UniRef90_A0A2G9SGY4/19-70      DE [subseq from] Insulin n=2 Tax=Ranidae TaxID=8397 RepID=A0A2G9SGY4_AQUCT
+#=GS UniRef90_A0A6P9BSS5/1-54       DE [subseq from] Insulin n=6 Tax=Colubroidea TaxID=34989 RepID=A0A6P9BSS5_PANGU
+#=GS UniRef90_B5AK54/1-52           DE [subseq from] Insulin (Fragment) n=1 Tax=Xenopus tropicalis TaxID=8364 RepID=B5AK54_XENTR
+#=GS UniRef90_UPI00235A6856/1-52    DE [subseq from] insulin n=1 Tax=Bombina bombina TaxID=8345 RepID=UPI00235A6856
+#=GS UniRef90_UPI0037E7A674/37-88   DE [subseq from] insulin n=1 Tax=Ambystoma mexicanum TaxID=8296 RepID=UPI0037E7A674
+#=GS UniRef90_A0A0M4TUN8/1-53       DE [subseq from] Insulin n=1 Tax=Eublepharis macularius TaxID=481883 RepID=A0A0M4TUN8_EUBMA
+#=GS UniRef90_P12706/1-52           DE [subseq from] Insulin-1 n=8 Tax=Xenopus TaxID=8353 RepID=INS1_XENLA
+#=GS UniRef90_UPI0026471138/34-87   DE [subseq from] insulin n=1 Tax=Ahaetulla prasina TaxID=499056 RepID=UPI0026471138
+#=GS UniRef90_W5MUN8/22-74          DE [subseq from] Insulin n=5 Tax=Lepisosteidae TaxID=7915 RepID=W5MUN8_LEPOC
+#=GS UniRef90_UPI001AAD5A61/35-86   DE [subseq from] insulin n=1 Tax=Rana temporaria TaxID=8407 RepID=UPI001AAD5A61
+#=GS UniRef90_UPI003081C13D/24-75   DE [subseq from] insulin isoform X1 n=2 Tax=Pseudophryne corroboree TaxID=495146 RepID=UPI003081C13D
+#=GS UniRef90_A0A670XPU8/1-51       DE [subseq from] Insulin n=2 Tax=Elapidae TaxID=8602 RepID=A0A670XPU8_PSETE
+#=GS UniRef90_A0A6I9XZV2/1-54       DE [subseq from] Insulin n=1 Tax=Thamnophis sirtalis TaxID=35019 RepID=A0A6I9XZV2_9SAUR
+#=GS UniRef90_A0AA40LKB3/41-78      DE [subseq from] Insulin n=1 Tax=Eptesicus nilssonii TaxID=59451 RepID=A0AA40LKB3_EPTNI
+#=GS UniRef90_UPI0035A3106F/1-52    DE [subseq from] insulin n=1 Tax=Hyperolius riggenbachi TaxID=752182 RepID=UPI0035A3106F
+#=GS UniRef90_UPI002AE0AD54/3-54    DE [subseq from] insulin n=3 Tax=Syngnathinae TaxID=129914 RepID=UPI002AE0AD54
+#=GS UniRef90_Q98TB0/1-52           DE [subseq from] Preproinsulin (Fragment) n=1 Tax=Chitala chitala TaxID=112163 RepID=Q98TB0_CHICT
+#=GS UniRef90_A0A8J6EEM3/1-52       DE [subseq from] Insulin n=6 Tax=Hyloidea TaxID=8417 RepID=A0A8J6EEM3_ELECQ
+#=GS UniRef90_UPI002404B7D5/4-54    DE [subseq from] insulin isoform X1 n=2 Tax=Dunckerocampus dactyliophorus TaxID=161453 RepID=UPI002404B7D5
+#=GS UniRef90_A0A3B3R042/1-53       DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Paramormyrops kingsleyae TaxID=1676925 RepID=A0A3B3R042_9TELE
+#=GS UniRef90_A0A8D0CVL2/3-54       DE [subseq from] Insulin n=7 Tax=Percomorphaceae TaxID=1489872 RepID=A0A8D0CVL2_SANLU
+#=GS UniRef90_UPI0025ADBC83/63-113  DE [subseq from] insulin n=1 Tax=Doryrhamphus excisus TaxID=161450 RepID=UPI0025ADBC83
+#=GS UniRef90_A0A8B9X393/1-48       DE [subseq from] Insulin n=1 Tax=Bos mutus grunniens TaxID=30521 RepID=A0A8B9X393_BOSMU
+#=GS UniRef90_A0AAV7TPN1/91-142     DE [subseq from] Insulin n=2 Tax=Pleurodeles waltl TaxID=8319 RepID=A0AAV7TPN1_PLEWA
+#=GS UniRef90_A0A3B3QYJ4/1-53       DE [subseq from] Insulin n=3 Tax=Mormyridae TaxID=31092 RepID=A0A3B3QYJ4_9TELE
+#=GS UniRef90_P17715/1-50           DE [subseq from] Insulin n=1 Tax=Octodon degus TaxID=10160 RepID=INS_OCTDE
+#=GS UniRef90_UPI0020274C77/1-53    DE [subseq from] insulin n=1 Tax=Sphaerodactylus townsendi TaxID=933632 RepID=UPI0020274C77
+#=GS UniRef90_A0A8T2J450/1-50       DE [subseq from] Insulin n=1 Tax=Hymenochirus boettgeri TaxID=247094 RepID=A0A8T2J450_9PIPI
+#=GS UniRef90_UPI001F072545/1-53    DE [subseq from] insulin-like n=1 Tax=Hypomesus transpacificus TaxID=137520 RepID=UPI001F072545
+#=GS UniRef90_UPI00149066A6/3-54    DE [subseq from] insulin n=1 Tax=Notolabrus celidotus TaxID=1203425 RepID=UPI00149066A6
+#=GS UniRef90_A0AAD1TKQ2/31-82      DE [subseq from] Insulin (Fragment) n=3 Tax=Pelobates TaxID=61615 RepID=A0AAD1TKQ2_PELCU
+#=GS UniRef90_G1P146/1-51           DE [subseq from] Insulin n=1 Tax=Myotis lucifugus TaxID=59463 RepID=G1P146_MYOLU
+#=GS UniRef90_A0A674AVC7/35-85      DE [subseq from] Insulin n=10 Tax=Salmoninae TaxID=504568 RepID=A0A674AVC7_SALTR
+#=GS UniRef90_A0A9Q1INE6/113-164    DE [subseq from] Insulin n=1 Tax=Synaphobranchus kaupii TaxID=118154 RepID=A0A9Q1INE6_SYNKA
+#=GS UniRef90_Q98TA8/1-53           DE [subseq from] Insulin n=2 Tax=Osteoglossomorpha TaxID=31089 RepID=INS_PANBU
+#=GS UniRef90_A0AAV1QML0/6-57       DE [subseq from] Insulin n=4 Tax=Scomber TaxID=13675 RepID=A0AAV1QML0_SCOSC
+#=GS UniRef90_UPI003831D24B/1-50    DE [subseq from] insulin n=1 Tax=Dendropsophus ebraccatus TaxID=150705 RepID=UPI003831D24B
+#=GS UniRef90_A0A665UZX0/3-54       DE [subseq from] Insulin n=2 Tax=Carangiformes TaxID=1489907 RepID=A0A665UZX0_ECHNA
+#=GS UniRef90_A0A0M3VI64/1-44       DE [subseq from] Insulin (Fragment) n=3 Tax=Scincidae TaxID=66056 RepID=A0A0M3VI64_9SAUR
+#=GS UniRef90_UPI003463A0F4/1-53    DE [subseq from] insulin-like n=1 Tax=Amia calva TaxID=7924 RepID=UPI003463A0F4
+#=GS UniRef90_P04667/1-51           DE [subseq from] Insulin n=10 Tax=Salmoninae TaxID=504568 RepID=INS_ONCKE
+#=GS UniRef90_UPI001BD233CA/3-54    DE [subseq from] insulin n=1 Tax=Cheilinus undulatus TaxID=241271 RepID=UPI001BD233CA
+#=GS UniRef90_UPI001177079E/3-54    DE [subseq from] insulin n=1 Tax=Salarias fasciatus TaxID=181472 RepID=UPI001177079E
+#=GS UniRef90_A3RID7/1-51           DE [subseq from] Insulin n=5 Tax=Salmoninae TaxID=504568 RepID=A3RID7_ONCMY
+#=GS UniRef90_A0A3P8S3R7/3-54       DE [subseq from] Insulin n=6 Tax=Ovalentaria incertae sedis TaxID=1489909 RepID=A0A3P8S3R7_AMPPE
+#=GS UniRef90_UPI00237D595B/3-54    DE [subseq from] insulin n=1 Tax=Synchiropus splendidus TaxID=270530 RepID=UPI00237D595B
+#=GS UniRef90_A0AAV1FRY7/43-94      DE [subseq from] Insulin n=1 Tax=Xyrichtys novacula TaxID=13765 RepID=A0AAV1FRY7_XYRNO
+#=GS UniRef90_UPI0024B56C72/1-53    DE [subseq from] insulin n=1 Tax=Lampris incognitus TaxID=2546036 RepID=UPI0024B56C72
+#=GS UniRef90_A0A0P7TWG1/1-54       DE [subseq from] Insulin n=2 Tax=Osteoglossidae TaxID=27723 RepID=A0A0P7TWG1_SCLFO
+#=GS UniRef90_S7NT76/1-51           DE [subseq from] Insulin n=1 Tax=Myotis brandtii TaxID=109478 RepID=S7NT76_MYOBR
+#=GS UniRef90_UPI00254004C6/1-51    DE [subseq from] insulin n=1 Tax=Euleptes europaea TaxID=460621 RepID=UPI00254004C6
+#=GS UniRef90_A0AAN8QZ09/30-80      DE [subseq from] Insulin n=1 Tax=Coregonus suidteri TaxID=861788 RepID=A0AAN8QZ09_9TELE
+#=GS UniRef90_A0A8C5R3A4/1-52       DE [subseq from] Insulin n=1 Tax=Leptobrachium leishanense TaxID=445787 RepID=A0A8C5R3A4_9ANUR
+#=GS UniRef90_UPI0036043334/3-54    DE [subseq from] insulin n=2 Tax=Antennarioidei TaxID=241818 RepID=UPI0036043334
+#=GS UniRef90_UPI0029305A97/1-53    DE [subseq from] insulin n=1 Tax=Heteronotia binoei TaxID=13085 RepID=UPI0029305A97
+#=GS UniRef90_A0AAQ4R1V2/3-54       DE [subseq from] Insulin n=8 Tax=Cottioidei TaxID=8100 RepID=A0AAQ4R1V2_GASAC
+#=GS UniRef90_UPI00147130B5/3-54    DE [subseq from] insulin n=1 Tax=Thalassophryne amazonica TaxID=390379 RepID=UPI00147130B5
+#=GS UniRef90_A0AAV6SEH2/3-55       DE [subseq from] Insulin n=3 Tax=Solea TaxID=28828 RepID=A0AAV6SEH2_SOLSE
+#=GS UniRef90_A0A6F9A054/80-130     DE [subseq from] Insulin n=2 Tax=Coregonus TaxID=27772 RepID=A0A6F9A054_9TELE
+#=GS UniRef90_UPI001FB790F4/3-54    DE [subseq from] insulin n=1 Tax=Mugil cephalus TaxID=48193 RepID=UPI001FB790F4
+#=GS UniRef90_A3RID6/1-51           DE [subseq from] Insulin n=7 Tax=Salmonidae TaxID=8015 RepID=A3RID6_ONCMY
+#=GS UniRef90_P69045/3-54           DE [subseq from] Insulin n=11 Tax=Percomorphaceae TaxID=1489872 RepID=INS_LOPAM
+#=GS UniRef90_A0A4U5V606/50-101     DE [subseq from] Insulin n=2 Tax=Collichthys lucidus TaxID=240159 RepID=A0A4U5V606_COLLU
+#=GS UniRef90_A0A3Q3KK20/31-82      DE [subseq from] Insulin n=2 Tax=Monopterus albus TaxID=43700 RepID=A0A3Q3KK20_MONAL
+#=GS UniRef90_A0AAD3NEY4/83-134     DE [subseq from] Insulin (Fragment) n=1 Tax=Lates japonicus TaxID=270547 RepID=A0AAD3NEY4_LATJO
+#=GS UniRef90_A0A3P9PVE8/3-54       DE [subseq from] Insulin n=2 Tax=Ovalentaria TaxID=1489908 RepID=A0A3P9PVE8_POERE
+#=GS UniRef90_P01310/1-29           DE [subseq from] Insulin n=1 Tax=Equus caballus TaxID=9796 RepID=INS_HORSE
+#=GS UniRef90_A0A6P8W468/3-54       DE [subseq from] Insulin n=7 Tax=Notothenioidei TaxID=8205 RepID=A0A6P8W468_GYMAC
+#=GS UniRef90_Q9W7R2/3-54           DE [subseq from] Insulin n=5 Tax=Pleuronectidae TaxID=8256 RepID=INS_VERMO
+#=GS UniRef90_A0A4W6BMN0/3-54       DE [subseq from] Insulin n=2 Tax=Euacanthomorphacea TaxID=123369 RepID=A0A4W6BMN0_LATCA
+#=GS UniRef90_UPI001CE1A16D/51-102  DE [subseq from] insulin n=2 Tax=Percomorphaceae TaxID=1489872 RepID=UPI001CE1A16D
+#=GS UniRef90_UPI00001112BB/1-30    DE [subseq from] MINI-PROINSULIN n=1 Tax=Homo sapiens TaxID=9606 RepID=UPI00001112BB
+#=GS UniRef90_A0A674NCJ3/3-54       DE [subseq from] Insulin n=3 Tax=Tetraodontidae TaxID=31031 RepID=A0A674NCJ3_TAKRU
+#=GS UniRef90_A0A4W3I9K0/1-53       DE [subseq from] Insulin n=1 Tax=Callorhinchus milii TaxID=7868 RepID=A0A4W3I9K0_CALMI
+#=GS UniRef90_UPI00240444DB/3-54    DE [subseq from] insulin n=2 Tax=Aplocheiloidei TaxID=45443 RepID=UPI00240444DB
+#=GS UniRef90_G0XSY3/3-54           DE [subseq from] Insulin n=3 Tax=Micropterus TaxID=27705 RepID=G0XSY3_MICSA
+#=GS UniRef90_UPI000E46025F/3-54    DE [subseq from] insulin n=1 Tax=Anabas testudineus TaxID=64144 RepID=UPI000E46025F
+#=GS UniRef90_A0A3Q3RII7/56-107     DE [subseq from] Insulin n=2 Tax=Mastacembelus armatus TaxID=205130 RepID=A0A3Q3RII7_9TELE
+#=GS UniRef90_A0A6G1QSA6/3-54       DE [subseq from] Insulin n=2 Tax=Channa argus TaxID=215402 RepID=A0A6G1QSA6_9TELE
+#=GS UniRef90_A0A3B3B586/3-53       DE [subseq from] Insulin n=3 Tax=Oryzias TaxID=8089 RepID=A0A3B3B586_ORYME
+#=GS UniRef90_A0A8C6S390/11-53      DE [subseq from] Insulin n=1 Tax=Neogobius melanostomus TaxID=47308 RepID=A0A8C6S390_9GOBI
+#=GS UniRef90_A0A3B3HRI8/114-164    DE [subseq from] Insulin n=4 Tax=Oryzias latipes TaxID=8090 RepID=A0A3B3HRI8_ORYLA
+#=GS UniRef90_P67973/1-29           DE [subseq from] Insulin n=7 Tax=Eukaryota TaxID=2759 RepID=INS_BALPH
+#=GS UniRef90_A0A514TPA0/1-45       DE [subseq from] Putative preproinsulin (Fragment) n=1 Tax=Lissemys punctata TaxID=55542 RepID=A0A514TPA0_9SAUR
+#=GS UniRef90_A0A6P7JJK7/3-54       DE [subseq from] Insulin n=2 Tax=Parambassis ranga TaxID=210632 RepID=A0A6P7JJK7_9TELE
+#=GS UniRef90_A0AA47M6P5/24-46      DE [subseq from] Insulin n=1 Tax=Merluccius polli TaxID=89951 RepID=A0AA47M6P5_MERPO
+#=GS UniRef90_A0AA47M6P5/119-161    DE [subseq from] Insulin n=1 Tax=Merluccius polli TaxID=89951 RepID=A0AA47M6P5_MERPO
+#=GS UniRef90_Q7M0U6/46-75          DE [subseq from] Epidermal growth factor/single chain insulin fusion protein (Fragment) n=2 Tax=cellular organisms TaxID=131567 RepID=Q7M0U6_BREBE
+#=GS UniRef90_A0AA88M0E2/3-54       DE [subseq from] Insulin n=1 Tax=Channa striata TaxID=64152 RepID=A0AA88M0E2_CHASR
+#=GS UniRef90_A0A087YIN9/3-54       DE [subseq from] Insulin n=17 Tax=Cyprinodontoidei TaxID=8087 RepID=A0A087YIN9_POEFO
+#=GS UniRef90_A0A671TQR9/3-54       DE [subseq from] Insulin n=1 Tax=Sparus aurata TaxID=8175 RepID=A0A671TQR9_SPAAU
+#=GS UniRef90_UPI002872C68F/1-51    DE [subseq from] insulin-like n=1 Tax=Myotis daubentonii TaxID=98922 RepID=UPI002872C68F
+#=GS UniRef90_A0A671TQE6/3-54       DE [subseq from] Insulin n=2 Tax=Sparus aurata TaxID=8175 RepID=A0A671TQE6_SPAAU
+#=GS UniRef90_A0A8C4RK13/24-73      DE [subseq from] Insulin n=4 Tax=Polypteridae TaxID=8289 RepID=A0A8C4RK13_ERPCA
+#=GS UniRef90_UPI001643FA93/1-30    DE [subseq from] Insulin n=1 Tax=Homo sapiens TaxID=9606 RepID=UPI001643FA93
+#=GS UniRef90_A0A8T2P6A7/2-53       DE [subseq from] Insulin n=2 Tax=Elopomorpha TaxID=32521 RepID=A0A8T2P6A7_9TELE
+#=GS UniRef90_UPI000C1B5FED/1-30    DE [subseq from] Single-chain insulin analog n=2 Tax=Homo sapiens TaxID=9606 RepID=UPI000C1B5FED
+#=GS UniRef90_UPI0037E99F9A/1-51    DE [subseq from] insulin n=1 Tax=Semicossyphus pulcher TaxID=241346 RepID=UPI0037E99F9A
+#=GS UniRef90_A0A9N7UHR3/50-101     DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Pleuronectes platessa TaxID=8262 RepID=A0A9N7UHR3_PLEPL
+#=GS UniRef90_A0A667YSC2/48-100     DE [subseq from] Insulin n=1 Tax=Myripristis murdjan TaxID=586833 RepID=A0A667YSC2_9TELE
+#=GS UniRef90_A0A6G0I8J9/442-493    DE [subseq from] Insulin n=2 Tax=Larimichthys crocea TaxID=215358 RepID=A0A6G0I8J9_LARCR
+#=GS UniRef90_P81025/3-54           DE [subseq from] Insulin n=9 Tax=Cichlidae TaxID=8113 RepID=INS_ORENI
+#=GS UniRef90_UPI0010A37B52/1-52    DE [subseq from] insulin-like n=1 Tax=Denticeps clupeoides TaxID=299321 RepID=UPI0010A37B52
+#=GS UniRef90_W5MUL1/4-52           DE [subseq from] Insulin n=1 Tax=Lepisosteus oculatus TaxID=7918 RepID=W5MUL1_LEPOC
+#=GS UniRef90_A0A3Q2E747/26-77      DE [subseq from] Insulin n=2 Tax=Cyprinodon variegatus TaxID=28743 RepID=A0A3Q2E747_CYPVA
+#=GS UniRef90_UPI002A6ADC3F/4-52    DE [subseq from] insulin n=1 Tax=Syngnathus typhle TaxID=161592 RepID=UPI002A6ADC3F
+#=GS UniRef90_UPI002AD5316C/3-54    DE [subseq from] insulin n=1 Tax=Cololabis saira TaxID=129043 RepID=UPI002AD5316C
+#=GS UniRef90_UPI001863C8C5/1-52    DE [subseq from] insulin-like n=1 Tax=Megalops cyprinoides TaxID=118141 RepID=UPI001863C8C5
+#=GS UniRef90_UPI00187C50C7/3-54    DE [subseq from] insulin-like n=1 Tax=Acanthopagrus latus TaxID=8177 RepID=UPI00187C50C7
+#=GS UniRef90_P01320/1-29           DE [subseq from] Insulin n=5 Tax=Boreoeutheria TaxID=1437010 RepID=INS_CAMDR
+#=GS UniRef90_A0A6P7PDJ6/3-54       DE [subseq from] Insulin n=2 Tax=Betta splendens TaxID=158456 RepID=A0A6P7PDJ6_BETSP
+#=GS UniRef90_P18109/2-29           DE [subseq from] Insulin n=2 Tax=Theria TaxID=32525 RepID=INS_DIDVI
+#=GS UniRef90_A0A6Q2WSW5/1-51       DE [subseq from] Insulin n=1 Tax=Esox lucius TaxID=8010 RepID=A0A6Q2WSW5_ESOLU
+#=GS UniRef90_A0A0M3VI60/1-53       DE [subseq from] Insulin n=4 Tax=Gekko TaxID=8565 RepID=A0A0M3VI60_GEKGE
+#=GS UniRef90_A0A6J2QZS0/1-49       DE [subseq from] Insulin n=2 Tax=Eupercaria TaxID=1489922 RepID=A0A6J2QZS0_COTGO
+#=GS UniRef90_A0A9D3M841/9-60       DE [subseq from] Insulin n=3 Tax=Anguilla TaxID=7935 RepID=A0A9D3M841_ANGAN
+#=GS UniRef90_UPI002872DF1E/1-48    DE [subseq from] insulin-like n=2 Tax=Myotis daubentonii TaxID=98922 RepID=UPI002872DF1E
+#=GS UniRef90_A0A672Y518/11-62      DE [subseq from] Insulin n=2 Tax=Sphaeramia orbicularis TaxID=375764 RepID=A0A672Y518_9TELE
+#=GS UniRef90_A0A8D0GDU4/5-38       DE [subseq from] Insulin n=1 Tax=Sphenodon punctatus TaxID=8508 RepID=A0A8D0GDU4_SPHPU
+#=GS UniRef90_A0AAV1NEL2/3-53       DE [subseq from] Insulin n=3 Tax=Scombrinae TaxID=186745 RepID=A0AAV1NEL2_SCOSC
+#=GS UniRef90_A0A671TNT6/46-97      DE [subseq from] Insulin n=4 Tax=Sparus aurata TaxID=8175 RepID=A0A671TNT6_SPAAU
+#=GS UniRef90_UPI002E122001/1-52    DE [subseq from] insulin-like n=1 Tax=Sardina pilchardus TaxID=27697 RepID=UPI002E122001
+#=GS UniRef90_UPI001C050852/3-53    DE [subseq from] insulin n=1 Tax=Melanotaenia boesemani TaxID=1250792 RepID=UPI001C050852
+#=GS UniRef90_A0A3P8VEB9/3-52       DE [subseq from] Insulin n=1 Tax=Cynoglossus semilaevis TaxID=244447 RepID=A0A3P8VEB9_CYNSE
+#=GS UniRef90_A0A0M5N0T4/1-44       DE [subseq from] Insulin (Fragment) n=1 Tax=Teratoscincus roborowskii TaxID=102174 RepID=A0A0M5N0T4_9SAUR
+#=GS UniRef90_A0AAV6HF21/1-52       DE [subseq from] Insulin n=1 Tax=Alosa alosa TaxID=278164 RepID=A0AAV6HF21_9TELE
+#=GS UniRef90_P67971/1-30           DE [subseq from] Insulin n=1 Tax=Saimiri sciureus TaxID=9521 RepID=INS_SAISC
+#=GS UniRef90_A0A6P3VZA9/80-131     DE [subseq from] Insulin n=1 Tax=Clupea harengus TaxID=7950 RepID=A0A6P3VZA9_CLUHA
+#=GS UniRef90_A0A3Q3K6V0/3-54       DE [subseq from] Insulin n=1 Tax=Monopterus albus TaxID=43700 RepID=A0A3Q3K6V0_MONAL
+#=GS UniRef90_UPI0035C0A36A/3-52    DE [subseq from] insulin n=1 Tax=Clinocottus analis TaxID=304258 RepID=UPI0035C0A36A
+#=GS UniRef90_UPI0017496AE8/1-48    DE [subseq from] insulin-like n=1 Tax=Myotis myotis TaxID=51298 RepID=UPI0017496AE8
+#=GS UniRef90_P68245/2-30           DE [subseq from] Insulin n=2 Tax=Anatidae TaxID=8830 RepID=INS_ANSAN
+#=GS UniRef90_UPI002ACEAA03/4-52    DE [subseq from] LOW QUALITY PROTEIN: insulin-like n=2 Tax=Syngnathinae TaxID=129914 RepID=UPI002ACEAA03
+#=GS UniRef90_UPI001A98EB6D/3-52    DE [subseq from] insulin-like n=1 Tax=Xiphias gladius TaxID=8245 RepID=UPI001A98EB6D
+#=GS UniRef90_A0A3Q3EJ08/3-54       DE [subseq from] Insulin n=1 Tax=Labrus bergylta TaxID=56723 RepID=A0A3Q3EJ08_9LABR
+#=GS UniRef90_A0A0M3VI61/1-44       DE [subseq from] Insulin (Fragment) n=2 Tax=Phyllodactylidae TaxID=660274 RepID=A0A0M3VI61_TARMA
+#=GS UniRef90_A0A9W7X1L4/1-52       DE [subseq from] Insulin n=3 Tax=Triplophysa TaxID=341122 RepID=A0A9W7X1L4_TRIRA
+#=GS UniRef90_A0AAV2J709/40-83      DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Knipowitschia caucasica TaxID=637954 RepID=A0AAV2J709_KNICA
+#=GS UniRef90_A0A6J2W1Y6/1-52       DE [subseq from] Insulin n=1 Tax=Chanos chanos TaxID=29144 RepID=A0A6J2W1Y6_CHACN
+#=GS UniRef90_P01333/2-30           DE [subseq from] Insulin n=1 Tax=Anas platyrhynchos TaxID=8839 RepID=INS_ANAPL
+#=GS UniRef90_UPI002F35B4D3/1-52    DE [subseq from] insulin n=1 Tax=Trichomycterus rosablanca TaxID=2290929 RepID=UPI002F35B4D3
+#=GS UniRef90_P67968/2-29           DE [subseq from] Insulin n=5 Tax=Archelosauria TaxID=1329799 RepID=INS_MELGA
+#=GS UniRef90_A0A2U9B879/3-53       DE [subseq from] Insulin n=1 Tax=Scophthalmus maximus TaxID=52904 RepID=A0A2U9B879_SCOMX
+#=GS UniRef90_P81423/2-29           DE [subseq from] Insulin n=4 Tax=Acipenseroidei TaxID=186622 RepID=INS_ACIGU
+#=GS UniRef90_A0A8C4GNW1/29-75      DE [subseq from] Insulin n=1 Tax=Dicentrarchus labrax TaxID=13489 RepID=A0A8C4GNW1_DICLA
+#=GS UniRef90_A0A9D3M852/40-90      DE [subseq from] Insulin n=2 Tax=Anguilla anguilla TaxID=7936 RepID=A0A9D3M852_ANGAN
+#=GS UniRef90_A0A3B1JBV0/44-95      DE [subseq from] Insulin n=3 Tax=Astyanax mexicanus TaxID=7994 RepID=A0A3B1JBV0_ASTMX
+#=GS UniRef90_Q5BVE7/1-29           DE [subseq from] Insulin (Fragment) n=1 Tax=Dasyprocta punctata TaxID=34846 RepID=Q5BVE7_DASPU
+#=GS UniRef90_A0AAW0PCY2/11-53      DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Mugilogobius chulae TaxID=88201 RepID=A0AAW0PCY2_9GOBI
+#=GS UniRef90_A0A1S3SVH7/5-53       DE [subseq from] Insulin n=10 Tax=Salmonidae TaxID=8015 RepID=A0A1S3SVH7_SALSA
+#=GS UniRef90_A0A9Q0I6P9/11-58      DE [subseq from] Insulin n=1 Tax=Muraenolepis orangiensis TaxID=630683 RepID=A0A9Q0I6P9_9TELE
+#=GS UniRef90_A0A674DK97/12-60      DE [subseq from] Insulin n=1 Tax=Salmo trutta TaxID=8032 RepID=A0A674DK97_SALTR
+#=GS UniRef90_Q98TB1/1-52           DE [subseq from] Insulin (Fragment) n=4 Tax=Catostomidae TaxID=7968 RepID=Q98TB1_CATCO
+#=GS UniRef90_A0A2D0QAI1/1-52       DE [subseq from] Insulin n=6 Tax=Siluroidei TaxID=1489793 RepID=A0A2D0QAI1_ICTPU
+#=GS UniRef90_UPI0024356EEA/1-52    DE [subseq from] insulin n=2 Tax=Cobitinae TaxID=278169 RepID=UPI0024356EEA
+#=GS UniRef90_A0A671TQQ8/3-54       DE [subseq from] Insulin n=1 Tax=Sparus aurata TaxID=8175 RepID=A0A671TQQ8_SPAAU
+#=GS UniRef90_A0A671TQD6/3-54       DE [subseq from] Insulin n=1 Tax=Sparus aurata TaxID=8175 RepID=A0A671TQD6_SPAAU
+#=GS UniRef90_A0A2I4C5K0/4-54       DE [subseq from] Insulin n=1 Tax=Austrofundulus limnaeus TaxID=52670 RepID=A0A2I4C5K0_AUSLI
+#=GS UniRef90_A0A6P6K741/1-52       DE [subseq from] Insulin n=8 Tax=Cyprinoidei TaxID=30727 RepID=A0A6P6K741_CARAU
+#=GS UniRef90_UPI001FB7406F/8-52    DE [subseq from] preproinsulin b n=1 Tax=Mugil cephalus TaxID=48193 RepID=UPI001FB7406F
+#=GS UniRef90_A0A0M4UT56/1-44       DE [subseq from] Insulin (Fragment) n=2 Tax=Cordylinae TaxID=174275 RepID=A0A0M4UT56_9SAUR
+#=GS UniRef90_UPI00227D430D/41-88   DE [subseq from] insulin-like n=1 Tax=Oncorhynchus keta TaxID=8018 RepID=UPI00227D430D
+#=GS UniRef90_UPI001CF9430D/6-53    DE [subseq from] insulin n=1 Tax=Protopterus annectens TaxID=7888 RepID=UPI001CF9430D
+#=GS UniRef90_A0A8C7XQJ6/2-31       DE [subseq from] Insulin n=1 Tax=Oryzias sinensis TaxID=183150 RepID=A0A8C7XQJ6_9TELE
+#=GS UniRef90_UPI0029677BA6/6-35    DE [subseq from] Insulin B chain,Insulin A chain n=1 Tax=Homo sapiens TaxID=9606 RepID=UPI0029677BA6
+#=GS UniRef90_Q5BVF5/1-29           DE [subseq from] Insulin (Fragment) n=2 Tax=Chinchilla TaxID=10151 RepID=Q5BVF5_CHILA
+#=GS UniRef90_UPI001056076A/3-51    DE [subseq from] insulin-like n=1 Tax=Gouania willdenowi TaxID=441366 RepID=UPI001056076A
+#=GS UniRef90_A0A4U5UDB2/9-52       DE [subseq from] Insulin n=2 Tax=Sciaenidae TaxID=30870 RepID=A0A4U5UDB2_COLLU
+#=GS UniRef90_UPI0015A886EB/3-53    DE [subseq from] insulin-like n=1 Tax=Anguilla anguilla TaxID=7936 RepID=UPI0015A886EB
+#=GS UniRef90_A0A3B3D297/3-53       DE [subseq from] Insulin n=2 Tax=Oryzias TaxID=8089 RepID=A0A3B3D297_ORYME
+#=GS UniRef90_UPI002AB7A13F/17-71   DE [subseq from] insulin-like n=1 Tax=Lethenteron reissneri TaxID=7753 RepID=UPI002AB7A13F
+#=GS UniRef90_UPI002026FD99/1-53    DE [subseq from] insulin-like n=1 Tax=Sphaerodactylus townsendi TaxID=933632 RepID=UPI002026FD99
+#=GS UniRef90_A0A8C7I469/3-41       DE [subseq from] Insulin-like domain-containing protein n=2 Tax=Oncorhynchus kisutch TaxID=8019 RepID=A0A8C7I469_ONCKI
+#=GS UniRef90_A0A9D3C4J1/5-52       DE [subseq from] Insulin n=2 Tax=Nothobranchius furzeri TaxID=105023 RepID=A0A9D3C4J1_NOTFU
+#=GS UniRef90_UPI0027DEFA68/8-52    DE [subseq from] preproinsulin b n=1 Tax=Centropristis striata TaxID=184440 RepID=UPI0027DEFA68
+#=GS UniRef90_A0AAJ7XJ00/55-109     DE [subseq from] Insulin n=1 Tax=Petromyzon marinus TaxID=7757 RepID=A0AAJ7XJ00_PETMA
+#=GS UniRef90_A0A8C9XT16/3-35       DE [subseq from] Insulin n=2 Tax=Sander lucioperca TaxID=283035 RepID=A0A8C9XT16_SANLU
+#=GS UniRef90_A0A8C9ZMG9/7-53       DE [subseq from] Insulin n=2 Tax=Percidae TaxID=8165 RepID=A0A8C9ZMG9_SANLU
+#=GS UniRef90_UPI0025A59146/6-52    DE [subseq from] insulin-like n=1 Tax=Corythoichthys intestinalis TaxID=161448 RepID=UPI0025A59146
+#=GS UniRef90_A0A8D0D828/12-59      DE [subseq from] Insulin n=3 Tax=Percidae TaxID=8165 RepID=A0A8D0D828_SANLU
+#=GS UniRef90_UPI000A1C6AD7/11-53   DE [subseq from] insulin n=2 Tax=Oxudercinae TaxID=497678 RepID=UPI000A1C6AD7
+#=GS UniRef90_A0A671Z0S7/23-67      DE [subseq from] Insulin n=3 Tax=Sparidae TaxID=8169 RepID=A0A671Z0S7_SPAAU
+#=GS UniRef90_P01327/1-29           DE [subseq from] Insulin n=1 Tax=Chinchilla chinchilla TaxID=10152 RepID=INS_CHICH
+#=GS UniRef90_UPI002FD0DB4B/1-51    DE [subseq from] insulin n=1 Tax=Engraulis encrasicolus TaxID=184585 RepID=UPI002FD0DB4B
+#=GS UniRef90_UPI0029C7E8D1/3-54    DE [subseq from] insulin-like n=1 Tax=Limanda limanda TaxID=27771 RepID=UPI0029C7E8D1
+#=GS UniRef90_A0A8S4BPR1/10-52      DE [subseq from] Insulin n=1 Tax=Menidia menidia TaxID=238744 RepID=A0A8S4BPR1_9TELE
+#=GS UniRef90_P01328/1-29           DE [subseq from] Insulin n=1 Tax=Hystrix cristata TaxID=10137 RepID=INS_HYSCR
+#=GS UniRef90_A0A7J5ZS40/50-101     DE [subseq from] Insulin n=1 Tax=Ameiurus melas TaxID=219545 RepID=A0A7J5ZS40_AMEME
+#=GS UniRef90_A0AA88IVP7/418-469    DE [subseq from] Multifunctional fusion protein n=6 Tax=Tachysurus TaxID=641818 RepID=A0AA88IVP7_TACVA
+#=GS UniRef90_UPI0001753A7A/1-29    DE [subseq from] Insulin n=2 Tax=Homo sapiens TaxID=9606 RepID=UPI0001753A7A
+#=GS UniRef90_UPI003559FEB4/1-53    DE [subseq from] insulin-like n=1 Tax=Heptranchias perlo TaxID=212740 RepID=UPI003559FEB4
+#=GS UniRef90_A0A5J5D532/67-114     DE [subseq from] Insulin n=2 Tax=Etheostoma spectabile TaxID=54343 RepID=A0A5J5D532_9PERO
+#=GS UniRef90_A0A2D0QC72/1-52       DE [subseq from] Insulin n=2 Tax=Ictalurus TaxID=7997 RepID=A0A2D0QC72_ICTPU
+#=GS UniRef90_A0A7N8WMJ5/3-53       DE [subseq from] Insulin n=1 Tax=Mastacembelus armatus TaxID=205130 RepID=A0A7N8WMJ5_9TELE
+#=GS UniRef90_UPI002AD2CDD0/9-52    DE [subseq from] insulin-like n=1 Tax=Cololabis saira TaxID=129043 RepID=UPI002AD2CDD0
+#=GS UniRef90_A0A3B4DUP0/1-52       DE [subseq from] Insulin n=2 Tax=Serrasalmidae TaxID=42495 RepID=A0A3B4DUP0_PYGNA
+#=GS UniRef90_UPI0025AE8AD2/8-52    DE [subseq from] insulin-like n=2 Tax=Syngnathinae TaxID=129914 RepID=UPI0025AE8AD2
+#=GS UniRef90_UPI001471CDF6/3-51    DE [subseq from] insulin-like n=1 Tax=Thalassophryne amazonica TaxID=390379 RepID=UPI001471CDF6
+#=GS UniRef90_UPI003461A842/1-52    DE [subseq from] insulin n=1 Tax=Hoplias malabaricus TaxID=27720 RepID=UPI003461A842
+#=GS UniRef90_A0AAY5KWU4/40-95      DE [subseq from] Uncharacterized protein n=1 Tax=Esox lucius TaxID=8010 RepID=A0AAY5KWU4_ESOLU
+#=GS UniRef90_A0AAQ4PGG4/16-46      DE [subseq from] Insulin n=2 Tax=Gasterosteus aculeatus aculeatus TaxID=481459 RepID=A0AAQ4PGG4_GASAC
+#=GS UniRef90_UPI001C056BCC/9-52    DE [subseq from] preproinsulin b n=1 Tax=Melanotaenia boesemani TaxID=1250792 RepID=UPI001C056BCC
+#=GS UniRef90_P09476/2-29           DE [subseq from] Insulin n=1 Tax=Atractosteus spatula TaxID=7917 RepID=INS_ATRSP
+#=GS UniRef90_A0AAQ4R818/19-50      DE [subseq from] Insulin n=1 Tax=Gasterosteus aculeatus aculeatus TaxID=481459 RepID=A0AAQ4R818_GASAC
+#=GS UniRef90_UPI00155EABC8/3-52    DE [subseq from] preproinsulin b n=1 Tax=Etheostoma cragini TaxID=417921 RepID=UPI00155EABC8
+#=GS UniRef90_A0A9D3N0T5/429-480    DE [subseq from] Multifunctional fusion protein n=2 Tax=Hemibagrus wyckioides TaxID=337641 RepID=A0A9D3N0T5_9TELE
+#=GS UniRef90_A0A0M5MRX6/1-53       DE [subseq from] Insulin n=1 Tax=Gekko japonicus TaxID=146911 RepID=A0A0M5MRX6_GEKJA
+#=GS UniRef90_P01340/2-29           DE [subseq from] Insulin n=1 Tax=Katsuwonus pelamis TaxID=8226 RepID=INS_KATPE
+#=GS UniRef90_A0A8C1WI06/9-60       DE [subseq from] Insulin n=7 Tax=Cypriniformes TaxID=7952 RepID=A0A8C1WI06_CYPCA
+#=GS UniRef90_A0A8C4Z8R8/13-54      DE [subseq from] Insulin n=2 Tax=Gadus TaxID=8048 RepID=A0A8C4Z8R8_GADMO
+#=GS UniRef90_A0A8K9WYD0/145-192    DE [subseq from] Insulin n=2 Tax=Oncorhynchus mykiss TaxID=8022 RepID=A0A8K9WYD0_ONCMY
+#=GS UniRef90_Q9TQY7/1-29           DE [subseq from] Insulin n=1 Tax=Ornithorhynchus anatinus TaxID=9258 RepID=INS_ORNAN
+#=GS UniRef90_UPI00189DEE04/9-52    DE [subseq from] preproinsulin b n=1 Tax=Sebastes umbrosus TaxID=72105 RepID=UPI00189DEE04
+#=GS UniRef90_UPI003703B57F/7-50    DE [subseq from] preproinsulin b n=2 Tax=Embiotocidae TaxID=50791 RepID=UPI003703B57F
+#=GS UniRef90_P09477/4-30           DE [subseq from] Insulin n=1 Tax=Platichthys flesus TaxID=8260 RepID=INS_PLAFE
+#=GS UniRef90_A0A9Y4TQF8/3-52       DE [subseq from] Insulin n=1 Tax=Stegastes partitus TaxID=144197 RepID=A0A9Y4TQF8_9TELE
+#=GS UniRef90_UPI0001C397B7/1-29    DE [subseq from] Insulin n=1 Tax=Homo sapiens TaxID=9606 RepID=UPI0001C397B7
+#=GS UniRef90_UPI0007F8980B/3-53    DE [subseq from] insulin n=1 Tax=Kryptolebias marmoratus TaxID=37003 RepID=UPI0007F8980B
+#=GS UniRef90_UPI0038310199/1-53    DE [subseq from] insulin-like n=1 Tax=Narcine bancroftii TaxID=1343680 RepID=UPI0038310199
+#=GS UniRef90_UPI0011768B19/8-51    DE [subseq from] insulin-like n=1 Tax=Salarias fasciatus TaxID=181472 RepID=UPI0011768B19
+#=GS UniRef90_A0A8C5E314/7-34       DE [subseq from] Insulin n=1 Tax=Gouania willdenowi TaxID=441366 RepID=A0A8C5E314_GOUWI
+#=GS UniRef90_A0A665TEG5/3-52       DE [subseq from] Insulin n=1 Tax=Echeneis naucrates TaxID=173247 RepID=A0A665TEG5_ECHNA
+#=GS UniRef90_I7GSK6/1-26           DE [subseq from] Insulin (Fragment) n=2 Tax=Suncus TaxID=9377 RepID=I7GSK6_SUNMU
+#=GS UniRef90_UPI00355B503D/1-53    DE [subseq from] insulin-like n=1 Tax=Heterodontus francisci TaxID=7792 RepID=UPI00355B503D
+#=GS UniRef90_UPI0018F52BB7/1-53    DE [subseq from] insulin-like n=1 Tax=Scyliorhinus canicula TaxID=7830 RepID=UPI0018F52BB7
+#=GS UniRef90_Q18NR1/3-53           DE [subseq from] Insulin n=2 Tax=Seriola TaxID=8160 RepID=Q18NR1_SERDU
+#=GS UniRef90_A0A672PV40/68-119     DE [subseq from] Insulin n=2 Tax=Sinocyclocheilus TaxID=75365 RepID=A0A672PV40_SINGR
+#=GS UniRef90_P83770/1-29           DE [subseq from] Insulin-like protein (Fragments) n=1 Tax=Vigna unguiculata TaxID=3917 RepID=INSL_VIGUN
+#=GS UniRef90_A0AA47N0Q1/9-51       DE [subseq from] Insulin n=1 Tax=Merluccius polli TaxID=89951 RepID=A0AA47N0Q1_MERPO
+#=GS UniRef90_A0A3Q3X6K7/4-34       DE [subseq from] Insulin n=2 Tax=Mola mola TaxID=94237 RepID=A0A3Q3X6K7_MOLML
+#=GS UniRef90_A0A4W6EKT4/3-53       DE [subseq from] Insulin n=2 Tax=Lates TaxID=8186 RepID=A0A4W6EKT4_LATCA
+#=GS UniRef90_UPI001B7DB85C/1-53    DE [subseq from] insulin-like n=1 Tax=Carcharodon carcharias TaxID=13397 RepID=UPI001B7DB85C
+#=GS UniRef90_UPI000A1C6CE8/3-51    DE [subseq from] insulin-1-like n=1 Tax=Boleophthalmus pectinirostris TaxID=150288 RepID=UPI000A1C6CE8
+#=GS UniRef90_A0A8T0ACN9/512-564    DE [subseq from] Insulin n=3 Tax=Silurus TaxID=94992 RepID=A0A8T0ACN9_SILME
+#=GS UniRef90_UPI002ADF9604/41-86   DE [subseq from] insulin-like n=3 Tax=Syngnathinae TaxID=129914 RepID=UPI002ADF9604
+#=GS UniRef90_A0A3Q1IFE1/9-45       DE [subseq from] Insulin n=1 Tax=Anabas testudineus TaxID=64144 RepID=A0A3Q1IFE1_ANATE
+#=GS UniRef90_UPI00237D9A98/3-54    DE [subseq from] insulin-like n=1 Tax=Synchiropus splendidus TaxID=270530 RepID=UPI00237D9A98
+#=GS UniRef90_A0A3P9Q9A0/3-40       DE [subseq from] Insulin n=3 Tax=Poecilia reticulata TaxID=8081 RepID=A0A3P9Q9A0_POERE
+#=GS UniRef90_A0A6J2QJP7/7-52       DE [subseq from] Insulin n=1 Tax=Cottoperca gobio TaxID=56716 RepID=A0A6J2QJP7_COTGO
+#=GS UniRef90_UPI001C03BDBE/5-55    DE [subseq from] insulin-like n=1 Tax=Melanotaenia boesemani TaxID=1250792 RepID=UPI001C03BDBE
+#=GS UniRef90_UPI00241377DA/9-50    DE [subseq from] preproinsulin b n=1 Tax=Poeciliopsis prolifica TaxID=188132 RepID=UPI00241377DA
+#=GS UniRef90_UPI0023EB801E/8-52    DE [subseq from] insulin-like isoform X1 n=1 Tax=Anoplopoma fimbria TaxID=229290 RepID=UPI0023EB801E
+#=GS UniRef90_O73727/1-52           DE [subseq from] Insulin n=18 Tax=Cyprinoidei TaxID=30727 RepID=INS_DANRE
+#=GS UniRef90_UPI002110B41A/7-52    DE [subseq from] insulin-like n=3 Tax=Syngnathus TaxID=103719 RepID=UPI002110B41A
+#=GS UniRef90_A0AA47M6N3/66-108     DE [subseq from] Insulin n=1 Tax=Merluccius polli TaxID=89951 RepID=A0AA47M6N3_MERPO
+#=GS UniRef90_A0A2U9CBW3/11-53      DE [subseq from] Insulin n=1 Tax=Scophthalmus maximus TaxID=52904 RepID=A0A2U9CBW3_SCOMX
+#=GS UniRef90_UPI00148FB5B7/8-50    DE [subseq from] preproinsulin b n=1 Tax=Notolabrus celidotus TaxID=1203425 RepID=UPI00148FB5B7
+#=GS UniRef90_A0AAJ7LUE7/10-52      DE [subseq from] Insulin n=10 Tax=Percomorphaceae TaxID=1489872 RepID=A0AAJ7LUE7_LATCA
+#=GS UniRef90_UPI001A992C6F/10-52   DE [subseq from] preproinsulin b n=1 Tax=Xiphias gladius TaxID=8245 RepID=UPI001A992C6F
+#=GS UniRef90_UPI002FC3BC41/1-53    DE [subseq from] insulin n=1 Tax=Mobula hypostoma TaxID=723540 RepID=UPI002FC3BC41
+#=GS UniRef90_Q7LZM9/2-29           DE [subseq from] Insulin n=1 Tax=Amphiuma tridactylum TaxID=8313 RepID=Q7LZM9_9SALA
+#=GS UniRef90_UPI00196458F8/13-53   DE [subseq from] insulin n=2 Tax=Polypteridae TaxID=8289 RepID=UPI00196458F8
+#=GS UniRef90_UPI00117E7FF8/14-58   DE [subseq from] insulin-like isoform X1 n=2 Tax=Sphaeramia orbicularis TaxID=375764 RepID=UPI00117E7FF8
+#=GS UniRef90_UPI001E8E5CB1/10-50   DE [subseq from] preproinsulin b n=2 Tax=Micropterus TaxID=27705 RepID=UPI001E8E5CB1
+#=GS UniRef90_A0A4W6D9N7/10-39      DE [subseq from] Insulin n=1 Tax=Lates calcarifer TaxID=8187 RepID=A0A4W6D9N7_LATCA
+#=GS UniRef90_A0A9Q0I8B1/11-54      DE [subseq from] Insulin n=2 Tax=Muraenolepis orangiensis TaxID=630683 RepID=A0A9Q0I8B1_9TELE
+#=GS UniRef90_UPI0037E8D73D/9-50    DE [subseq from] preproinsulin b n=1 Tax=Semicossyphus pulcher TaxID=241346 RepID=UPI0037E8D73D
+#=GS UniRef90_UPI0027DECA3D/1-54    DE [subseq from] insulin-2-like n=1 Tax=Centropristis striata TaxID=184440 RepID=UPI0027DECA3D
+#=GS UniRef90_UPI000E45949F/55-101  DE [subseq from] insulin-like n=1 Tax=Mastacembelus armatus TaxID=205130 RepID=UPI000E45949F
+#=GS UniRef90_A0A8D3AEG5/6-32       DE [subseq from] Insulin n=1 Tax=Scophthalmus maximus TaxID=52904 RepID=A0A8D3AEG5_SCOMX
+#=GS UniRef90_A0A665UB70/10-52      DE [subseq from] Insulin n=2 Tax=Echeneis naucrates TaxID=173247 RepID=A0A665UB70_ECHNA
+#=GS UniRef90_A0AAV6HFH4/26-76      DE [subseq from] Insulin n=3 Tax=Clupeidae TaxID=55118 RepID=A0AAV6HFH4_9TELE
+#=GS UniRef90_UPI00145A859C/4-53    DE [subseq from] insulin-1-like n=1 Tax=Periophthalmus magnuspinnatus TaxID=409849 RepID=UPI00145A859C
+#=GS UniRef90_A0A8C7ZH54/3-53       DE [subseq from] Preproinsulin n=3 Tax=Oryzias TaxID=8089 RepID=A0A8C7ZH54_9TELE
+#=GS UniRef90_A0A6P7J941/46-90      DE [subseq from] Insulin n=1 Tax=Parambassis ranga TaxID=210632 RepID=A0A6P7J941_9TELE
+#=GS UniRef90_A0A8J4TJG6/566-617    DE [subseq from] Pannexin (Fragment) n=1 Tax=Clarias magur TaxID=1594786 RepID=A0A8J4TJG6_CLAMG
+#=GS UniRef90_UPI00223D2E8A/1-53    DE [subseq from] insulin-like n=1 Tax=Pristis pectinata TaxID=685728 RepID=UPI00223D2E8A
+#=GS UniRef90_UPI0024B5F534/11-52   DE [subseq from] preproinsulin b n=1 Tax=Lampris incognitus TaxID=2546036 RepID=UPI0024B5F534
+#=GS UniRef90_I3KM26/8-52           DE [subseq from] Insulin n=10 Tax=Cichlidae TaxID=8113 RepID=I3KM26_ORENI
+#=GS UniRef90_A0A6P7PB69/3-54       DE [subseq from] Insulin-like n=1 Tax=Betta splendens TaxID=158456 RepID=A0A6P7PB69_BETSP
+#=GS UniRef90_UPI00187BD6D7/43-94   DE [subseq from] insulin-like n=1 Tax=Acanthopagrus latus TaxID=8177 RepID=UPI00187BD6D7
+#=GS UniRef90_P69046/5-30           DE [subseq from] Insulin n=10 Tax=Acanthomorphata TaxID=123368 RepID=INS_LOPPI
+#=GS UniRef90_A0A498MYY0/192-241    DE [subseq from] Insulin n=1 Tax=Labeo rohita TaxID=84645 RepID=A0A498MYY0_LABRO
+#=GS UniRef90_A0A3Q3ANI7/20-48      DE [subseq from] Insulin n=1 Tax=Kryptolebias marmoratus TaxID=37003 RepID=A0A3Q3ANI7_KRYMA
+#=GS UniRef90_A0AAV1FBB4/9-50       DE [subseq from] Insulin n=1 Tax=Xyrichtys novacula TaxID=13765 RepID=A0AAV1FBB4_XYRNO
+#=GS UniRef90_A0AAV2JDR2/33-81      DE [subseq from] Insulin n=1 Tax=Knipowitschia caucasica TaxID=637954 RepID=A0AAV2JDR2_KNICA
+#=GS UniRef90_A0A8C7HW63/8-33       DE [subseq from] Insulin n=3 Tax=Oncorhynchus TaxID=8016 RepID=A0A8C7HW63_ONCKI
+#=GS UniRef90_A0A674ATA5/5-30       DE [subseq from] Insulin n=6 Tax=Salmoninae TaxID=504568 RepID=A0A674ATA5_SALTR
+#=GS UniRef90_A0A096M678/9-52       DE [subseq from] Insulin n=7 Tax=Poeciliinae TaxID=586240 RepID=A0A096M678_POEFO
+#=GS UniRef90_A0A315VKR7/103-145    DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Gambusia affinis TaxID=33528 RepID=A0A315VKR7_GAMAF
+#=GS UniRef90_A0A671TSA7/3-54       DE [subseq from] Insulin n=2 Tax=Sparus aurata TaxID=8175 RepID=A0A671TSA7_SPAAU
+#=GS UniRef90_P07453/4-29           DE [subseq from] Insulin n=1 Tax=Myoxocephalus scorpius TaxID=8097 RepID=INS_MYOSC
+#=GS UniRef90_A0A2I4DBM9/3-52       DE [subseq from] Insulin n=1 Tax=Austrofundulus limnaeus TaxID=52670 RepID=A0A2I4DBM9_AUSLI
+#=GS UniRef90_UPI0011761F73/8-52    DE [subseq from] insulin-like n=1 Tax=Myripristis murdjan TaxID=586833 RepID=UPI0011761F73
+#=GS UniRef90_A0A671L9K3/1-52       DE [subseq from] Insulin n=2 Tax=Sinocyclocheilus TaxID=75365 RepID=A0A671L9K3_9TELE
+#=GS UniRef90_Q5BVE9/1-29           DE [subseq from] Insulin (Fragment) n=1 Tax=Dolichotis patagonum TaxID=29091 RepID=Q5BVE9_DOLPA
+#=GS UniRef90_UPI0024570223/21-73   DE [subseq from] insulin-like isoform X1 n=3 Tax=Rajidae TaxID=30475 RepID=UPI0024570223
+#=GS UniRef90_P0C236/2-29           DE [subseq from] Insulin n=1 Tax=Polypterus senegalus TaxID=55291 RepID=INS_POLSE
+#=GS UniRef90_A0A4W6CK19/11-38      DE [subseq from] Insulin n=1 Tax=Lates calcarifer TaxID=8187 RepID=A0A4W6CK19_LATCA
+#=GS UniRef90_A0AA88N5I2/9-52       DE [subseq from] Insulin n=1 Tax=Channa striata TaxID=64152 RepID=A0AA88N5I2_CHASR
+#=GS UniRef90_UPI0020153447/58-100  DE [subseq from] insulin-like n=1 Tax=Alosa alosa TaxID=278164 RepID=UPI0020153447
+#=GS UniRef90_A0A3Q3FGB4/8-50       DE [subseq from] Insulin n=2 Tax=Labrus TaxID=30799 RepID=A0A3Q3FGB4_9LABR
+#=GS UniRef90_A0A0M4UT51/1-44       DE [subseq from] Insulin (Fragment) n=3 Tax=Gekkoninae TaxID=385256 RepID=A0A0M4UT51_9SAUR
+#=GS UniRef90_A0AAN7XKE6/8-52       DE [subseq from] Insulin n=1 Tax=Eleginops maclovinus TaxID=56733 RepID=A0AAN7XKE6_ELEMC
+#=GS UniRef90_UPI00097D770E/3-55    DE [subseq from] insulin-like n=2 Tax=Paralichthys olivaceus TaxID=8255 RepID=UPI00097D770E
+#=GS UniRef90_A0A3Q0S4B4/2-28       DE [subseq from] Insulin n=11 Tax=Cichlidae TaxID=8113 RepID=A0A3Q0S4B4_AMPCI
+#=GS UniRef90_UPI001C4C360C/10-52   DE [subseq from] preproinsulin b n=2 Tax=Epinephelini TaxID=1505891 RepID=UPI001C4C360C
+#=GS UniRef90_A0A3B4F6N9/8-34       DE [subseq from] Insulin n=3 Tax=Pundamilia nyererei TaxID=303518 RepID=A0A3B4F6N9_9CICH
+#=GS UniRef90_UPI0011311833/6-37    DE [subseq from] insulin-like n=1 Tax=Oncorhynchus nerka TaxID=8023 RepID=UPI0011311833
+#=GS UniRef90_UPI0037530383/9-52    DE [subseq from] preproinsulin b n=2 Tax=Pleuronectoidei TaxID=30942 RepID=UPI0037530383
+#=GS UniRef90_UPI002E0F98ED/75-109  DE [subseq from] insulin-like n=1 Tax=Sardina pilchardus TaxID=27697 RepID=UPI002E0F98ED
+#=GS UniRef90_UPI0028C3A7F0/1-53    DE [subseq from] insulin n=1 Tax=Hypanus sabinus TaxID=79690 RepID=UPI0028C3A7F0
+#=GS UniRef90_UPI00350FDF7E/10-50   DE [subseq from] insulin-like n=2 Tax=Osmerus TaxID=8013 RepID=UPI00350FDF7E
+#=GS UniRef90_A0A3Q3S939/15-42      DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Mastacembelus armatus TaxID=205130 RepID=A0A3Q3S939_9TELE
+#=GS UniRef90_UPI002B1E817B/40-85   DE [subseq from] insulin-like isoform X2 n=1 Tax=Entelurus aequoreus TaxID=161455 RepID=UPI002B1E817B
+#=GS UniRef90_A0A3B3DID1/9-50       DE [subseq from] Insulin n=2 Tax=Oryzias melastigma TaxID=30732 RepID=A0A3B3DID1_ORYME
+#=GS UniRef90_P68987/8-34           DE [subseq from] Insulin n=2 Tax=Petromyzontidae TaxID=7746 RepID=INS_PETMA
+#=GS UniRef90_A0A674N0F3/71-112     DE [subseq from] Insulin n=5 Tax=Takifugu TaxID=31032 RepID=A0A674N0F3_TAKRU
+#=GS UniRef90_A0A8C5AX42/8-50       DE [subseq from] Insulin n=3 Tax=Gadus TaxID=8048 RepID=A0A8C5AX42_GADMO
+#=GS UniRef90_UPI001FAC2724/9-50    DE [subseq from] preproinsulin b n=1 Tax=Girardinichthys multiradiatus TaxID=208333 RepID=UPI001FAC2724
+#=GS UniRef90_A0A2I4CL96/10-50      DE [subseq from] Insulin n=2 Tax=Rivulidae TaxID=28771 RepID=A0A2I4CL96_AUSLI
+#=GS UniRef90_A0A7N8YR38/26-53      DE [subseq from] Insulin n=1 Tax=Mastacembelus armatus TaxID=205130 RepID=A0A7N8YR38_9TELE
+#=GS UniRef90_UPI00313BAF97/39-82   DE [subseq from] insulin-like n=1 Tax=Latimeria chalumnae TaxID=7897 RepID=UPI00313BAF97
+#=GS UniRef90_A0A3B3ILF2/9-50       DE [subseq from] Insulin n=3 Tax=Oryzias latipes TaxID=8090 RepID=A0A3B3ILF2_ORYLA
+#=GS UniRef90_A0A3Q3MFZ2/11-38      DE [subseq from] Insulin n=2 Tax=Mastacembelus armatus TaxID=205130 RepID=A0A3Q3MFZ2_9TELE
+#=GS UniRef90_Q5BVF4/2-29           DE [subseq from] Insulin (Fragment) n=1 Tax=Lagidium viscacia TaxID=84623 RepID=Q5BVF4_9HYST
+#=GS UniRef90_A0A3Q1IHR2/4-30       DE [subseq from] Insulin n=2 Tax=Anabas testudineus TaxID=64144 RepID=A0A3Q1IHR2_ANATE
+#=GS UniRef90_UPI001BD56F99/10-50   DE [subseq from] preproinsulin b n=1 Tax=Cheilinus undulatus TaxID=241271 RepID=UPI001BD56F99
+#=GS UniRef90_Q5BVE8/1-29           DE [subseq from] Insulin (Fragment) n=1 Tax=Hydrochoerus hydrochaeris TaxID=10149 RepID=Q5BVE8_HYDHY
+#=GS UniRef90_UPI000E454D16/10-52   DE [subseq from] insulin-like n=1 Tax=Anabas testudineus TaxID=64144 RepID=UPI000E454D16
+#=GS UniRef90_A0A668SMA3/8-35       DE [subseq from] Insulin n=1 Tax=Oreochromis aureus TaxID=47969 RepID=A0A668SMA3_OREAU
+#=GS UniRef90_A0A4W2BND6/1-41       DE [subseq from] Insulin n=1 Tax=Bos indicus x Bos taurus TaxID=30522 RepID=A0A4W2BND6_BOBOX
+#=GS UniRef90_A0A668SAY2/7-36       DE [subseq from] Insulin n=1 Tax=Oreochromis aureus TaxID=47969 RepID=A0A668SAY2_OREAU
+#=GS UniRef90_A0A3B4AXA6/18-44      DE [subseq from] Insulin n=1 Tax=Periophthalmus magnuspinnatus TaxID=409849 RepID=A0A3B4AXA6_9GOBI
+#=GS UniRef90_A0A3P9K7S3/39-80      DE [subseq from] Insulin n=1 Tax=Oryzias latipes TaxID=8090 RepID=A0A3P9K7S3_ORYLA
+#=GS UniRef90_A0A8D3CDT8/18-44      DE [subseq from] Insulin n=2 Tax=Scophthalmus maximus TaxID=52904 RepID=A0A8D3CDT8_SCOMX
+#=GS UniRef90_UPI002DDC5CA0/26-69   DE [subseq from] preproinsulin b n=1 Tax=Scomber scombrus TaxID=13677 RepID=UPI002DDC5CA0
+#=GS UniRef90_A0A5C6MP64/81-123     DE [subseq from] Insulin n=1 Tax=Takifugu flavidus TaxID=433684 RepID=A0A5C6MP64_9TELE
+#=GS UniRef90_UPI00148FC28D/3-51    DE [subseq from] insulin-like n=1 Tax=Notolabrus celidotus TaxID=1203425 RepID=UPI00148FC28D
+#=GS UniRef90_UPI0027E0E211/2-50    DE [subseq from] insulin-like n=1 Tax=Centropristis striata TaxID=184440 RepID=UPI0027E0E211
+#=GS UniRef90_A0A9Q1HP40/5-50       DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Conger conger TaxID=82655 RepID=A0A9Q1HP40_CONCO
+#=GS UniRef90_UPI001748EA5B/1-45    DE [subseq from] insulin-like n=1 Tax=Myotis myotis TaxID=51298 RepID=UPI001748EA5B
+#=GS UniRef90_A0A8C6M6Y3/6-31       DE [subseq from] Insulin n=1 Tax=Nothobranchius furzeri TaxID=105023 RepID=A0A8C6M6Y3_NOTFU
+#=GS UniRef90_A0A4Z2EQF3/111-157    DE [subseq from] Insulin n=1 Tax=Liparis tanakae TaxID=230148 RepID=A0A4Z2EQF3_9TELE
+#=GS UniRef90_A0A672FZF4/8-33       DE [subseq from] Insulin n=1 Tax=Salarias fasciatus TaxID=181472 RepID=A0A672FZF4_SALFA
+#=GS UniRef90_A0A4W6DAA0/7-32       DE [subseq from] Insulin n=2 Tax=Percomorphaceae TaxID=1489872 RepID=A0A4W6DAA0_LATCA
+#=GS UniRef90_A0A3Q1G5Y8/26-75      DE [subseq from] Insulin n=4 Tax=Pomacentridae TaxID=30863 RepID=A0A3Q1G5Y8_9TELE
+#=GS UniRef90_P01334/3-29           DE [subseq from] Insulin n=2 Tax=Colubroidea TaxID=34989 RepID=INS_CROAT
+#=GS UniRef90_A0A8C2X5R0/7-35       DE [subseq from] Insulin n=2 Tax=Cyclopterus lumpus TaxID=8103 RepID=A0A8C2X5R0_CYCLU
+#=GS UniRef90_A0A668S0N7/5-32       DE [subseq from] Insulin n=1 Tax=Oreochromis aureus TaxID=47969 RepID=A0A668S0N7_OREAU
+#=GS UniRef90_A0A0M5N0M8/1-44       DE [subseq from] Insulin (Fragment) n=1 Tax=Cyrtodactylus quadrivirgatus TaxID=751993 RepID=A0A0M5N0M8_9SAUR
+#=GS UniRef90_A0A8C7T2Z4/10-35      DE [subseq from] Insulin n=1 Tax=Oncorhynchus mykiss TaxID=8022 RepID=A0A8C7T2Z4_ONCMY
+#=GS UniRef90_A0A669E7U1/8-34       DE [subseq from] Insulin n=4 Tax=Pseudocrenilabrinae TaxID=318546 RepID=A0A669E7U1_ORENI
+#=GS UniRef90_UPI0009B3A1A7/37-83   DE [subseq from] insulin-like n=1 Tax=Monopterus albus TaxID=43700 RepID=UPI0009B3A1A7
+#=GS UniRef90_P29335/3-29           DE [subseq from] Insulin n=1 Tax=Amia calva TaxID=7924 RepID=INS_AMICA
+#=GS UniRef90_A0A3Q4MW59/5-30       DE [subseq from] Insulin n=10 Tax=Pseudocrenilabrinae TaxID=318546 RepID=A0A3Q4MW59_NEOBR
+#=GS UniRef90_A0A673AH44/3-54       DE [subseq from] Preproinsulin n=2 Tax=Sphaeramia orbicularis TaxID=375764 RepID=A0A673AH44_9TELE
+#=GS UniRef90_A0A3P9BKN7/13-40      DE [subseq from] Insulin n=3 Tax=Haplochromini TaxID=319058 RepID=A0A3P9BKN7_9CICH
+#=GS UniRef90_A0A667ZBW7/12-43      DE [subseq from] Insulin n=5 Tax=Euacanthomorphacea TaxID=123369 RepID=A0A667ZBW7_9TELE
+#=GS UniRef90_A0A6G1PTT5/9-50       DE [subseq from] Insulin n=1 Tax=Channa argus TaxID=215402 RepID=A0A6G1PTT5_9TELE
+#=GS UniRef90_A0A8C2X285/6-31       DE [subseq from] Insulin n=1 Tax=Cyclopterus lumpus TaxID=8103 RepID=A0A8C2X285_CYCLU
+#=GS UniRef90_A0A8D0AB36/3-54       DE [subseq from] Insulin n=1 Tax=Sander lucioperca TaxID=283035 RepID=A0A8D0AB36_SANLU
+#=GS UniRef90_UPI0035B2814E/11-52   DE [subseq from] preproinsulin b n=1 Tax=Antennarius striatus TaxID=241820 RepID=UPI0035B2814E
+#=GS UniRef90_A0A8C9SXU6/6-33       DE [subseq from] Insulin n=2 Tax=Scleropages formosus TaxID=113540 RepID=A0A8C9SXU6_SCLFO
+#=GS UniRef90_A0AAV1P7S5/84-127     DE [subseq from] Insulin n=1 Tax=Scomber scombrus TaxID=13677 RepID=A0AAV1P7S5_SCOSC
+#=GS UniRef90_UPI00223D2CA9/20-63   DE [subseq from] insulin-like n=2 Tax=Hippocampus TaxID=72046 RepID=UPI00223D2CA9
+#=GS UniRef90_A0A668S0N2/12-37      DE [subseq from] Insulin n=1 Tax=Oreochromis aureus TaxID=47969 RepID=A0A668S0N2_OREAU
+#=GS UniRef90_UPI00298CAFAC/1-52    DE [subseq from] insulin n=1 Tax=Neoarius graeffei TaxID=443677 RepID=UPI00298CAFAC
+#=GS UniRef90_A0A8C4C5S2/3-35       DE [subseq from] Insulin n=2 Tax=Denticeps clupeoides TaxID=299321 RepID=A0A8C4C5S2_9TELE
+#=GS UniRef90_UPI002DBB7F03/9-52    DE [subseq from] insulin-like n=3 Tax=Pleuronectidae TaxID=8256 RepID=UPI002DBB7F03
+#=GS UniRef90_A0A8C6S0Y4/8-32       DE [subseq from] Insulin n=2 Tax=Neogobius melanostomus TaxID=47308 RepID=A0A8C6S0Y4_9GOBI
+#=GS UniRef90_A0A0M3VI59/1-44       DE [subseq from] Insulin (Fragment) n=1 Tax=Paroedura picta TaxID=143630 RepID=A0A0M3VI59_9SAUR
+#=GS UniRef90_C0HJI2/3-29           DE [subseq from] Insulin-1 n=2 Tax=Thunnini TaxID=186749 RepID=INS1_KATPE
+#=GS UniRef90_A0A9Y4JSZ1/10-50      DE [subseq from] Insulin n=4 Tax=Pomacentridae TaxID=30863 RepID=A0A9Y4JSZ1_9TELE
+#=GS UniRef90_A0A8C6S2Z6/7-31       DE [subseq from] Insulin n=1 Tax=Neogobius melanostomus TaxID=47308 RepID=A0A8C6S2Z6_9GOBI
+#=GS UniRef90_UPI00202B07C9/1-54    DE [subseq from] insulin-like n=2 Tax=Orectolobiformes TaxID=30503 RepID=UPI00202B07C9
+#=GS UniRef90_A0A9J8B711/3-30       DE [subseq from] Insulin n=1 Tax=Cyprinus carpio carpio TaxID=630221 RepID=A0A9J8B711_CYPCA
+#=GS UniRef90_UPI001B3AB16C/3-52    DE [subseq from] insulin-like n=1 Tax=Toxotes jaculatrix TaxID=941984 RepID=UPI001B3AB16C
+#=GS UniRef90_P42633/3-29           DE [subseq from] Insulin n=1 Tax=Anguilla rostrata TaxID=7938 RepID=INS_ANGRO
+#=GS UniRef90_A0A8C7I7L6/22-48      DE [subseq from] Insulin n=1 Tax=Oncorhynchus kisutch TaxID=8019 RepID=A0A8C7I7L6_ONCKI
+#=GS UniRef90_A0A3B4WE18/11-52      DE [subseq from] Insulin n=3 Tax=Carangaria TaxID=1489904 RepID=A0A3B4WE18_SERLL
+#=GS UniRef90_Q98TA9/4-30           DE [subseq from] Insulin (Fragment) n=1 Tax=Gnathonemus petersii TaxID=42645 RepID=Q98TA9_9TELE
+#=GS UniRef90_P68991/3-29           DE [subseq from] Insulin n=2 Tax=Chimaeridae TaxID=7869 RepID=INS_CHIMO
+#=GS UniRef90_UPI00189883AC/3-54    DE [subseq from] insulin n=1 Tax=Nematolebias whitei TaxID=451745 RepID=UPI00189883AC
+#=GS UniRef90_UPI0010A2D4D0/3-52    DE [subseq from] insulin-like n=1 Tax=Denticeps clupeoides TaxID=299321 RepID=UPI0010A2D4D0
+#=GS UniRef90_A0A668ANN6/16-44      DE [subseq from] Insulin n=1 Tax=Myripristis murdjan TaxID=586833 RepID=A0A668ANN6_9TELE
+#=GS UniRef90_A0A1A8ACH4/3-53       DE [subseq from] Insulin-like n=3 Tax=Nothobranchius TaxID=28779 RepID=A0A1A8ACH4_NOTFU
+#=GS UniRef90_A0A3Q0SH55/8-34       DE [subseq from] Insulin n=3 Tax=Cichlidae TaxID=8113 RepID=A0A3Q0SH55_AMPCI
+#=GS UniRef90_A0A3Q1H7I4/7-32       DE [subseq from] Insulin n=1 Tax=Anabas testudineus TaxID=64144 RepID=A0A3Q1H7I4_ANATE
+#=GS UniRef90_P81881/4-31           DE [subseq from] Insulin n=3 Tax=Clupeocephala TaxID=186625 RepID=INS_PIAME
+#=GS UniRef90_A0A3Q0S4D2/10-35      DE [subseq from] Insulin n=1 Tax=Amphilophus citrinellus TaxID=61819 RepID=A0A3Q0S4D2_AMPCI
+#=GS UniRef90_UPI0025ADA986/3-51    DE [subseq from] insulin-like n=2 Tax=Syngnathinae TaxID=129914 RepID=UPI0025ADA986
+#=GS UniRef90_A0A6P8U2F7/8-52       DE [subseq from] Insulin n=8 Tax=Notothenioidei TaxID=8205 RepID=A0A6P8U2F7_GYMAC
+#=GS UniRef90_A0A0M4TTZ2/1-44       DE [subseq from] Insulin (Fragment) n=1 Tax=Stenodactylus sthenodactylus TaxID=930226 RepID=A0A0M4TTZ2_9SAUR
+#=GS UniRef90_A0A3Q4N2A5/5-30       DE [subseq from] Insulin n=2 Tax=Pseudocrenilabrinae TaxID=318546 RepID=A0A3Q4N2A5_NEOBR
+#=GS UniRef90_A0A3Q3KDW5/3-53       DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Monopterus albus TaxID=43700 RepID=A0A3Q3KDW5_MONAL
+#=GS UniRef90_A0A665UAI4/7-32       DE [subseq from] Insulin n=3 Tax=Echeneis naucrates TaxID=173247 RepID=A0A665UAI4_ECHNA
+#=GS UniRef90_A0AAR2IY52/4-30       DE [subseq from] Insulin n=2 Tax=Pygocentrus nattereri TaxID=42514 RepID=A0AAR2IY52_PYGNA
+#=GS UniRef90_A0A3Q0S9Z7/7-31       DE [subseq from] Insulin n=1 Tax=Amphilophus citrinellus TaxID=61819 RepID=A0A3Q0S9Z7_AMPCI
+#=GS UniRef90_A0A3B4U9K3/4-32       DE [subseq from] Insulin n=2 Tax=Percomorphaceae TaxID=1489872 RepID=A0A3B4U9K3_SERDU
+#=GS UniRef90_P13190/3-29           DE [subseq from] Insulin n=1 Tax=Callorhinchus milii TaxID=7868 RepID=INS_CALMI
+#=GS UniRef90_UPI000F5F3ED8/45-96   DE [subseq from] insulin isoform X1 n=2 Tax=Larimichthys crocea TaxID=215358 RepID=UPI000F5F3ED8
+#=GS UniRef90_A0A3B5LRF1/8-32       DE [subseq from] Insulin n=4 Tax=Poeciliinae TaxID=586240 RepID=A0A3B5LRF1_9TELE
+#=GS UniRef90_P12704/3-29           DE [subseq from] Insulin n=1 Tax=Squalus acanthias TaxID=7797 RepID=INS_SQUAC
+#=GS UniRef90_UPI002ACD8AC7/8-52    DE [subseq from] LOW QUALITY PROTEIN: insulin-like n=3 Tax=Syngnathinae TaxID=129914 RepID=UPI002ACD8AC7
+#=GS UniRef90_A0A3P9BKL1/10-34      DE [subseq from] Insulin n=3 Tax=Haplochromini TaxID=319058 RepID=A0A3P9BKL1_9CICH
+#=GS UniRef90_A0A8C6SLK0/4-53       DE [subseq from] Insulin n=1 Tax=Neogobius melanostomus TaxID=47308 RepID=A0A8C6SLK0_9GOBI
+#=GS UniRef90_A0AAR2J699/24-50      DE [subseq from] Insulin n=1 Tax=Pygocentrus nattereri TaxID=42514 RepID=A0AAR2J699_PYGNA
+#=GS UniRef90_A0A3B5LZB0/3-31       DE [subseq from] Insulin n=3 Tax=Poeciliinae TaxID=586240 RepID=A0A3B5LZB0_9TELE
+#=GS UniRef90_P01338/5-28           DE [subseq from] Insulin 2 n=1 Tax=Batrachoididae sp. TaxID=8066 RepID=INS2_BATSP
+#=GS UniRef90_A0A9N7VN70/95-138     DE [subseq from] Insulin n=2 Tax=Pleuronectes platessa TaxID=8262 RepID=A0A9N7VN70_PLEPL
+#=GS UniRef90_A0A8C1JC90/26-74      DE [subseq from] Insulin n=3 Tax=Cyprinus carpio TaxID=7962 RepID=A0A8C1JC90_CYPCA
+#=GS UniRef90_UPI000F5DB3C4/12-38   DE [subseq from] insulin isoform X2 n=1 Tax=Larimichthys crocea TaxID=215358 RepID=UPI000F5DB3C4
+#=GS UniRef90_A0A3Q2YRH8/31-78      DE [subseq from] Insulin n=2 Tax=Hippocampus comes TaxID=109280 RepID=A0A3Q2YRH8_HIPCM
+#=GS UniRef90_A0A6P8GXQ9/28-66      DE [subseq from] Insulin n=1 Tax=Clupea harengus TaxID=7950 RepID=A0A6P8GXQ9_CLUHA
+#=GS UniRef90_P12705/3-29           DE [subseq from] Insulin (Fragments) n=1 Tax=Torpedo marmorata TaxID=7788 RepID=INS_TORMA
+#=GS UniRef90_A0A9Q9YU86/5-51       DE [subseq from] Preproinsulin b n=1 Tax=Cyprinus carpio TaxID=7962 RepID=A0A9Q9YU86_CYPCA
+#=GS UniRef90_A0A3Q2YJT4/11-52      DE [subseq from] Insulin n=1 Tax=Hippocampus comes TaxID=109280 RepID=A0A3Q2YJT4_HIPCM
+#=GS UniRef90_UPI0007BA04FD/5-50    DE [subseq from] insulin-like n=3 Tax=Cyprinidae TaxID=7953 RepID=UPI0007BA04FD
+#=GS UniRef90_A0A8C4C2W4/20-47      DE [subseq from] Insulin n=1 Tax=Denticeps clupeoides TaxID=299321 RepID=A0A8C4C2W4_9TELE
+#=GS UniRef90_A0A556UES4/449-479    DE [subseq from] Multifunctional fusion protein n=1 Tax=Bagarius yarrelli TaxID=175774 RepID=A0A556UES4_BAGYA
+#=GS UniRef90_A0A0M4TUN1/1-44       DE [subseq from] Insulin (Fragment) n=1 Tax=Chondrodactylus turneri TaxID=401559 RepID=A0A0M4TUN1_9SAUR
+#=GS UniRef90_A0A6G0I8W3/149-200    DE [subseq from] Insulin n=1 Tax=Larimichthys crocea TaxID=215358 RepID=A0A6G0I8W3_LARCR
+#=GS UniRef90_A0A8C2JRV2/56-104     DE [subseq from] Insulin n=4 Tax=Cyprinus carpio TaxID=7962 RepID=A0A8C2JRV2_CYPCA
+#=GS UniRef90_A0A8C4SJ48/6-31       DE [subseq from] Insulin n=3 Tax=Erpetoichthys calabaricus TaxID=27687 RepID=A0A8C4SJ48_ERPCA
+#=GS UniRef90_A0AAV6SMK5/15-60      DE [subseq from] Insulin-like n=3 Tax=Solea TaxID=28828 RepID=A0AAV6SMK5_SOLSE
+#=GS UniRef90_A0A8C4R1Z5/9-54       DE [subseq from] Insulin n=1 Tax=Eptatretus burgeri TaxID=7764 RepID=A0A8C4R1Z5_EPTBU
+#=GS UniRef90_A0A553MW29/517-558    DE [subseq from] Multifunctional fusion protein n=1 Tax=Danionella translucida TaxID=623744 RepID=A0A553MW29_9TELE
+#=GS UniRef90_A0A6P7NMV8/11-52      DE [subseq from] Insulin n=1 Tax=Betta splendens TaxID=158456 RepID=A0A6P7NMV8_BETSP
+#=GS UniRef90_UPI002B1D6FFE/3-51    DE [subseq from] insulin-like n=2 Tax=Syngnathinae TaxID=129914 RepID=UPI002B1D6FFE
+#=GS UniRef90_A0A8D2J455/1-49       DE [subseq from] Insulin-like domain-containing protein n=2 Tax=Varanus komodoensis TaxID=61221 RepID=A0A8D2J455_VARKO
+#=GS UniRef90_UPI00189B3C4E/9-50    DE [subseq from] preproinsulin b n=1 Tax=Nematolebias whitei TaxID=451745 RepID=UPI00189B3C4E
+#=GS UniRef90_A0AB32T7F9/62-102     DE [subseq from] Preproinsulin b isoform X1 n=4 Tax=Danio TaxID=7954 RepID=A0AB32T7F9_DANRE
+#=GS UniRef90_A0AAV6SNS3/47-92      DE [subseq from] Insulin-like n=2 Tax=Solea TaxID=28828 RepID=A0AAV6SNS3_SOLSE
+#=GS UniRef90_A0A3B5LU77/14-39      DE [subseq from] Insulin n=1 Tax=Xiphophorus couchianus TaxID=32473 RepID=A0A3B5LU77_9TELE
+#=GS UniRef90_UPI000644FC0B/18-52   DE [subseq from] insulin-like n=1 Tax=Fundulus heteroclitus TaxID=8078 RepID=UPI000644FC0B
+#=GS UniRef90_A0A3Q1GGN3/2-28       DE [subseq from] Insulin n=5 Tax=Acanthochromis polyacanthus TaxID=80966 RepID=A0A3Q1GGN3_9TELE
+#=GS UniRef90_A0A3B5LUZ3/7-31       DE [subseq from] Insulin n=4 Tax=Cyprinodontoidei TaxID=8087 RepID=A0A3B5LUZ3_9TELE
+#=GS UniRef90_A0A553RFN7/10-50      DE [subseq from] Insulin n=1 Tax=Danionella translucida TaxID=623744 RepID=A0A553RFN7_9TELE
+#=GS UniRef90_UPI0022220C7E/21-65   DE [subseq from] preproinsulin b isoform X1 n=3 Tax=Catostomidae TaxID=7968 RepID=UPI0022220C7E
+#=GS UniRef90_A0A8B9RHS3/1-49       DE [subseq from] Insulin n=2 Tax=Astyanax mexicanus TaxID=7994 RepID=A0A8B9RHS3_ASTMX
+#=GS UniRef90_UPI00237E6774/11-53   DE [subseq from] preproinsulin b n=1 Tax=Synchiropus splendidus TaxID=270530 RepID=UPI00237E6774
+#=GS UniRef90_A0A3Q3WSZ2/6-31       DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Mola mola TaxID=94237 RepID=A0A3Q3WSZ2_MOLML
+#=GS UniRef90_A0A8X8BLU3/3-50       DE [subseq from] INS protein (Fragment) n=1 Tax=Polypterus senegalus TaxID=55291 RepID=A0A8X8BLU3_POLSE
+#=GS UniRef90_UPI002ADDCDAB/5-52    DE [subseq from] insulin-like n=1 Tax=Syngnathoides biaculeatus TaxID=300417 RepID=UPI002ADDCDAB
+#=GS UniRef90_UPI001B7DB4C7/8-54    DE [subseq from] insulin-2 n=1 Tax=Polyodon spathula TaxID=7913 RepID=UPI001B7DB4C7
+#=GS UniRef90_A0AAW1ZRN6/26-72      DE [subseq from] Insulin n=2 Tax=Cyprinoidei TaxID=30727 RepID=A0AAW1ZRN6_CULAL
+#=GS UniRef90_A0A4U5V679/3-52       DE [subseq from] Insulin n=2 Tax=Collichthys lucidus TaxID=240159 RepID=A0A4U5V679_COLLU
+#=GS UniRef90_A0AAY4AQV5/5-30       DE [subseq from] Uncharacterized protein n=3 Tax=Denticeps clupeoides TaxID=299321 RepID=A0AAY4AQV5_9TELE
+#=GS UniRef90_A0A444UK37/3-32       DE [subseq from] Insulin n=1 Tax=Acipenser ruthenus TaxID=7906 RepID=A0A444UK37_ACIRT
+#=GS UniRef90_A0A3Q3WCN1/16-41      DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Mola mola TaxID=94237 RepID=A0A3Q3WCN1_MOLML
+#=GS UniRef90_A0A6P6MZT1/22-63      DE [subseq from] Insulin-like n=2 Tax=Carassius TaxID=7956 RepID=A0A6P6MZT1_CARAU
+#=GS UniRef90_A0A672SA64/5-51       DE [subseq from] Insulin n=11 Tax=Cyprinoidei TaxID=30727 RepID=A0A672SA64_SINGR
+#=GS UniRef90_A0A401SFM9/1-54       DE [subseq from] Insulin n=2 Tax=Chiloscyllium TaxID=34767 RepID=A0A401SFM9_CHIPU
+#=GS UniRef90_A0A8C7WNF9/5-29       DE [subseq from] Insulin n=1 Tax=Oryzias sinensis TaxID=183150 RepID=A0A8C7WNF9_9TELE
+#=GS UniRef90_UPI0037239C47/8-51    DE [subseq from] insulin n=1 Tax=Lepisosteus oculatus TaxID=7918 RepID=UPI0037239C47
+#=GS UniRef90_UPI002014259C/67-113  DE [subseq from] LOW QUALITY PROTEIN: preproinsulin b n=3 Tax=Xenocypridinae TaxID=2743747 RepID=UPI002014259C
+#=GS UniRef90_UPI0036049276/11-50   DE [subseq from] preproinsulin b n=1 Tax=Brachionichthys hirsutus TaxID=412623 RepID=UPI0036049276
+#=GS UniRef90_UPI00186531BC/5-53    DE [subseq from] preproinsulin b n=1 Tax=Colossoma macropomum TaxID=42526 RepID=UPI00186531BC
+#=GS UniRef90_A0A3Q3ITQ2/5-30       DE [subseq from] Insulin n=4 Tax=Monopterus albus TaxID=43700 RepID=A0A3Q3ITQ2_MONAL
+#=GS UniRef90_UPI0029671219/1-54    DE [subseq from] insulin-like n=1 Tax=Hemiscyllium ocellatum TaxID=170820 RepID=UPI0029671219
+#=GS UniRef90_A0AAN9CLI6/13-49      DE [subseq from] Insulin n=3 Tax=Leuciscidae TaxID=2743726 RepID=A0AAN9CLI6_9TELE
+#=GS UniRef90_A0A3B5B2L8/7-32       DE [subseq from] Insulin n=1 Tax=Stegastes partitus TaxID=144197 RepID=A0A3B5B2L8_9TELE
+#=GS UniRef90_A0A673GKI9/3-51       DE [subseq from] Insulin n=2 Tax=Sinocyclocheilus rhinocerous TaxID=307959 RepID=A0A673GKI9_9TELE
+#=GS UniRef90_UPI0010556B59/9-49    DE [subseq from] insulin-like n=1 Tax=Gouania willdenowi TaxID=441366 RepID=UPI0010556B59
+#=GS UniRef90_A0A3Q2YJF5/4-53       DE [subseq from] Insulin-like n=8 Tax=Syngnathidae TaxID=72045 RepID=A0A3Q2YJF5_HIPCM
+#=GS UniRef90_A0A0M4TTY6/1-44       DE [subseq from] Insulin (Fragment) n=1 Tax=Gekko hokouensis TaxID=146910 RepID=A0A0M4TTY6_9SAUR
+#=GS UniRef90_UPI002FD06ADD/12-53   DE [subseq from] preproinsulin b n=1 Tax=Engraulis encrasicolus TaxID=184585 RepID=UPI002FD06ADD
+#=GS UniRef90_A0A3B3ZVC2/5-31       DE [subseq from] Insulin n=2 Tax=Periophthalmus magnuspinnatus TaxID=409849 RepID=A0A3B3ZVC2_9GOBI
+#=GS UniRef90_A0A0H4AE98/1-48       DE [subseq from] Insulin n=2 Tax=Desmognathus ocoee TaxID=179530 RepID=A0A0H4AE98_9SALA
+#=GS UniRef90_A0A3Q3AU04/10-36      DE [subseq from] Insulin n=3 Tax=Kryptolebias marmoratus TaxID=37003 RepID=A0A3Q3AU04_KRYMA
+#=GS UniRef90_A0A8C9F1D1/28-51      DE [subseq from] Insulin-like growth factor 2 n=1 Tax=Pavo cristatus TaxID=9049 RepID=A0A8C9F1D1_PAVCR
+#=GS UniRef90_UPI00272BD920/11-50   DE [subseq from] insulin-like growth factor I-A isoform X2 n=1 Tax=Onychostoma macrolepis TaxID=369639 RepID=UPI00272BD920
+#=GS UniRef90_A0A7J6D9U7/11-50      DE [subseq from] Insulin n=2 Tax=Onychostoma macrolepis TaxID=369639 RepID=A0A7J6D9U7_9TELE
+#=GS UniRef90_A0A674A6Q9/2-35       DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Salmo trutta TaxID=8032 RepID=A0A674A6Q9_SALTR
+#=GS UniRef90_UPI0025A547D3/56-103  DE [subseq from] insulin-like n=2 Tax=Syngnathinae TaxID=129914 RepID=UPI0025A547D3
+#=GS UniRef90_A0A0M3VI62/1-42       DE [subseq from] Insulin (Fragment) n=1 Tax=Hemidactylus frenatus TaxID=47729 RepID=A0A0M3VI62_HEMFR
+#=GS UniRef90_UPI00147728C5/40-65   DE [subseq from] insulin n=1 Tax=Esox lucius TaxID=8010 RepID=UPI00147728C5
+#=GS UniRef90_UPI001CF9F316/8-51    DE [subseq from] insulin-like n=1 Tax=Protopterus annectens TaxID=7888 RepID=UPI001CF9F316
+#=GS UniRef90_UPI002AD3D21E/3-54    DE [subseq from] insulin-like n=1 Tax=Cololabis saira TaxID=129043 RepID=UPI002AD3D21E
+#=GS UniRef90_P01342/10-54          DE [subseq from] Insulin n=1 Tax=Myxine glutinosa TaxID=7769 RepID=INS_MYXGL
+#=GS UniRef90_A0A673FM24/7-32       DE [subseq from] Insulin n=2 Tax=Sinocyclocheilus rhinocerous TaxID=307959 RepID=A0A673FM24_9TELE
+#=GS UniRef90_A0A3B5A7X0/4-28       DE [subseq from] Insulin n=2 Tax=Stegastes partitus TaxID=144197 RepID=A0A3B5A7X0_9TELE
+#=GS UniRef90_A0A8C5G4B4/10-35      DE [subseq from] Insulin n=1 Tax=Gouania willdenowi TaxID=441366 RepID=A0A8C5G4B4_GOUWI
+#=GS UniRef90_A0A673FQZ3/4-28       DE [subseq from] Insulin n=1 Tax=Sinocyclocheilus rhinocerous TaxID=307959 RepID=A0A673FQZ3_9TELE
+#=GS UniRef90_UPI0028690287/31-74   DE [subseq from] insulin-like n=1 Tax=Carassius carassius TaxID=217509 RepID=UPI0028690287
+#=GS UniRef90_A0A673FRD9/9-32       DE [subseq from] Insulin n=1 Tax=Sinocyclocheilus rhinocerous TaxID=307959 RepID=A0A673FRD9_9TELE
+#=GS UniRef90_A0AAY5KKI3/40-65      DE [subseq from] Uncharacterized protein n=2 Tax=Esox lucius TaxID=8010 RepID=A0AAY5KKI3_ESOLU
+#=GS UniRef90_A0A3P8TKR9/2-44       DE [subseq from] Insulin n=1 Tax=Amphiprion percula TaxID=161767 RepID=A0A3P8TKR9_AMPPE
+#=GS UniRef90_A0A3Q3AFD5/4-28       DE [subseq from] Insulin n=1 Tax=Kryptolebias marmoratus TaxID=37003 RepID=A0A3Q3AFD5_KRYMA
+#=GS UniRef90_A0A8C9ZHT3/3-27       DE [subseq from] Insulin n=2 Tax=Sander lucioperca TaxID=283035 RepID=A0A8C9ZHT3_SANLU
+#=GS UniRef90_A0A3P8TKU0/5-36       DE [subseq from] Insulin n=1 Tax=Amphiprion percula TaxID=161767 RepID=A0A3P8TKU0_AMPPE
+#=GS UniRef90_A0A0M4UV63/1-44       DE [subseq from] Insulin (Fragment) n=1 Tax=Gonatodes albogularis TaxID=460622 RepID=A0A0M4UV63_GONAL
+#=GS UniRef90_UPI00358E5AB5/67-111  DE [subseq from] insulin n=1 Tax=Myxine glutinosa TaxID=7769 RepID=UPI00358E5AB5
+#=GS UniRef90_Q5BVF3/1-29           DE [subseq from] Insulin (Fragment) n=2 Tax=Cavia TaxID=10140 RepID=Q5BVF3_CAVPO
+#=GS UniRef90_A0A3Q2TUI2/9-34       DE [subseq from] Insulin n=3 Tax=Fundulus heteroclitus TaxID=8078 RepID=A0A3Q2TUI2_FUNHE
+#=GS UniRef90_Q5BVF0/1-29           DE [subseq from] Insulin (Fragment) n=1 Tax=Galea musteloides TaxID=10146 RepID=Q5BVF0_GALMU
+#=GS UniRef90_UPI0031F406D2/5-50    DE [subseq from] insulin n=2 Tax=Cobitinae TaxID=278169 RepID=UPI0031F406D2
+#=GS UniRef90_A0A6J2WZM2/8-50       DE [subseq from] Insulin-like n=1 Tax=Chanos chanos TaxID=29144 RepID=A0A6J2WZM2_CHACN
+#=GS UniRef90_A0A673GZN2/13-55      DE [subseq from] Insulin n=1 Tax=Sinocyclocheilus rhinocerous TaxID=307959 RepID=A0A673GZN2_9TELE
+#=GS UniRef90_Q5BVD8/2-26           DE [subseq from] Insulin (Fragment) n=1 Tax=Ctenomys robore TaxID=316387 RepID=Q5BVD8_9HYST
+#=GS UniRef90_Q5BVF1/1-29           DE [subseq from] Insulin (Fragment) n=1 Tax=Microcavia niata TaxID=203484 RepID=Q5BVF1_9HYST
+#=GS UniRef90_A0A8C6LSP2/6-31       DE [subseq from] Insulin-like n=3 Tax=Nothobranchius furzeri TaxID=105023 RepID=A0A8C6LSP2_NOTFU
+#=GS UniRef90_A0A673BPN7/7-29       DE [subseq from] Insulin n=2 Tax=Sphaeramia orbicularis TaxID=375764 RepID=A0A673BPN7_9TELE
+#=GS UniRef90_A0A0M4U3Z0/1-43       DE [subseq from] Insulin (Fragment) n=1 Tax=Hemidactylus platyurus TaxID=498596 RepID=A0A0M4U3Z0_9SAUR
+#=GS UniRef90_A0A9D3RJ02/6-50       DE [subseq from] Insulin-like domain-containing protein n=2 Tax=Anguilla TaxID=7935 RepID=A0A9D3RJ02_ANGAN
+#=GS UniRef90_UPI0034626A4D/8-48    DE [subseq from] insulin n=1 Tax=Hoplias malabaricus TaxID=27720 RepID=UPI0034626A4D
+#=GS UniRef90_A0A3Q2Q3F3/7-30       DE [subseq from] Insulin n=1 Tax=Fundulus heteroclitus TaxID=8078 RepID=A0A3Q2Q3F3_FUNHE
+#=GS UniRef90_UPI00234CD95C/5-50    DE [subseq from] insulin n=1 Tax=Clarias gariepinus TaxID=13013 RepID=UPI00234CD95C
+#=GS UniRef90_UPI0007ACC606/6-50    DE [subseq from] insulin-like n=3 Tax=Sinocyclocheilus TaxID=75365 RepID=UPI0007ACC606
+#=GS UniRef90_UPI003461BAA5/14-53   DE [subseq from] preproinsulin b n=1 Tax=Hoplias malabaricus TaxID=27720 RepID=UPI003461BAA5
+#=GS UniRef90_UPI001863E487/6-50    DE [subseq from] insulin n=1 Tax=Megalops cyprinoides TaxID=118141 RepID=UPI001863E487
+#=GS UniRef90_A0A5N5MEY8/29-75      DE [subseq from] Insulin-like domain-containing protein n=1 Tax=Pangasianodon hypophthalmus TaxID=310915 RepID=A0A5N5MEY8_PANHP
+#=GS UniRef90_UPI002306DF61/31-76   DE [subseq from] insulin n=1 Tax=Pangasianodon hypophthalmus TaxID=310915 RepID=UPI002306DF61
+#=GS UniRef90_A0AAW2AVG1/10-50      DE [subseq from] Insulin-like domain-containing protein n=5 Tax=Cyprinoidei TaxID=30727 RepID=A0AAW2AVG1_CULAL
+#=GS UniRef90_UPI00234B52F5/5-52    DE [subseq from] insulin-2-like n=1 Tax=Spea bombifrons TaxID=233779 RepID=UPI00234B52F5
+#=GS UniRef90_A0A3Q2Q2F4/8-30       DE [subseq from] Insulin n=1 Tax=Fundulus heteroclitus TaxID=8078 RepID=A0A3Q2Q2F4_FUNHE
+#=GS UniRef90_A0A3P8TPL8/13-40      DE [subseq from] Insulin n=1 Tax=Amphiprion percula TaxID=161767 RepID=A0A3P8TPL8_AMPPE
+#=GS UniRef90_A0A3B1J0U9/8-34       DE [subseq from] Insulin n=4 Tax=Astyanax mexicanus TaxID=7994 RepID=A0A3B1J0U9_ASTMX
+#=GS UniRef90_A0A8T2NS28/10-50      DE [subseq from] Insulin n=1 Tax=Albula glossodonta TaxID=121402 RepID=A0A8T2NS28_9TELE
+#=GS UniRef90_A0AA88QGG8/19-50      DE [subseq from] Insulin-like domain-containing protein n=2 Tax=Labeonini TaxID=2743697 RepID=A0AA88QGG8_9TELE
+#=GS UniRef90_UPI0024C4CAFF/66-106  DE [subseq from] insulin-like n=1 Tax=Gadus chalcogrammus TaxID=1042646 RepID=UPI0024C4CAFF
+#=GS UniRef90_UPI002FD41F02/22-71   DE [subseq from] insulin n=1 Tax=Engraulis encrasicolus TaxID=184585 RepID=UPI002FD41F02
+#=GS UniRef90_UPI0034639393/10-52   DE [subseq from] insulin-2-like n=1 Tax=Amia calva TaxID=7924 RepID=UPI0034639393
+#=GS UniRef90_A0A9D3SX86/68-112     DE [subseq from] Insulin-like domain-containing protein (Fragment) n=1 Tax=Megalops atlanticus TaxID=7932 RepID=A0A9D3SX86_MEGAT
+#=GS UniRef90_A0A673AK04/15-39      DE [subseq from] Insulin n=1 Tax=Sphaeramia orbicularis TaxID=375764 RepID=A0A673AK04_9TELE
+#=GS UniRef90_UPI002222FE7E/20-50   DE [subseq from] insulin-1 n=1 Tax=Myxocyprinus asiaticus TaxID=70543 RepID=UPI002222FE7E
+
+insulin                                MALWMRL-LP--LLA-LL-A--L--W-GPD--P-A-A--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_L5LRB0/1-53                   MALWTRL-LP--LLA-LL-A--L--W-APA--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_L5LRB0/84-113                 -----------------------------D--P-S-Q------S-Q-----D-QH-LCGDELVNALT-ITCGDRGFY--N---
+UniRef90_UPI001D0465D7/1-53            MALWTRL-LP--LLA-LL-A--L--W-SPS--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI001D0465D7/198-242         ------L-LM--LFT-FL-A--F--A-SCC--I-A-A--Y---R-P-----S-ET-LCGGELVDTLQ-FVCGDRGFY-FS---
+UniRef90_A0A485P8Y2/1-53               MALWTRL-LP--LLA-LL-S--L--W-TPA--P-T-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A485P8Y2/200-245            -----SM-LV--LLT-FL-A--L--A-SCC--F-A-A--Y---R-P-----S-ET-LCGGELVDTLQ-FVCGDRGFY-FS---
+UniRef90_L5LR50/1-41                   MALWTRL-LP--LLA-LL-A--L--W-APA--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-L--------------
+UniRef90_L5LR50/40-68                  -------------------------------------------Y-L-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A9E9AQX1/1-54               MALWMRL-LP--LLA-LL-A--L--W-GPD--P-A-A--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_P01308/1-54                   MALWMRL-LP--LLA-LL-A--L--W-GPD--P-A-A--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_A0A2R9C3W5/1-54               MALWMRL-LP--LLA-LL-A--L--W-GPD--P-A-S--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_F8WCM5/1-54                   MALWMRL-LP--LLA-LL-A--L--W-GPD--P-A-A--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_Q8HXV2/1-54                   MALWMRL-LP--LLA-LL-A--L--W-GPD--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_P30410/1-54                   MALWMRL-LP--LLV-LL-A--L--W-GPD--P-A-S--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_UPI0005F37D96/1-54            MALWMRL-LP--LLA-LL-A--L--W-GPD--P-V-P--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_G7PNW8/1-54                   MALWMRL-LP--LLA-LL-A--L--W-GPD--P-A-P--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_P30407/1-54                   MALWMRL-LP--LLA-LL-A--L--W-GPD--P-V-P--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_B5FWC2/1-53                   MAVWMRL-LP--LLA-LL-A--L--W-GPE--P-A-P--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A8D2GB84/1-54               MALWMRL-LP--LLA-LL-A--L--W-GPD--S-V-P--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_A0A8B7EXV1/1-54               MALWTRL-LP--LLA-LL-A--L--W-GPE--P-A-P--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKS
+UniRef90_UPI002A5AD54E/1-52            MASWLQV-VS--PLL-LL-L--L--S-NPG--V-D-A--A-----S-----N-QH-LCGSHLVEALY-LVCGEKGFF-FKPN-
+UniRef90_UPI002A5AD54E/277-328         MAPWLQV-VS--LLV-LL-V--V--S-NPG--V---D--A---M-S-----N-QR-LCGPHLVDALY-LVCGDRGFF-FKPS-
+UniRef90_A0A8C2N454/1-54               MALWMRL-LP--LLA-LL-A--L--W-EPN--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKS
+UniRef90_UPI001B34E99A/1-53            MALWTRL-LP--LLA-LL-I--V--W-GPD--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A1A6FUB4/1-54               MALWMRL-LP--LLA-LL-A--L--W-EPK--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKS
+UniRef90_A0A8C9UNC8/1-54               MALWTRL-LP--LLA-LL-A--L--L-GPD--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKS
+UniRef90_A0A8C3WAF9/1-53               MALWMRL-AP--LLA-LL-A--L--W-APG--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0ELZ1/1-54                   MALWMRL-LP--LLA-LL-V--L--W-EPN--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKS
+UniRef90_A0A8B8Y4P9/1-53               MALWMRL-VP--LLA-LL-A--L--W-APT--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI0004D042A8/1-53            MALWARL-LP--LLA-LL-A--L--W-GPE--P-A-P--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_M3Y2P2/1-53                   MALWMRI-LP--LLA-LL-A--L--W-APA--P-T-A--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI0003F0EB1C/1-54            MALWTRL-LP--LLA-LL-A--I--W-APS--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_A0A8C4KSY9/1-53               MALWTRL-LP--LLA-LL-A--L--W-SPS--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_P01315/1-53                   MALWTRL-LP--LLA-LL-A--L--W-APA--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI00188EEF0E/1-53            MALWTRL-LP--LLA-LL-A--V--W-GPR--P-A-P--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_Q91XI3/1-54                   MALWTRL-LP--LLA-LL-A--L--L-GPD--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKS
+UniRef90_P67972/1-54                   MALWMHL-LP--LLA-LL-A--L--W-GPE--P-A-P--A---F-V-----N-QH-LCGPHLVEALY-LVCGERGFF-YAPKT
+UniRef90_A0A2K5DMS7/1-54               MALWMHL-LP--LLA-LL-A--L--W-GPE--P-A-P--A---F-V-----N-QH-LCGPHLVEALY-LVCGERGFF-YAPKT
+UniRef90_G3HXZ8/139-192                MALWMRL-LP--LLA-LL-A--L--W-EPN--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKS
+UniRef90_P01321/1-53                   MALWMRL-LP--LLA-LL-A--L--W-APA--P-T-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI0021E38EA2/1-54            MALWMRL-LP--LLA-LL-V--L--W-EPN--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKS
+UniRef90_UPI0007672009/1-53            MALWTRL-LP--LLA-LL-A--L--W-APA--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI0028BEFF68/1-53            MALWMRL-VP--LLA-LL-A--L--W-APT--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A2Y9PTW5/1-53               MVLWMRL-VP--LLA-LL-A--L--W-APA--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A8C0NNU2/123-175            MALWMRL-LP--LLA-LL-A--L--W-APA--P-T-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI00174E3F67/1-53            MALWTRL-LP--LLA-LL-A--L--W-APA--P-S-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A1S3FKC1/1-54               MALWTRL-LP--LLA-LL-A--L--W-GAC--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKS
+UniRef90_A0A7J8ERN5/1-53               MALWTRL-LP--LLA-LL-A--L--W-APA--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A836CT95/1-53               MALWTRL-VP--LLA-LL-A--L--W-APA--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_Q62587/1-53                   MALWMRL-LP--LLA-FL-I--L--W-EPS--P-A-H--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A4V5PB51/40-92              MVLWMRL-VP--LLA-LL-A--L--W-APA--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI0003C030E3/1-53            MALWIRL-AP--LLA-LL-A--L--W-APA--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A6B0RRD4/1-53               MALWTRL-AP--LLA-LL-A--L--W-APA--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_L5KR12/1-53                   MALWTRL-LP--LLA-LL-G--L--W-APT--P-A-P--A---F-V-----S-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A5PJB2/1-53                   MALWTRL-AP--LLA-LL-A--L--W-APA--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI0023EDE615/1-53            MALWTRL-LP--LLA-LL-A--L--W-APA--P-A-Q--A---L-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A8J6ANK6/1-53               MAPWTRL-LP--LLA-LL-A--L--W-APR--P-A-P--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A6J2M1G9/1-53               MAPWTRL-LP--LLA-LL-A--L--W-APA--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI001924188C/1-53            MALWTRL-LP--LLA-LL-A--L--W-TPA--P-T-H--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A9B0T8C7/1-54               MALWMRL-LP--LLA-LL-A--V--G-VPP--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_P01317/1-53                   MALWTRL-RP--LLA-LL-A--L--W-PPP--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI001C6FC402/1-53            MALWTRL-LP--LLA-LL-S--L--W-TPA--P-T-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A452S4G8/1-53               MALWTRL-LP--LLA-LL-A--F--W-APV--P-A-R--T---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A7N5JXI9/39-91              MALWTRL-LP--LLA-LL-A--V--W-APV--P-A-R--T---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_D2HDS9/1-53                   MALWTRL-LP--LLA-LL-A--V--W-APV--P-A-R--T---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A1U7T3P2/1-53               MALCSRL-LP--LLA-LL-A--L--W-GPD--P-A-R--A---F-V-----N-QH-LCGPHLVEALY-LVCGERGFF-YAPK-
+UniRef90_G3TLG9/1-54                   MALWTRL-LP--LLA-LL-A--V--G-APP--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_UPI0007041584/1-51            MALWTRL-LP--LLA-LL-A--L--W-APT--P-A-Q--A---F-Y-----F-EH-LCDEDLAEMLT-IICGDQGFR--NP--
+UniRef90_UPI0007041584/89-129          --------------R-LL-A--L--W-APA--P-A-P--A---QSG-----E-QR-LCGEDLVDTLT-MVCGDRGFY--SP--
+UniRef90_A0A667HLH0/61-113             MALWTRL-LP--LLA-LL-S--L--W-TPA--P-T-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI001658E440/59-111          MALWTHL-LP--LLA-LL-A--L--W-APA--P-S-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A8B7AMV9/1-54               MALWVRL-LP--LLA-LL-A--I--G-APP--P-A-R--A---F-V-----S-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_A0A9B0GR56/1-53               MALWTHL-LP--LLA-LL-A--L--W-APA--P-S-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI00265F10AD/1-53            MALWTRL-LP--LLG-LL-A--L--V-APG--P-A-G--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI001C5C8CE7/1-54            MALWVRL-LP--LLA-LL-A--I--G-APP--P-A-R--A---F-V-----S-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_P06306/1-53                   MAPWTRL-LP--LLA-LL-S--L--W-IPA--P-T-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_G5C2F2/1-53                   MALWMRL-LA--VLA-LL-A--L--W-RPD--T-A-Q--A---F-V-----N-RH-LCGSHLVEALY-LVCGDNGFF-YTPK-
+UniRef90_A0A6J0WR23/470-522            MALWMRL-LP--LLA-LL-A--L--C-APA--P-A-R--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_P01323/1-53                   MALWIRF-LP--LLA-LL-I--L--W-EPR--P-A-Q--A---F-V-----K-QH-LCGSHLVEALY-LVCGERGFF-YTPM-
+UniRef90_P21563/1-53                   MALWI-L-LP--LLA-LL-I--L--W-GPD--P-A-Q--A---F-V-----N-QH-LCGSHLVEALYILVCGERGFF-YTPM-
+UniRef90_A0A7J8H071/1-53               MALWTRL-LP--LLA-LL-G--L--W-APA--A-A-P--A---F-V-----T-QH-LCGSHLVEALY-VVCGERGFF-YSPK-
+UniRef90_A0A5N4BXJ1/1-53               MALWTRL-LA--LLA-LL-A--L--G-APT--P-A-R--A---F-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_D3YWU5/1-53                   MALWMRF-LP--LLA-LL-F--L--W-ESH--P-T-Q--A---F-V-----K-QH-LCGSHLVEALY-LVCGERGFF-YTPM-
+UniRef90_D3Z596/1-53                   MALWMRF-LP--LLA-LL-F--L--W-ESH--P-T-Q--A---F-V-----K-QH-LCGSHLVEALY-LVCGERGFF-YTPM-
+UniRef90_UPI003526512A/16-68           MALWMRF-LP--LLA-LL-F--L--W-ESH--P-T-Q--A---F-V-----K-QH-LCGSHLVEALY-LVCGERGFF-YTPM-
+UniRef90_P01326/1-53                   MALWMRF-LP--LLA-LL-F--L--W-ESH--P-T-Q--A---F-V-----K-QH-LCGSHLVEALY-LVCGERGFF-YTPM-
+UniRef90_D3Z595/1-53                   MALWMRF-LP--LLA-LL-F--L--W-ESH--P-T-Q--A---F-V-----K-QH-LCGSHLVEALY-LVCGERGFF-YTPM-
+UniRef90_UPI0012628981/1-52            MTMWMRF-LP--LLA-LL-F--L--W-EPH--P-A-Q--A---F-V-----K-QH-LCGSHLVEALY-LVCGERGFF-YTP--
+UniRef90_A0A8C6GMX7/13-65              MALWMRF-LP--LLA-LL-F--L--W-ESH--P-T-Q--A---F-V-----K-QH-LCGSHLVEALY-LVCGERGFF-YTPM-
+UniRef90_G1TTU1/27-80                  MAPWPRL-LP--LLA-LL-V--L--C-RLD--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKS
+UniRef90_B3RFH3/1-52                   MALWMRL-LL--LLA-LL-A--A--W-TP---P-T-P--A---F-V-----N-QH-LCGAHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A383Z7M6/1-55               MALWVRL-VP--LLD-LL-D--L--W-APA--P-A-GPRA---F-V-----S-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI000333696B/1-54            MACWFCL-LP--LLA-LL-L--T--G-GPH--P-A-R--A---I-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_A0ELY4/1-54                   MALLVRF-LP--LLA-LL-A--L--W-EPK--P-T-Q--A---F-V-----K-QH-LCGPHLVEALY-LVCGERGFF-YSPKS
+UniRef90_UPI00189DC123/1-53            MGLWLRL-LP--LLG-LL-A--L--G-VPA--P-A-A--A---F-V-----T-QH-LCGSHLVEALY-LVCRERGFF-YSPK-
+UniRef90_A0A8C2W2Q8/1-53               MAPWMRL-LA--VLA-LL-A--L--G-GPN--S-A-Q--A---F-V-----N-KH-LCGSHLVDALY-LVCGDRGFF-YTPM-
+UniRef90_A0A8C2W6V2/1-53               MAPWMRL-LA--VLA-LL-A--L--G-GPN--S-A-Q--A---F-V-----N-KH-LCGSHLVDALY-LVCGDRGFF-YTPM-
+UniRef90_A0A8C9MM83/1-53               MALWIRS-LP--LLA-LL-A--L--S-GPG--S-S-H--A---A-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YQPK-
+UniRef90_A0A8C5JB52/1-53               MALWIRS-LP--LLA-LL-A--L--S-GPG--S-S-H--A---A-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YQPK-
+UniRef90_A0A7K7LNG9/1-54               MALWIRS-LP--LLA-LL-A--L--S-GPG--I-S-H--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPKT
+UniRef90_A0A8C2W4I8/1-53               MAPWMRL-LA--VLA-LL-A--L--G-GPN--S-A-Q--A---F-V-----N-KH-LCGSHLVDALY-LVCGDRGFF-YTPM-
+UniRef90_A0A7K9HWY1/1-53               MALWIRS-LP--LLA-LL-A--L--C-GPE--S-S-H--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YYPK-
+UniRef90_A0A8C3FJX1/1-53               MALWIRS-LP--LLA-LL-A--L--S-GPP--I-S-H--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_A0A091FRU0/1-53               MALWIRS-LP--LLA-LL-A--L--S-GPG--T-S-H--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_U3J027/35-88                  MALWIRS-LP--LLA-LL-A--L--S-GPG--I-S-H--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPKT
+UniRef90_K7G107/1-53                   MALWIRS-LP--LLA-LL-A--L--S-GPP--I-S-H--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_A0A851WB17/1-53               MALWIRS-LP--LLA-LL-A--L--S-GPG--S-S-H--A---A-V-----S-QH-LCGSHLVEALY-LVCGERGFF-YQPK-
+UniRef90_UPI0005290803/1-53            MALWIES-LP--LLA-LL-A--L--S-GPG--T-S-H--A---V-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_P01311/2-54                   -ASLAAL-LP--LLA-LL-V--L--C-RLD--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKS
+UniRef90_A6JHT1/14-61                  ------F-LP--LLA-LL-V--L--W-EPK--P-A-Q--A---F-V-----K-QH-LCGPHLVEALY-LVCGERGFF-YTPKS
+UniRef90_A0A2I0MHN3/1-53               MALWIRS-LP--LMA-LL-A--L--S-GPG--T-S-H--A---A-A-----N-QH-LCGSHLVEALY-LVCGDRGFF-YSPK-
+UniRef90_A0A091DCT1/1-53               MAPWMRL-LA--VLA-LL-A--L--W-WPD--T-A-Q--A---F-V-----N-RH-LCGSHLVEALY-RACGDDGFF-YKPK-
+UniRef90_A0A8C3TQ79/37-89              MALWIRS-LP--LLA-LL-A--L--S-SPG--G-S-Q--A---A-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YQPK-
+UniRef90_A0A7K7QSM1/1-53               MALWIQS-LP--LLA-LL-A--F--S-GPG--S-S-H--A---A-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YQPK-
+UniRef90_A0A8T1SQZ2/12-64              MALWIQS-LP--LLA-LL-A--L--S-GPT--I-S-H--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_U3KAN7/1-53                   MALWLRS-LP--LLA-LL-A--L--S-SPG--S-S-Q--A---A-V-----S-QH-LCGSHLVEALY-LVCGERGFF-YQPK-
+UniRef90_A0A672TP51/1-53               MALWILS-LP--LLA-LL-A--L--S-GPG--T-S-H--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_P67970/1-53                   MALWIRS-LP--LLA-LL-V--F--S-GPG--T-S-Y--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_A0A835NLW6/39-91              MALWIRS-LP--LLA-LL-A--L--S-CPG--S-S-H--A---A-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YQPK-
+UniRef90_UPI0031390012/35-87           MALWIRS-LP--LLA-LL-A--L--S-GPG--T-S-H--G---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YYPK-
+UniRef90_A0A6J0GLW5/53-105             MALWIRS-LP--LLA-LL-A--L--S-GPG--T-S-H--G---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YYPK-
+UniRef90_A0A851Y9K2/1-53               MALWIRS-LP--LLA-LL-A--L--S-SPG--T-S-H--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YYPK-
+UniRef90_A0A6I8PEP2/1-53               MALWVTV-LP--LLA-LL-A--L--S-MPA--P-G-G--A---F-P-----N-QH-LCGSHLVEALY-LVCGEKGFY-YIPR-
+UniRef90_A0A7L2IBB3/1-53               MALWIRS-LP--LLA-LL-A--L--S-SPG--S-S-H--A---A-V-----T-QH-LCGSHLVEALY-LVCGERGFF-YYPK-
+UniRef90_A0A091K077/1-53               MALWIQS-LP--LLA-LL-A--L--S-GPG--T-S-H--A---A-A-----A-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_UPI0035251F39/16-65           MALWMRF-LP--LLA-LP-F--L--W-ESH--P-T-Q--A---F-V-----K-QH-LCGSHLVEALY-LVCGERGFF-V----
+UniRef90_A0A7K6SPT6/1-53               MALWIQS-LP--LMA-LL-A--L--S-GPG--T-S-H--G---A-A-----N-QH-LCGSHLVEALY-LVCGDRGFF-YSPK-
+UniRef90_A0A670I9D6/1-54               MTLWIRS-LP--LLA-LL-A--V--S-APT--T-S-Y--A---V-P-----N-QH-LCGSHLVEALY-LVCGERGFY-YSPKT
+UniRef90_UPI002AC83772/1-54            MTLWIRS-LP--LLV-LL-A--I--L-APP--A-S-Y--A---N-P-----N-QH-LCGSHLVEALY-LVCGERGFY-YTPKT
+UniRef90_A0A093GS49/1-53               MALWIRS-LP--LLA-LL-A--L--S-SPG--T-S-Q--A---A-A-----T-QH-LCGSHLVEALY-LVCGERGFF-YYPK-
+UniRef90_A0A1S3AJG7/1-52               MAPWTRL-LV--LLV-LL-G--V--C--PQ--P-G-H--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A7L0FR77/1-53               MALWIRS-LP--LLA-LL-A--L--S-SLG--T-S-Q--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_A0A662YSV0/1-53               MALWFRV-LS--LLA-LL-V--L--S-SPH--V-S-K--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPN-
+UniRef90_A0A6J0TAC8/1-54               MTLWIRS-LP--LLV-LL-A--I--S-APA--T-S-Y--A---I-P-----N-QH-LCGSHLVEALY-LVCGERGFY-YSPKT
+UniRef90_A0A663M7B5/1-53               MTLWIQS-LP--LLA-LL-A--L--S-SPR--I-S-H--A---A-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_H3ACE0/1-53                   MALWVRV-LP--LFL-LI-A--L--S-APS--T-T-Q--A---I-A-----N-QH-LCGSHLVEALY-LVCGEKGFF-YSPR-
+UniRef90_UPI002235D004/68-120          MAPWMAA-LS--LTA-LL-A--L--S-TPP--A-A-E--A---L-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI00313C998E/1-53            MALWVRV-LP--LFL-LI-A--L--S-APS--T-T-Q--A---I-A-----N-QH-LCGSHLVEALY-LVCGEKGFF-YSPR-
+UniRef90_P51463/3-49                   ------S-LP--LLA-LL-A--L--S-GPG--T-S-H--A---A-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_UPI002FCCFA9F/1-54            MTLWIRS-LP--LLA-LL-A--V--S-VPP--A-T-D--A---V-P-----N-QH-LCGSHLVEALY-FVCGERGFY-YSPKT
+UniRef90_A0A6P5IWP1/1-53               MAPWLAA-LS--LTV-LL-A--L--S-SPP--A-S-E--A---L-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A8C0TQL9/85-124             -----------------V-A--L--W-APA--P-T-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_P01329/1-53                   MALWMHL-LT--VLA-LL-A--L--W-GPN--T-G-Q--A---F-V-----S-RH-LCGSNLVETLY-SVCQDDGFF-YIPK-
+UniRef90_A6JHT3/1-45                   MALWMRF-LP--LLA-LL-V--L--W-EPK--P-A-Q--A---F-V-----K-QH-LCGPHLVEALY-LVCGE----------
+UniRef90_A0A0M4U741/1-53               MALWVRS-LP--LLA-LL-A--V--L-APP--A-S-L--A---F-P-----S-QR-LCGPHLVEALY-LVCGERGFY-YAPK-
+UniRef90_A0A9Q1B7V2/1-54               MTLWIRS-LP--LLV-LL-A--I--S-APA--T-S-Y--A---A-P-----N-QR-LCGSHLVEALY-LVCGERGFY-YSPKT
+UniRef90_Q6XVL4/1-46                   --------LP--LLA-LL-A--L--S-GPG--S-S-H--A---A-V-----S-QH-LCGSHLVEALY-LVCGERGFF-YQPK-
+UniRef90_A0A1U7SDF5/1-53               MALWIHS-LP--LLA-FL-A--L--S-SPS--V-S-Y--A---A-A-----N-QR-LCGSHLVDALY-LVCGERGFF-YSPK-
+UniRef90_A0A6P8PJS5/1-52               MALWIQT-LP--LLA-VL-A--F--F-APT----C-Q--A---M-V-----N-QH-LCGSHLVEALY-LVCADRGFF-YIPR-
+UniRef90_A0A8D0BZ55/1-54               MTLWIRF-LP--LLV-LF-A--V--L-APT--T-V-N--A---V-A-----N-QH-LCGSHLVEALY-LVCRDRGFY-YSPKT
+UniRef90_A0A7K4Y622/1-51               MALWIRA-LP--LLA-LL-A--F--S-GPG--T-S-H--A---T-A-----N-QR-LCGSNLVEALY-LVCGERGFF-YP---
+UniRef90_Q6XVM2/1-46                   --------LP--LLA-LL-A--L--S-GPG--T-S-H--A---V-A-----T-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_A0AAV3A176/1-52               MALWIQC-LP--LAI-LL-S--L--F-TPN--T-Q----A---L-A-----N-QH-LCGSHLVEALY-MVCGERGFF-YYPK-
+UniRef90_G1KJA0/1-54                   MTLWISS-LP--LLV-LI-A--V--S-APT--I-S-Y--A---L-P-----N-QH-LCGSHLVEALY-LVCGDRGFY-YSPKT
+UniRef90_A0A9F2KUK3/1-53               MTLWIRS-LP--LLL-LL-A--V--S-APT--I-S-Y--A---A-P-----N-QH-LCGSHLVEALY-LVCGDRGFY-YSPR-
+UniRef90_UPI00112A95CD/1-52            MSLWIQA-LP--LLA-VL-A--F--F-APT----C-Q--A---V-P-----N-QH-LCGSHLVEALF-LVCGDRGFY-YTPK-
+UniRef90_UPI002349AAB1/1-52            MALWIQC-LP--LAI-LL-S--L--F-TPS--T---S--A---I-A-----N-QH-LCGSHLVEALY-MVCGQRGFF-YYPK-
+UniRef90_A0A2G9SGY4/19-70              MALWIQC-LP--LAV-LL-S--L--F-TPN----A-Q--A---F-P-----N-QY-LCGSHLVEALY-MVCGDRGFF-YSPR-
+UniRef90_A0A6P9BSS5/1-54               MALWIRS-LP--LLL-LL-A--V--S-APT--V-S-Q--A---A-P-----N-QR-LCGSHLVEALF-LICGERGFY-YSPRT
+UniRef90_B5AK54/1-52                   MALWMQC-LP--LVL-VL-L--F--S-TPN----T-E--A---L-A-----N-QH-LCGSHLVEALY-LVCGDRGFF-YYPK-
+UniRef90_UPI00235A6856/1-52            MALWIQC-LP--LTI-LL-I--L--F-TPN--T-E----A---L-A-----N-QH-LCGSHLVEALY-LVCGEKGFF-YYPK-
+UniRef90_UPI0037E7A674/37-88           MALWVRA-LA--LLV-LS-A--L--C-TPT----S-Q--A---I-T-----N-QH-LCGSHLVEALY-LVCGERGFF-YIPK-
+UniRef90_A0A0M4TUN8/1-53               MAFWIRS-LP--LLV-LL-A--V--L-APP--A-S-H--A---F-P-----S-QR-LCGPHLVEALY-LVCGERGFY-YAPK-
+UniRef90_P12706/1-52                   MALWMQC-LP--LVL-VL-F--F--S-TPN----T-E--A---L-V-----N-QH-LCGSHLVEALY-LVCGDRGFF-YYPK-
+UniRef90_UPI0026471138/34-87           MALWIRS-LP--LLL-LL-A--V--S-APT--V-S-Q--A---A-P-----N-QR-LCGSHLVEALF-LICGERGFY-YSPRT
+UniRef90_W5MUN8/22-74                  MALWFQV-FS--LLA-LL-V--L--S-SPP--V-T-N--A---A-A-----N-QH-LCGSHLVEALY-LVCGEKGFF-YNPN-
+UniRef90_UPI001AAD5A61/35-86           MALWIQC-LP--LAV-LL-S--L--F-TPN----A-Q--A---F-P-----N-QF-LCGSHLVEALY-MVCGDRGFF-YSPR-
+UniRef90_UPI003081C13D/24-75           MALWIQC-LP--LAI-LL-S--L--F-TP---P-T-E--A---I-A-----N-QH-LCGSHLVEALY-FVCGEKGFY-YYPK-
+UniRef90_A0A670XPU8/1-51               MALWIRS-LP--LLL-LL-A--V--S-APS--Q-A-A--------P-----N-QR-LCGSHLVEALF-LICGERGFY-YSPR-
+UniRef90_A0A6I9XZV2/1-54               MALWIRS-LP--LLL-LL-A--V--S-APT--V-S-Q--A---I-P-----S-ER-LCGSHLVEALF-LVCGERGFY-YSPRT
+UniRef90_A0AA40LKB3/41-78              ----------------------P--L-GAA--P-A-Q--A---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI0035A3106F/1-52            MALWIQC-LP--LAM-LL-C--L--F-TPS--S---Q--A---L-G-----N-QH-LCGSHLVEALY-LVCGDKGFF-YPPK-
+UniRef90_UPI002AE0AD54/3-54            -VLWLQA-VS--LLV-LS-L--A--W-SPD--F-Q-A--A---A-S-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_Q98TB0/1-52                   MAVWLRA-FS--LLV-LL-V--V--S-SPG--A-N-A------A-S-----N-QH-LCGSHLVEALY-LVCGERGFF-YNPK-
+UniRef90_A0A8J6EEM3/1-52               MALWIQC-LP--LAI-LL-I--L--F-TPT--T---Q--A---L-A-----N-QH-LCGPHLVEALY-LVCGERGFY-YYPK-
+UniRef90_UPI002404B7D5/4-54            --PWLQA-VS--LLV-LF-L--A--W-GPD--F-Q-A--S---A-S-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A3B3R042/1-53               MAAWLQA-FP--LLL-LL-V--L--S-SPG--A-D----A---A-A-----N-QH-LCGSHLVEALF-LVCGERGFF-FNPNT
+UniRef90_A0A8D0CVL2/3-54               -ALWLQC-VS--LLA-VL-L--V--S-WPD--C-Q-A--A---A-Q-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_UPI0025ADBC83/63-113          --PWLQA-VS--LLV-LS-L--A--W-GPD--F-Q-A--A---A-S-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A8B9X393/1-48               MALWTRL-AP--LLA-LL-A--L--W-AP---P-G-P--R---L-A-----N-QH-LCGSHLVEALY-LVCGERLLL------
+UniRef90_A0AAV7TPN1/91-142             MAVWLSA-LT--LLV-LS-A--L--C-TPT----S-Q--A---I-T-----N-QH-LCGSHLVEALY-LVCGDRGFF-YSPK-
+UniRef90_A0A3B3QYJ4/1-53               MAAWLQA-FP--LLL-LL-V--L--S-SPG--A-D----A---A-A-----N-QH-LCGSHLVEALF-LVCGERGFF-FNPDT
+UniRef90_P17715/1-50                   MAPWMHL-LT--VLA-LL-A--L--W-GPN--S-V-Q--A---Y-S-----S-QH-LCGSNLVEALY-MTCGRSGFY--R---
+UniRef90_UPI0020274C77/1-53            MAFWNRF-LP--LLA-LL-A--V--L-APM--T-N-H--A---L-S-----S-QH-LCGPHLVDALY-LVCGERGFY-YDSK-
+UniRef90_A0A8T2J450/1-50               MALWMQC-LP--LVL-LL-C--L--C-APN--T-E----A---L-P-----N-RH-LCGSHLVEALY-LVCGDRGFF-YP---
+UniRef90_UPI001F072545/1-53            MALWFQA-VS--VLV-LL-A--V--C-PPS--S-Q-A--A---T-S-----P-QH-LCGSHLVDALY-LVCGEKGFF-YNPK-
+UniRef90_UPI00149066A6/3-54            -ALWLQS-VS--LLV-LL-I--V--S-WPN--T-E-A--A---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YTPK-
+UniRef90_A0AAD1TKQ2/31-82              MALWIQC-LP--LAI-LL-S--V--L-VPN--T---N--A---F-A-----T-QH-LCGSHLVDALY-MVCGEKGFF-YYPK-
+UniRef90_G1P146/1-51                   MALWTRL-LP--LLA-LL-A--L--W-APA--P-A-Q--A---F-N-----H-EH-LCGEDLVDIMT-IICGDQGFK--NP--
+UniRef90_A0A674AVC7/35-85              MALWLQA-VS--LLV-LL-A--L--YPGAD--A-A-A--------------A-QH-LCGSHLVDALY-LVCGEKGFF-YNPK-
+UniRef90_A0A9Q1INE6/113-164            MALWLQA-VS--LLV-LL-V--L--S-SPG--V-H-A--A-----S-----N-QH-LCGSHLVDALY-LVCGEKGFF-YNPK-
+UniRef90_Q98TA8/1-53                   MALWLQA-FT--LLV-LL-V--L--S-SPG--A-Q-S--A-----S-----S-QH-LCGSHLVDALY-MVCGEKGFF-YQPKT
+UniRef90_A0AAV1QML0/6-57               -ALWLQS-VS--LLV-LL-V--V--S-WPG--S-Q-A--A---A-G-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_UPI003831D24B/1-50            MALWIQC-LP--LAV-LL-I--L--F-TPT--T---Q--A---L-A-----N-QH-LCGPHLVEALY-MVCGERGFY-YP---
+UniRef90_A0A665UZX0/3-54               -ALWLQS-VS--LLV-LL-V--V--W-WPG--S-H-A--V---A-P-----P-QH-LCGSHLVDALY-LVCGDNGFF-YQPK-
+UniRef90_A0A0M3VI64/1-44               ------------LLV-LL-A--V--S-SPT--V-S-H--A---F-P-----N-QH-LCGSHLVEALY-LVCGERGFY-YSPK-
+UniRef90_UPI003463A0F4/1-53            MALWLQV-IS--LLA-LL-L--W--S-TPR--S-T-D--A---A-A-----S-QH-LCGSHLVEALF-LVCGESGFF-YNPN-
+UniRef90_P04667/1-51                   MAFWLQA-AS--LLV-LL-A--L--SPGVD--A-A-A--------------A-QH-LCGSHLVDALY-LVCGEKGFF-YTPK-
+UniRef90_UPI001BD233CA/3-54            -ALWLQS-VS--LLV-LL-V--V--S-WPG--T-Q-A--A---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_UPI001177079E/3-54            -ALWLQT-SS--LLL-LL-A--L--S-WPG--S-Q-A--V---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A3RID7/1-51                   MVLWLQA-AS--LLV-LL-A--L--YPGAD--A-A-A--------------A-QH-LCGSHLVDALY-LVCGEKGFF-YNPK-
+UniRef90_A0A3P8S3R7/3-54               -ALWLQS-FS--LLV-LL-V--V--S-WPS--S-Q-A--V---A-A-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_UPI00237D595B/3-54            -ALWLQS-VS--LLV-LL-V--V--S-WPG--S-Q-A--V---A-P-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_A0AAV1FRY7/43-94              -ALWLQS-VS--LLV-LL-V--V--S-WPS--T-E-A--A---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_UPI0024B56C72/1-53            MALWLQS-TS--LLL-LL-A--L--N-WSG--S-Q-A--V---T-P-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_A0A0P7TWG1/1-54               MAIWLQA-FP--LLV-LL-V--L--S-SSP--G-A-E--S---S-S-----S-QR-LCGSHLVDALY-MVCGDRGFF-YSPKS
+UniRef90_S7NT76/1-51                   MALWTRL-LP--LLA-LL-A--L--W-APT--P-A-Q--A---F-Y-----F-EH-LCDEDLAEMLT-IICGDQGFR--NP--
+UniRef90_UPI00254004C6/1-51            MGFWIRS-LP--LLA-LL-A--V--L-APT--A-S-H--A---V-P-----S-QR-LCGPHLVEALY-LVCGDRGFY-YP---
+UniRef90_A0AAN8QZ09/30-80              MALWLQA-AS--LLV-LL-A--L--S--PG--A---E--A---A-A-----A-QH-LCGSHLVDALY-LVCGEKGFF-YNPK-
+UniRef90_A0A8C5R3A4/1-52               MALWIQC-LP--LAI-LL-S--L--L-VPN--T---D--A---Y-S-----A-QH-LCGSHLVDALY-FVCGQKGFF-YFPK-
+UniRef90_UPI0036043334/3-54            -ALWFQS-IT--LLL-LL-V--V--G-WPG--S-Q-A--V---A-A-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_UPI0029305A97/1-53            MAFWIRS-LP--LLA-LI-A--V--L-API--A-S-H--A---F-P-----S-QH-LCGPQLVEALL-LICEDRGFY-YDPK-
+UniRef90_A0AAQ4R1V2/3-54               -SLWLQS-VS--LLV-LL-V--W--S-CPG--S-Q-A--A---A-G-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_UPI00147130B5/3-54            -ALWLQS-LS--LLV-LL-V--V--S-CPG--S-R-A--M---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0AAV6SEH2/3-55               -ALWLQS-VS--LLV-LLMA--S--W-PAG--A-Q-A--V---S-A-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A6F9A054/80-130             MALWLQA-AS--LLV-LL-A--L--S--PG--A---E--A---A-A-----A-QH-LCGSHLVDALY-LVCGEKGFF-YNPK-
+UniRef90_UPI001FB790F4/3-54            -ALWLQT-FS--MLL-LL-V--V--S-WPG--S-Q-A--V---A-P-----P-QH-LCGSHLVDALY-LVCGERGFF-YDPK-
+UniRef90_A3RID6/1-51                   MAYWLQA-AS--LLV-LL-A--L--SPGAD--A-A-A--------------A-QH-LCGSHLVDALY-LVCGEKGFF-YNPK-
+UniRef90_P69045/3-54                   -ALWLQS-FS--LLV-LL-V--V--S-WPG--S-Q-A--V---A-P-----A-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A4U5V606/50-101             -ALWLQS-FS--LLV-LL-I--V--S-WPG--S-Q-A--A---I-A-----P-QH-LCGSHLVDALY-MVCGPRGFF-YNPK-
+UniRef90_A0A3Q3KK20/31-82              -ALWLQS-VS--LLV-LL-V--V--S-WPG--S-Q-A--V---S-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0AAD3NEY4/83-134             -ALWLQS-VS--LLV-LL-V--V--S-WPG--S-Q-A--V---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A3P9PVE8/3-54               -ALWLQS-FS--LLV-LL-V--V--S-WPG--S-Q-G--V---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YSPK-
+UniRef90_P01310/1-29                   -------------------------------------------F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A6P8W468/3-54               -ALWLQS-VS--LLV-LV-L--V--S-LPG--S-R-A--A---P-G-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_Q9W7R2/3-54                   -ALWLQS-VS--LLV-LM-L--V--S-WSG--S-Q-A--V---L-P-----P-QH-LCGAHLVDALY-LVCGERGFF-YTPK-
+UniRef90_A0A4W6BMN0/3-54               -ALWFQS-VS--LLV-LL-V--V--S-WPG--S-Q-A--V---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_UPI001CE1A16D/51-102          -ALWLQS-VS--LLV-LL-I--V--S-WPG--S-Q-A--V---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_UPI00001112BB/1-30            -------------------------------------------F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPKT
+UniRef90_A0A674NCJ3/3-54               -ALWLQS-VS--LLL-LM-V--V--S-SPG--S-Q-A--M---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A4W3I9K0/1-53               MMLWNRF-GF--VAL-LM-A--L--S-GPK--P-S-E--T---V-P-----T-QR-LCGSHLVDALY-FVCGERGFF-YSPK-
+UniRef90_UPI00240444DB/3-54            -ALWFQS-FS--LLV-LL-V--V--S-WPG--S-Q-A--V---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_G0XSY3/3-54                   -ALWLQS-VS--LLV-LL-I--V--S-WPG--S-Q-A--F---T-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_UPI000E46025F/3-54            -TLWLQS-VS--LLV-LL-V--V--S-WPG--S-Q-A--M---T-P-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPR-
+UniRef90_A0A3Q3RII7/56-107             -ALWLQS-VS--LLV-LL-V--V--S-WPG--S-Q-A--L---T-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A6G1QSA6/3-54               -ALWLQS-VS--LLV-LL-V--V--S-WPG--S-Q-A--M---T-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPR-
+UniRef90_A0A3B3B586/3-53               -ALWLQT-FS--LLC-LL-I--V--S-FPG--S---R--A---I-P-----P-QH-LCGSHLVEALY-LVCGDRGFF-YNPK-
+UniRef90_A0A8C6S390/11-53              ------------LLV-LL-V--A--W-WPG--S-H-A--A---S-A-----P-QH-LCGSHLVDALY-LVCGERGFF-YNP--
+UniRef90_A0A3B3HRI8/114-164            -ALWLQT-FS--LLF-LL-I--V--S-CPG--S---Q--A---I-A-----P-QH-LCGSHLVEALY-LVCGDRGFF-YTPK-
+UniRef90_P67973/1-29                   -------------------------------------------F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A514TPA0/1-45               MALWIRS-LP--LLA-LP-A--L--S-GSP--I-S-H--A---A-A-----N-QH-LCGSHLVEALY-LVCGE----------
+UniRef90_A0A6P7JJK7/3-54               -ALWLQS-FS--LLV-LL-V--V--S-WPG--S-Q-A--V---S-A-----P-QH-LCGSHLVDALY-LVCGDNGFF-YNPK-
+UniRef90_A0AA47M6P5/24-46              ------------------------------------A--L---P-P-----P-QT-LCGSHLLDALY-LICGA----------
+UniRef90_A0AA47M6P5/119-161            -------------VV-LL-A--L--S-WSS--L-E-A--L---P-P-----P-QL-LCGSHLVDALY-LVCGDRGFF-YNSK-
+UniRef90_Q7M0U6/46-75                  ---------------------------------------K---F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0AA88M0E2/3-54               -ALWLQS-VS--LLV-LL-V--V--S-WPG--S-N-A--M---T-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPR-
+UniRef90_A0A087YIN9/3-54               -ALWLQS-FS--LLV-LL-V--V--S-WPG--S-Q-G--V---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YSPK-
+UniRef90_A0A671TQR9/3-54               -ALWLQS-VS--LLV-LL-V--V--S-WQG--S-Q-A--A---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPR-
+UniRef90_UPI002872C68F/1-51            MAPWTRL-LP--LLA-LL-A--L--W-APA--P-A-P--A---QDG-----D-KH-LCGEDLVDTLS-MVCGDRGFY--N---
+UniRef90_A0A671TQE6/3-54               -ALWLQS-VS--LLV-LL-V--V--S-WQG--S-Q-A--A---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPR-
+UniRef90_A0A8C4RK13/24-73              ---FLQV-FF--LLA-CL-V--L--S-SPQ--A-A-N--A---A-A-----N-RH-LCGSHLVEALY-LVCGDRGFF-YIPS-
+UniRef90_UPI001643FA93/1-30            -------------------------------------------F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPRT
+UniRef90_A0A8T2P6A7/2-53               -GPWLQA-VS--VMV-LL-V--L--S-SSG--V-E----S---A-S-----N-QH-LCGSHLVDALY-LVCGERGFF-YNPKT
+UniRef90_UPI000C1B5FED/1-30            -------------------------------------------F-V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPET
+UniRef90_UPI0037E99F9A/1-51            --MWLQS-VS--LLV-LL-V--I--S-WPG--T-Q-A--A---P-P-----P-QH-LCGAHLVDALY-LVCGDRGFF-YSPK-
+UniRef90_A0A9N7UHR3/50-101             -ALWLQS-VS--LLV-LM-L--V--S-WSG--S-Q-A--V---L-P-----P-QH-LCGAHLVDALY-LVCGERGFF-YTPK-
+UniRef90_A0A667YSC2/48-100             MALWLQS-AS--LLV-LL-V--L--S-WPG--S-Q-A--A---A-P-----P-QH-LCGSHLVDALY-LVCGDTGFF-YNPN-
+UniRef90_A0A6G0I8J9/442-493            -ALWLQS-FS--LLV-LL-I--V--S-WPG--S-Q-A--A---I-A-----P-QH-LCGSHLVDALY-MVCGPRGFF-YNPK-
+UniRef90_P81025/3-54                   -ALWLQA-FS--LLV-LM-M--V--S-WPG--S-Q-A--V---G-G-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPR-
+UniRef90_UPI0010A37B52/1-52            MALWLQT-AS--LLV-LV-A--L--S-SS---G-V-S--A---I-A-----S-QH-LCGSHLVDALY-LVCGDGGFF-YNPS-
+UniRef90_W5MUL1/4-52                   ---RFQV-FS--LLA-LL-V--L--T-SPP--V-T-D--A---A-A-----N-QH-LCGSHLAEALY-LVCGERGFT-YDP--
+UniRef90_A0A3Q2E747/26-77              -ALWLQS-FS--LLV-LL-V--V--S-WPG--S-Q-A--F---S-A-----P-QH-LCGSHLVDALY-LVCGERGFY-YRPN-
+UniRef90_UPI002A6ADC3F/4-52            --SWLRA-MI--VLV-LM-A-------GSW--P-A-A--A---A-D-----P-QH-LCGSHLVDALF-LVCGDRGFF-YNPK-
+UniRef90_UPI002AD5316C/3-54            -ALWLQT-VS--LLV-VL-V--V--S-WPG--T-Q-A--L---T-P-----P-QH-LCGSHLVDALY-LVCGDNGFF-YNPK-
+UniRef90_UPI001863C8C5/1-52            MALMFKV-VS--LLA-LL-V--L--S-S-S--G-A-E--A---T-S-----N-QH-LCGSHLVDALY-LVCGEKGFF-FNPN-
+UniRef90_UPI00187C50C7/3-54            -ALWLQS-VS--LVV-LL-I--V--S-WPG--S-Q-V--V---A-A-----E-QH-LCGSHLVDALY-LVCGERGFF-YNSK-
+UniRef90_P01320/1-29                   -------------------------------------------F-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A6P7PDJ6/3-54               -TLWLQS-VS--LLV-LL-I--V--S-WPS--S-Q-A--M---T-P-----P-QH-LCGSHLVDALY-LVCGDNGFF-YNPK-
+UniRef90_P18109/2-29                   ---------------------------------------------V-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPK-
+UniRef90_A0A6Q2WSW5/1-51               MASWLQA-TS--LLV-LL-S--L--S--PG--A---N--S---A-A-----A-QH-LCGSHLVDALY-LVCGEKGFF-YNPK-
+UniRef90_A0A0M3VI60/1-53               MTFWIRS-LP--LLA-LI-A--V--L-API--A-S-H--A---F-P-----S-QY-LCGRQLVDALI-LVCGDRGFY-WGPK-
+UniRef90_A0A6J2QZS0/1-49               --MWLQS-VS--LLV-LL-L--V--S-GSQ--A-A--------S-A-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A9D3M841/9-60               MASWLPV-IS--LLV-LL-I--L--S-SPG--V-D-A--A---S-------T-QH-LCGSHLVEALY-LVCGSNGFF-FNPK-
+UniRef90_UPI002872DF1E/1-48            MALWTRL-LP--LLA-LL-A--L--W-APA--P-A-Q--S---E-V-------EH-LCGEDLVDMVT-MMCGDRGFS------
+UniRef90_A0A672Y518/11-62              -ALWLQS-VS--LLV-LL-I--V--S-WPG--S-Q-A--M---A-P-----P-QH-LCGSHLVDALY-LVCGETGFF-YNPS-
+UniRef90_A0A8D0GDU4/5-38               -----------------------------S--P-C-E--A---V-A-----N-QH-LCGSHLVEALY-LVCGERGFF-YYPK-
+UniRef90_A0AAV1NEL2/3-53               -ALWLHS-AS--LLV-LL-V--M--L-CPG--S---N--A---I-S-----S-QH-LCGSHLVEALN-LVCGERGFF-YNPR-
+UniRef90_A0A671TNT6/46-97              -ALWLQT-VS--LVV-LL-I--I--S-WPG--S-H-S--V---A-A-----E-QH-LCGSHLVDALY-LVCGEKGFF-YNSK-
+UniRef90_UPI002E122001/1-52            MALWIQT-SA--LLI-AV-A--L--S-TVG--S-D-A--A-----S-----S-QH-LCGSHLVDALY-LVCGEQGFF-YNPK-
+UniRef90_UPI001C050852/3-53            -ALWLQS-SL--LVL-LV-A--S--W-TSS--Q-A-V--A-----P-----S-QH-LCGSHLVDALY-LVCGSNGFF-YNPK-
+UniRef90_A0A3P8VEB9/3-52               -ALWLQT-VS--LLL-LV-AVSL--S-GSQ--P------------V-----A-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A0M5N0T4/1-44               ------------LLA-LL-A--V--L-APT--A-S-D--A---F-P-----S-QR-LCGPHLVEALY-LVCGERGFY-YAPR-
+UniRef90_A0AAV6HF21/1-52               MALWLQT-AA--LLI-VM-A--L--S-TMG--G-D-A--A-----T-----A-QH-LCGSHLVDALY-LVCGDQGFF-YNPK-
+UniRef90_P67971/1-30                   -------------------------------------------F-V-----N-QH-LCGPHLVEALY-LVCGERGFF-YAPKT
+UniRef90_A0A6P3VZA9/80-131             MALWFQT-AA--LLI-MV-A--L--S-STG--G-E-T--A-----A-----A-QH-LCGSHLVDALY-LVCGEQGFF-YNPK-
+UniRef90_A0A3Q3K6V0/3-54               -ALWLHT-AS--LLV-LL-I--M--S-CPD--S-Q----A---I-A-----S-QH-LCGPHLVKALH-LVCGERGFL-YMPRT
+UniRef90_UPI0035C0A36A/3-52            -SLWFQF-SS--LLV-LL-V--L--F-PGS--E------A---S-D-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_UPI0017496AE8/1-48            MALWTRL-LP--LLA-LL-A--L--W-APA--P-A-Q--S---E-V-------EH-LCGEDLVAMVT-MMCGDRGFS------
+UniRef90_P68245/2-30                   ---------------------------------------------A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPKT
+UniRef90_UPI002ACEAA03/4-52            --SWLQA-LT--VLV-LM-A--A--X-A-G--P-A-A--A-----E-----P-QH-LCGSHLVDALF-LVCGDRGFF-YNPK-
+UniRef90_UPI001A98EB6D/3-52            -APWLHT-AS--LLV-LL-A--M--S-CPG----S-Q--A---F-A-----S-QH-LCGSHLVDALH-LVCGERGFL-YMP--
+UniRef90_A0A3Q3EJ08/3-54               -ALGLQS-VF--LLV-LL-A--V--S-WPG--T-Q-S--V---P-S-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_A0A0M3VI61/1-44               ------------LLA-LI-V--I--L-API--A-S-H--A---Y-P-----N-QR-LCGPHLVEALY-LVCGERGFY-YAPK-
+UniRef90_A0A9W7X1L4/1-52               MALWLQA-GA--LML-IL-A--I--S-GVN--A---N--A---G-A-----P-QH-LCGSHLVDALY-LVCGPTGFF-YNPK-
+UniRef90_A0AAV2J709/40-83              ------------LLA-LL-V--VPWW-G-S--Q-V-A--A---V-P-----P-QH-LCGSHLVDALY-LVCGERGFF-YNP--
+UniRef90_A0A6J2W1Y6/1-52               MAVWLQA-GA--LLF-LL-A--L--S-SAG----A-D--A---A-A-----P-QH-LCGSHLVDALY-LVCGPTGFF-YNPK-
+UniRef90_P01333/2-30                   ---------------------------------------------A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPKT
+UniRef90_UPI002F35B4D3/1-52            MALWLHA-GA--LLV-LL-A--I--S-TAG--G-D-A------A-A-----P-QH-LCGSHLVDALY-LVCGPSGFF-YNPK-
+UniRef90_P67968/2-29                   ---------------------------------------------A-----N-QH-LCGSHLVEALY-LVCGERGFF-YSPK-
+UniRef90_A0A2U9B879/3-53               -ALWLYN-VS--LLV-LL-V--T--S-FPG--S---Q--A---I-A-----A-QH-LCGAHLVEALY-LVCGERGFI-YQPR-
+UniRef90_P81423/2-29                   ---------------------------------------------A-----N-QH-LCGSHLVEALY-LVCGERGFF-YTPN-
+UniRef90_A0A8C4GNW1/29-75              ------L-FS--LLV-LL-I--V--S-WPG--S-Q-A--A---A-F-----E-QR-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A9D3M852/40-90              --SCLPV-IS--LLV-LL-V--L--S-SPG--A---D--A---G-S-----T-QH-LCGSHLVDALY-LVCGDKGFF-FNPKT
+UniRef90_A0A3B1JBV0/44-95              MAVWIQA-GT--LLV-LL-A--L--T-TTG----A-N--A---A-A-----P-QH-LCGSHLVDALY-LVCGPSGFF-YNPK-
+UniRef90_Q5BVE7/1-29                   -------------------------------------------F-V-----N-QH-LCGSHLVEALY-MACGDKGFF-YTPK-
+UniRef90_A0AAW0PCY2/11-53              ------------LLALLV-A--S--W-AGS--R-A-A--A-----P-----P-QH-LCGSHLVDALY-LVCGERGFF-YNP--
+UniRef90_A0A1S3SVH7/5-53               ----VWA-LS--VLL-LL-V--L--S-SPG--V-C-S--A---P-S-----A-QH-LCGSHLVDALY-LVCGEQGFF-YNPN-
+UniRef90_A0A9Q0I6P9/11-58              ------L-LL--LVV-VL-L--L--A-VPQ--P-A-V--A---P-I----ST-RH-LCGSHLVDALY-FVCGEQGFF-YSPR-
+UniRef90_A0A674DK97/12-60              ----VWA-LS--VLL-LL-V--L--S-SPG--V-C-S--A---P-S-----A-QH-LCGSHLVDALY-LVCGEQGFF-YNPN-
+UniRef90_Q98TB1/1-52                   MAVWLQA-GA--LLF-LL-A--V--S-GVN----A-N--G---V-A-----P-QH-LCGSHLVDALY-LVCGPTGFF-YNPK-
+UniRef90_A0A2D0QAI1/1-52               MAIWLQG-GV--LLF-LL-A--F--Y-SGG----V-N--A---V-A-----P-QH-LCGSHLVEALY-LVCGPNGFF-YNPK-
+UniRef90_UPI0024356EEA/1-52            MALWLQA-GA--LFV-LL-A--I--S-GVN--A---N--P---G-A-----P-QH-LCGSHLVDALY-LVCGPTGFF-YNPK-
+UniRef90_A0A671TQQ8/3-54               -ALWLQS-VS--LLV-LL-V--V--S-WPG--T-Q-A--I---A-P-----L-QR-LCGSHLEEALY-LICGEKGYF-YVPK-
+UniRef90_A0A671TQD6/3-54               -ALWLQS-VS--LLV-LL-V--V--S-WPG--T-Q-A--I---A-P-----L-QR-LCGSHLEEALY-LICGEKGYF-YVPK-
+UniRef90_A0A2I4C5K0/4-54               --VWIQT-AT--LMI-LL-V--M--S-CPG--S-Q-A------T-A-----L-QY-LCGSHLVDALY-LVCGERGFF-YRPRT
+UniRef90_A0A6P6K741/1-52               MAVWLQA-GA--LLF-LL-A--V--S-SVN----A-N--A---G-A-----T-QH-LCGSHLVDALY-LVCGPTGFF-YNPK-
+UniRef90_UPI001FB7406F/8-52            --------VS--MLL-LL-L--L--Y-SPG--A-S-S--T-----P-----V-QH-LCGSHLVDALY-FVCGERGFF-YSPR-
+UniRef90_A0A0M4UT56/1-44               ------------LLA-LL-A--V--L-APP--A-S-Y--A---D-P-----S-EH-LCGTHLVEALF-LVCGDRGFY-YNPK-
+UniRef90_UPI00227D430D/41-88           ----VWA-LS--VLL-LL-V--L--S-SPG--V-C-S--A---P-S-----T-RH-LCGSHLVDALY-LVCGEQGFF-YNP--
+UniRef90_UPI001CF9430D/6-53            -----SF-LS--LLM-MV-V--L--S-VPS--T-E-Q--A---V-L-----N-QH-LCGSHLVEALY-LVCADNGFF-YKPS-
+UniRef90_A0A8C7XQJ6/2-31               ---------------------------------------A---I-A-----P-QH-LCGSHLVEALY-LVCGDRGFF-YTPK-
+UniRef90_UPI0029677BA6/6-35            ---------------------------------------R---F-V-----E-QH-LCGSHLVEALY-LVCGERGFF-ETPR-
+UniRef90_Q5BVF5/1-29                   -------------------------------------------F-V-----N-KH-LCGSHLVDALY-LVCGDRGFF-YTPM-
+UniRef90_UPI001056076A/3-51            -ALWFSS-LL--LL---L-V-----S-SAA--A-Q-A--V---A-P-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_A0A4U5UDB2/9-52               ---------A--MLL-LL-V--L--Y-SPG--V-S-S--D---P-------V-QH-LCGSHLVDALY-FVCGERGFF-YSPK-
+UniRef90_UPI0015A886EB/3-53            --SCLPV-IS--LLV-LL-I--L--S-SPG--V-H-V--A---S-------T-QH-LCGSHLVEALY-LVCGDNGFF-FNPKT
+UniRef90_A0A3B3D297/3-53               -TLWIHT-AS--LLI-LL-V--T--S-FPT--T-Q-A--A---T-------M-QH-LCGSHLVEALY-IVCGDGGFF-YNPQ-
+UniRef90_UPI002AB7A13F/17-71           -----LL-LPALLLL-LL-S--L--M-SPV--P-A-H--A---S-ALTGAGG-TH-LCGSHLVEALY-VVCGDRGFF-YTPS-
+UniRef90_UPI002026FD99/1-53            MAFWNRL-LP--FLA-LL-A--A--L-APM--A-N-Y--A---G-T-----T-KQ-LCGSDLVEALM-FVCGDRGIY-YKPK-
+UniRef90_A0A8C7I469/3-41               -----------------V-V--L--W-SLS--P-S-N--L---I-C-----A-QH-LCGSHLVDALY-LVCGEQGFF-YNP--
+UniRef90_A0A9D3C4J1/5-52               --LW--I-VS--VLL-LL-V--L--R-SPG--A-S-S--A-----P-----A-QH-LCGSHLVDALY-FVCGERGFF-YNPN-
+UniRef90_UPI0027DEFA68/8-52            --------VS--MLL-LL-A--L--Y-SPG--V-S-S--A-----P-----A-QH-LCGSHLVDALY-FVCGERGFF-YSGK-
+UniRef90_A0AAJ7XJ00/55-109             -----LL-LPALLLL-LL-S--L--M-SPV--P-A-H--A---S-ALTGAGG-TH-LCGSHLVEALY-VVCGDRGFF-YTPS-
+UniRef90_A0A8C9XT16/3-35               --------------------------------P-R-Y--I---F-S-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_A0A8C9ZMG9/7-53               -----CM-VS--MLL-LL-V--L--Y-SPG--V-S-S--A-----P-----N-QH-LCGSSLVDALY-FVCGERGFF-YRPN-
+UniRef90_UPI0025A59146/6-52            -----WV-LP--ILF-LL-V--L--P-VPW----V-S--P---I-P-----N-HH-LCGSHLVDALY-FVCGERGFF-HSPK-
+UniRef90_A0A8D0D828/12-59              ----LCM-VS--MLL-LL-V--L--Y-SPG--V-S-S--A-----P-----N-QH-LCGSSLVDALY-FVCGERGFF-YRPN-
+UniRef90_UPI000A1C6AD7/11-53           ------------LLA-LL-V--V-PW-SGS--Q-G-A------A-P-----P-QH-LCGSHLVDALY-LVCGERGFF-YNP--
+UniRef90_A0A671Z0S7/23-67              --------VS--MLL-LL-V--L--Y-SPG--V-S-S--A-----P-----A-QH-LCGSHLVDALY-FVCGERGFF-YRPN-
+UniRef90_P01327/1-29                   -------------------------------------------F-V-----N-KH-LCGSHLVDALY-LVCGDRGFF-YTPM-
+UniRef90_UPI002FD0DB4B/1-51            MALWLQT-AV--LLV-VA-A--L--S-AT---G-G-D--A---M-G-----T-QH-LCGSHLVDALY-LVCGDQGFT-YKP--
+UniRef90_UPI0029C7E8D1/3-54            -ALWLQS-VS--LLV-LM-L--V-SW-SG---S-Q-A--V---V-P-----P-LH-LCGADLVDALY-LVCGERGFF-YTPN-
+UniRef90_A0A8S4BPR1/10-52              ------------VML-LL-L--L--Y--PP--G-A-S--S---T-P-----I-QH-LCGSHLVDALY-FVCGERGFF-YSPS-
+UniRef90_P01328/1-29                   -------------------------------------------F-V-----N-QH-LCGSHLVEALY-LVCGNDGFF-YRPK-
+UniRef90_A0A7J5ZS40/50-101             MAIWLQG-GA--LLF-LL-A--F--Y-SAG--V-N----A---G-A-----P-QH-LCGSHLVDALY-LVCGPNGFF-YNPK-
+UniRef90_A0AA88IVP7/418-469            MAVWLQV-GA--LLF-LV-A--F--C-ST---G-A-G--A---V-A-----P-QH-LCGSHLVDALY-LVCGPNGFF-YNPK-
+UniRef90_UPI0001753A7A/1-29            -------------------------------------------F-V-----N-QH-LCGSDLVEALY-LVCGERGFF-YTDP-
+UniRef90_UPI003559FEB4/1-53            MVLWNQI-VL--MAA-LI-V--F--S-CPK--G-L-E--T---L-P-----S-QH-LCGSHLVEALY-FVCGPKGFY-YLPK-
+UniRef90_A0A5J5D532/67-114             ----LNT-VS--MLL-LL-V--L--Y-SPG--V-S-S--A-----P-----N-QH-LCGSSLVDALY-FVCGERGFF-YRPN-
+UniRef90_A0A2D0QC72/1-52               MAIWLQG-GA--LLF-VL-A--F--Y-SAG--V-N----A---G-A-----P-QH-LCGSHLVDALY-LVCGPNGFF-YNPK-
+UniRef90_A0A7N8WMJ5/3-53               -ALWLHT-VS--LLV-LL-V--M--S-CPV----S-Q--A---I-A-----S-QH-ICGPHLVNALH-LVCGERGFL-YMPR-
+UniRef90_UPI002AD2CDD0/9-52            ---------L--LLF-LL-V--V--Y-SPG--A-P----S---V-P-----V-QH-LCGSHLVDALY-FICGERGFY-YNPK-
+UniRef90_A0A3B4DUP0/1-52               MAAWLQA-GA--LLF-LL-A--F--T-TA---G-A-N--A---G-A-----P-QH-LCGSHLVDALY-LVCGPSGFF-YNPK-
+UniRef90_UPI0025AE8AD2/8-52            --------VS--ILL-LL-V--L--H-APW--V-A-P--A-----P-----T-QH-LCGSHLVDALY-FVCGERGFF-HSPK-
+UniRef90_UPI001471CDF6/3-51            -ALWLQS-LS--LLV-LL-V--V--S-CPG--S-R-A--M---A-P-----P-QH-LCGSHLVDALY-LVCGDRGLF-E----
+UniRef90_UPI003461A842/1-52            MAVWLQA-GA--LLF-LL-A--F--S-TT---G-V-Y--A---A-T-----P-QH-LCGSHLVEALY-LVCGPSGFF-YNPN-
+UniRef90_A0AAY5KWU4/40-95              MALWLQAAAS--LLV-LL-A--L--TSSPG--V-D-A--A---A-A-----P-QR-LCGSHLVEALF-LVCGEKGFFSYSPK-
+UniRef90_A0AAQ4PGG4/16-46              ------------------------------------A--A---A-G-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_UPI001C056BCC/9-52            ---------S--MLL-LL-V--L--Y-SPG--V-Y-S--T---P-------I-QH-LCGSHLVDALY-FVCGERGFF-YSPS-
+UniRef90_P09476/2-29                   ---------------------------------------------A-----N-QH-LCGSHLVEALY-LVCGEKGFF-YNPN-
+UniRef90_A0AAQ4R818/19-50              ----------------------------------C-A--A---A-G-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_UPI00155EABC8/3-52            --RVLNV-VS--MLL-LL-V--L--Y-SPG--V-S-S--A-----P-----D-QH-LCGSSLVDALY-FVCGERGFF-YRPN-
+UniRef90_A0A9D3N0T5/429-480            MAVWLQA-GA--LLF-LL-A--F--C-TG---G-A-D--A---A-A-----P-QH-LCGSHLVDALY-LVCGPNGFF-YNPK-
+UniRef90_A0A0M5MRX6/1-53               MTFWIRS-LP--LLA-LI-A--V--L-API--A-S-H--A---S-P-----N-YY-LCGRQLVDSLN-LICGDRGFY-WGPR-
+UniRef90_P01340/2-29                   ---------------------------------------------A-----N-PH-LCGSHLVEALY-LVCGERGFF-YQPK-
+UniRef90_A0A8C1WI06/9-60               MAVWLQA-GA--LLF-LL-A--V--S-SVN----A-N--P---G-A-----P-QH-LCGSHLVDALY-LVCGPTGFF-YNPK-
+UniRef90_A0A8C4Z8R8/13-54              --------------V-LL-A--L--S-WSS--L-E-A--M---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A8K9WYD0/145-192            ----VWA-LS--VLL-LL-V--L--S-SPG--V-C-S--A---P-S-----A-QH-LCGSHLVDALY-LVCGEQGFF-YNP--
+UniRef90_Q9TQY7/1-29                   -------------------------------------------F-P-----N-QH-LCGSHLVEALY-LVCGEKGFY-YIPR-
+UniRef90_UPI00189DEE04/9-52            ---------S--MLL-ML-A--L--C-SPA--V-S-S--A---P-V-------QH-LCGSHLVDTLY-FVCGERGFF-YSPN-
+UniRef90_UPI003703B57F/7-50            ------M-VS--VLL-LL-A--L--C-SPG--G-S-L--A---P-V-------QH-LCGSHLVDALY-FVCGERGFF-YN---
+UniRef90_P09477/4-30                   ---------------------------------------------------P-QH-LCGAHLVDALY-LVCGERGFF-YTPK-
+UniRef90_A0A9Y4TQF8/3-52               -ALWLHT-AA--LLV-LL-V--M--S-CPG--S-Q-A------V-S-----A-QH-LCGAHLVDALY-LVCGENGFS-YNP--
+UniRef90_UPI0001C397B7/1-29            -------------------------------------------F-V-----N-QH-LCGSDLVEALY-LVCGERGFF-YTKP-
+UniRef90_UPI0007F8980B/3-53            -TLWIQT-AA--LVV-LL-V--V--S-CPS--S-Q-A------T-A-----L-QH-LCGAHLVDALY-LVCGDRGFH-YRPE-
+UniRef90_UPI0038310199/1-53            MVLWNQI-VL--VSA-LI-I--F--T-CPK--R-F-E--T---L-S-----S-QH-LCGSHLVDALY-FVCGPKGFY-YLPK-
+UniRef90_UPI0011768B19/8-51            --------VP--MLL-LL-V--L--S-CPG--A-S----P---G-P-----L-QH-LCGSHLVDALY-FVCGERGFF-HTP--
+UniRef90_A0A8C5E314/7-34               ---------------------------------------------P-----P-QH-LCGSHLVDALY-LVCGERGFF-YNPK-
+UniRef90_A0A665TEG5/3-52               -VLWLHA-GS--LLL-LL-V--L--S-SPG--S-Q-A--V---P-T-----P-QY-LCGSHLIDALY-LICGDKGFF-YN---
+UniRef90_I7GSK6/1-26                   -----------------------------------------------------QH-LCGAHLVEALY-LVCGERGFF-YTPK-
+UniRef90_UPI00355B503D/1-53            MVLWNQI-VL--VAV-LI-V--F--S-CPK--G-L-E--T---I-P-----S-QH-LCGSHLVETLY-FVCGQKGFY-YVPK-
+UniRef90_UPI0018F52BB7/1-53            MVLWNQI-VL--VAV-LV-V--F--S-CPK--G-L-E--T---L-P-----S-QH-LCGSHLVETLY-FVCGQKGFY-YVPK-
+UniRef90_Q18NR1/3-53                   -ALWLHT-AS--VLV-LL-V--M--S-CPG--S---Q--A---I-A-----S-QY-LCGSHLVDALH-LICGDRGFI-YMPT-
+UniRef90_A0A672PV40/68-119             MTVWLQA-GA--LLF-LL-A--V--S-SVN----A-N--A---G-A-----P-QH-LCGSHLVDALY-LVCGPTGFF-YNPK-
+UniRef90_P83770/1-29                   -------------------------------------------F-V-----N-QH-LXGSHLVEALY-LVXGERGFF-YTPK-
+UniRef90_A0AA47N0Q1/9-51               ---------S--MLL-LL-A--V-----PH--P-WVA--P---I-S-----T-QH-LCGSHLVDALY-FVCGERGFF-YSA--
+UniRef90_A0A3Q3X6K7/4-34               ------------------------------------A--A---A-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A4W6EKT4/3-53               -TLWLHT-AS--LLI-LL-V--M--S-CPG--S-Q-A------T-A-----T-HY-LCGAHLVDALY-FICGERGFF-YMPR-
+UniRef90_UPI001B7DB85C/1-53            MVLWNQI-VL--VAV-LI-I--F--S-CPK--G-L-E--T---L-P-----S-QH-LCGSHLVETLY-FVCGQKGFY-YLPK-
+UniRef90_UPI000A1C6CE8/3-51            ---WLQS-AC--LLV-LV-A--T--L-CPG----S-E--A---F-S-----S-QH-LCGPHLVEALN-MVCGDRGFY-YNPQ-
+UniRef90_A0A8T0ACN9/512-564            MALLLQA-GS--LMF-LL-A--F--Y-SSA--V-A-D--A---A-A-----P-QH-LCGSHLVDALY-LVCGPNGFF-YNPK-
+UniRef90_UPI002ADF9604/41-86           ------L-LS--ILL-LL-V--L--H-VPR--V-A-P--A-----P-----T-QH-LCGSHLVDTLY-FVCGERGFF-HNPK-
+UniRef90_A0A3Q1IFE1/9-45               -------------------------H-NSS--N-T-G--S---H-T-----H-RH-LCGSHLVDALY-LVCGERGFF-YNPR-
+UniRef90_UPI00237D9A98/3-54            -ALWVQS-TS--LLV-VL-L--V--I-SHP--G-S-E--A---N-P-----A-QH-LCGSHLVDALN-LVCGDRGFY-YNPR-
+UniRef90_A0A3P9Q9A0/3-40               ----------------LL-S--K--W-W------A-S--L---A-P-----N-QH-LCGSHLVDALY-FICGERGFY-YSPN-
+UniRef90_A0A6J2QJP7/7-52               ------L-VS--MLL-LL-A--L--Y-SPG--V-S-S--A-----P-----G-QH-LCGSQLVDALY-FLCGERGFF-FSPN-
+UniRef90_UPI001C03BDBE/5-55            --LWIHT-AT--LLV-LL-V--M--L-CPS--S-Q-T------T-E-----P-QR-LCGPHLVDALH-LVCGESGFY-YTPQT
+UniRef90_UPI00241377DA/9-50            ---------S--MLF-LL-V--L--H-SPG--A-S----L---A-P-----N-QH-LCGSHLVDTLY-LICGERGFY-YS---
+UniRef90_UPI0023EB801E/8-52            --------VS--LLF-LL-A--L--Y-SPA--V-S-P--A---P-------A-AH-LCGSHLVDTLY-FICGERGFF-YSPN-
+UniRef90_O73727/1-52                   MAVWLQA-GA--LLV-LL-V--V--S-SVS--T---N--P---G-T-----P-QH-LCGSHLVDALY-LVCGPTGFF-YNPK-
+UniRef90_UPI002110B41A/7-52            ------I-LS--ILF-LL-V--L--S-VP---L-A-G--P---V-P-----T-QH-LCGSHLVDALY-FVCGERGFF-HDPK-
+UniRef90_A0AA47M6N3/66-108             -------------VV-LL-A--L--S-WSS--L-E-A--L---P-P-----P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A2U9CBW3/11-53              -------------TL-LL-V--L--Y-SQA--A-H-S--A---A-A-----A-QH-LCGSHLVDALY-FVCGERGFF-FSPN-
+UniRef90_UPI00148FB5B7/8-50            --------VS--MLL-LL-M--L--H-SPR--A-S----P---A-P-----T-QH-LCGSHLVDALY-FVCGERGFF-YS---
+UniRef90_A0AAJ7LUE7/10-52              ------------MML-LL-M--L--Y-SHG--V-S-S--A-----P-----A-QH-LCGSHLVDALY-FVCGERGFF-YSPN-
+UniRef90_UPI001A992C6F/10-52           ------------VML-LL-V--L--Y-SHG--V-S-S--A---P-I-------QH-LCGSHLVDALY-FVCGERGFF-YSPN-
+UniRef90_UPI002FC3BC41/1-53            MVFWSQI-VL--VSA-LI-I--F--S-CPK--G-L-E--T---L-S-----S-QH-LCGSHLVETLY-FVCGRKGFY-YVPK-
+UniRef90_Q7LZM9/2-29                   ---------------------------------------------T-----N-QY-LCGSHLVEALF-LVCGDRGFF-YSPK-
+UniRef90_UPI00196458F8/13-53           --------------L-VL-I--I--T-APY--G-T-Q--G---G-V-----T-QH-LCGAHLVEALF-FVCGEKGFF-YTP--
+UniRef90_UPI00117E7FF8/14-58           --------VS--MLL-LL-V--L--Y-SPG--V-A-P--A-----P-----A-QH-LCGSHLVDALY-FVCGDRGFF-VSPS-
+UniRef90_UPI001E8E5CB1/10-50           ------------ILL-LL-V--L--H-SPG--V-T-S--A-----P-----T-QH-LCGSHLVDALY-FVCGERGFF-YS---
+UniRef90_A0A4W6D9N7/10-39              ---------------------------------------F---F-N-----T-DH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A9Q0I8B1/11-54              ------------MVV-LL-A--L--S-WSS--L-E-A--A---A-S-----P-QH-LCGSHLVDALY-LVCGDRGFF-FNSK-
+UniRef90_UPI0037E8D73D/9-50            ---------S--MLL-LL-V--L--H-SPT--V-S-S--A-----P-----A-QH-LCGSHLVDALY-FVCGERGFF-YS---
+UniRef90_UPI0027DECA3D/1-54            --MWLQS-VS--LLV-LL-V--V--S-WPG--S-E-A--APPPP-Q-----Q-QT-LCGSHLVDALY-LVCGERGFV-YHPK-
+UniRef90_UPI000E45949F/55-101          ---WMLS-MM--LLL-VI-C--S--Q-G----V-S-T--A---P-------I-QH-LCGSHLVDALY-FVCGERGFF-YSPN-
+UniRef90_A0A8D3AEG5/6-32               ---------------------------------------------------P-QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A665UB70/10-52              ------------VML-LL-V--L--Y-SHG--V-S-L--A-----P-----T-QH-LCGSHLVDALY-FVCGERGFF-YSPN-
+UniRef90_A0AAV6HFH4/26-76              MALWLQT-AA--LLV-VV-A--L--S-TTG--T-D-A--A-----T-----A-QH-LCGSHLVDALY-LVCADEGFV-YKP--
+UniRef90_UPI00145A859C/4-53            --SWLQS-AC--LLV-LV-A--A--L-CPG----A-E--G---F-S-----S-QH-LCGPHLVEALN-MACGERGFY-YNPQ-
+UniRef90_A0A8C7ZH54/3-53               -TLWIHT-AS--LLI-LL-V--V--S-FPT--T-Q-A--T-----T-----L-QY-FCGSHLVDALY-LVCGDNGFF-YNPQ-
+UniRef90_A0A6P7J941/46-90              --------VS--MLL-LL-M--L--H-SPG--V-S-P--N-----P-----V-QH-LCGSHLVDALY-FVCGERGFF-YNPN-
+UniRef90_A0A8J4TJG6/566-617            MAVWLQV-GA--LLF-SM-A--F--C-SAG----A-N--A---A-A-----P-QH-LCGSHLVDALY-LVCGPNGFF-YNPK-
+UniRef90_UPI00223D2E8A/1-53            MVFWNQI-ML--VSA-LI-I--F--S-CPK--G-L-E--T---L-S-----S-QH-LCGSHLVDALY-FVCGPKGFY-YLPK-
+UniRef90_UPI0024B5F534/11-52           -------------LL-LL-V--L----SSQ--G-V-V--S---T-P-----T-QH-LCGSHLVDALY-FVCGERGFF-YNPN-
+UniRef90_I3KM26/8-52                   --------VS--MLL-LL-M--L--C-SPG--G-S-S------V-P-----L-KH-LCGSHLVDALY-FVCGERGFF-YNPS-
+UniRef90_A0A6P7PB69/3-54               -ALWLHT-TV--LLV-LL-A--T--W-CPS----S-Q--G---F-P-----A-ET-LCGGELVDALQ-IVCGERNFF-YTART
+UniRef90_UPI00187BD6D7/43-94           -ALWLQS-VS--LAV-LL-V--V--S-WPG--S-Q-A--V---V-P-----A-QR-LCGSHLINALY-LVCGDMGFF-YNDK-
+UniRef90_P69046/5-30                   -----------------------------------------------------QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A498MYY0/192-241            --VWLQA-GA--LLF-LL-A--V--S-SVN----A-N--A---G-A-----P-QH-LCGSHLVDALY-LVCGPTGFF-YNPK-
+UniRef90_A0A3Q3ANI7/20-48              -------------------------------------------F-C-----P-EH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0AAV1FBB4/9-50               ---------S--MLL-LL-V--L--H-PPR----V-S--T---A-P-----T-QH-LCGSHLVDALY-FVCGERGFF-YS---
+UniRef90_A0AAV2JDR2/33-81              ---WLQS-AC--LVV-LV-A--A--L-CPG----A-D--G---F-G-----T-QH-LCGSHLVEALN-MVCGDRGFY-YNPQ-
+UniRef90_A0A8C7HW63/8-33               -----------------------------------------------------QH-LCGSHLVDALY-LVCGEKGFF-YNPK-
+UniRef90_A0A674ATA5/5-30               -----------------------------------------------------QH-LCGSHLVDALY-LVCGEKGFF-YNPK-
+UniRef90_A0A096M678/9-52               ---------S--MLF-LL-V--L--H-SPG--A-S----L---A-P-----N-QH-LCGSHLVDALY-FICGERGFY-NSPS-
+UniRef90_A0A315VKR7/103-145            ------------MLF-LL-V--F--H-SPG----A-S--L---A-P-----N-QH-LCGSHLVDALY-FICGERGFY-YGPN-
+UniRef90_A0A671TSA7/3-54               -ALWLQS-VS--LLV-LL-V--V--S-WPG--S-Q-A--V---A-P-----A-QR-LCGSQLVDALY-LVCGNTGFF-YSDK-
+UniRef90_P07453/4-29                   -----------------------------------------------------QH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A2I4DBM9/3-52               -APWLQS-LS--LLV-LL-V--V--S-WPG--S-Q-A--Q---S-P-----S-QH-LCGSHLVDALY-LVCG--GLF-YNPK-
+UniRef90_UPI0011761F73/8-52            --------VS--MLL-LL-V--L--H-SPG--V-V-S------P-P-----A-QH-LCGSHLVDALY-FVCGDRGFF-YNPN-
+UniRef90_A0A671L9K3/1-52               MAVWLQA-GA--LLF-LL-V--I--S-SVN--V-N----A---G-A-----P-QY-LCGSHLVDALY-LVCGPTGFF-YNPK-
+UniRef90_Q5BVE9/1-29                   -------------------------------------------F-V-----N-RH-LCGSHLVDALY-SACGDRGFF-YIPK-
+UniRef90_UPI0024570223/21-73           MVFWSQI-VL--VCA-LI-I--F--A-CPK--G-L-E--T---L-P-----S-QH-LCGSHLVDALY-FVCGPKGFY-YLPK-
+UniRef90_P0C236/2-29                   ---------------------------------------------A-----N-RH-LCGSHLVEALY-LVCGNRGFF-YIPS-
+UniRef90_A0A4W6CK19/11-38              ---------------------------------------------P-----A-QH-LCGSHLVDALY-FVCGERGFF-YKPK-
+UniRef90_A0AA88N5I2/9-52               ------S-VM--LLL-ML-H--S--R-GVS--T-A-P--------------A-QH-LCGSHLVDALY-FVCGERGFF-YSPN-
+UniRef90_UPI0020153447/58-100          ---------P--VVLLLL-T--S--C-FPE----C-S--A---T-P-----S-QY-LCGSHLVEALY-LVCGERGFF-YS---
+UniRef90_A0A3Q3FGB4/8-50               --------MS--LLL-LL-A--L--H-PPM--V-S-A--A-----P-----A-QH-LCGSRLVDALY-FVCGERGFF-YS---
+UniRef90_A0A0M4UT51/1-44               ------------LLA-LI-A--V--L-API--A-S-H--A---F-P-----S-QH-LCGHQLVEALI-MVCGDRGFY-YGPN-
+UniRef90_A0AAN7XKE6/8-52               --------VS--MLL-LL-A--L--Y-SPV--V-S-S--A---P-------A-LH-LCGSHLVDALY-FVCGELGFF-YSPN-
+UniRef90_UPI00097D770E/3-55            -ALWLHS-VS--LLV-LL-I--V--S-LPA--S-S-Q--A---M-A----PP-QH-LCGAQLVDTLY-QVCSEKGFF-YTPK-
+UniRef90_A0A3Q0S4B4/2-28               ---------------------------------------------V-----N-PH-LCGSHLVDALY-FVCGERGFF-YNP--
+UniRef90_UPI001C4C360C/10-52           ------------MLL-LL-A--L--Y-SPG--V-T-S--T---P-V-------QH-LCGSHLVDTLY-FVCGERGFF-SSPN-
+UniRef90_A0A3B4F6N9/8-34               ---------------------------------------------------P-QH-LCGSHLVDALY-LVCGDRGFF-YNPR-
+UniRef90_UPI0011311833/6-37            --------------------------------P-G-G--L---L-S-----S-QH-LCGSHLVDALY-LVCGEQGFF-YNP--
+UniRef90_UPI0037530383/9-52            ---------S--LML-LL-V--L--Y-SRG--M-S-S--A-----P-----A-QH-LCGSHLVDALY-FVCGERGFF-FSPN-
+UniRef90_UPI002E0F98ED/75-109          ----------------------------SD--E-C-S--A---A-P-----P-QY-LCGSHLVEALY-LVCGERGFF-YSPN-
+UniRef90_UPI0028C3A7F0/1-53            MVFWSQI-VL--VSA-LI-I--F--S-CPK--G-L-E--T---L-S-----S-QH-LCGSHLVETLY-FVCGGKGFY-YVPK-
+UniRef90_UPI00350FDF7E/10-50           ------------MLL-LL-V--L--P-SPG--R---A--S---P-P-----P-QH-LCGSHLVDALY-LVCGSRGFF-YS---
+UniRef90_A0A3Q3S939/15-42              ---------------------------------------------P-----I-QH-LCGSHLVDALY-FVCGERGFF-YSPN-
+UniRef90_UPI002B1E817B/40-85           ------L-LS--ILL-LL-V--L--Q-APR--V-A----P---T-P-----T-QH-LCGSHLVDTLY-FVCGERGFF-HSSK-
+UniRef90_A0A3B3DID1/9-50               ------------LAV-IL-L--I--Y-SPG--A-T-S--A-----P-----L-QH-LCGSHLVDALF-FVCGDRGFF-YNP--
+UniRef90_P68987/8-34                   ---------------------------------------------------G-TH-LCGSHLVEALY-VVCGDRGFF-YTPS-
+UniRef90_A0A674N0F3/71-112             ------------ALL-LL-V--L--S-SPG----V-S--P---F-P-----A-QH-LCGSHLVDALY-IVCGERGFF-ADP--
+UniRef90_A0A8C5AX42/8-50               --------------I-LL-L--L--V-VTH--PWV-A--P---I-S-----T-RH-LCGSHLVDALY-FVCGDRGFF-YNPR-
+UniRef90_UPI001FAC2724/9-50            ---------S--MLF-LL-V--L--H-SPG--A-S-L--A-----P-----T-QH-LCGSHLVDALY-FICGERGFY-YS---
+UniRef90_A0A2I4CL96/10-50              ------------ALL-LL-V--L--C-SPG--A-S-S--A---P-I-------RH-LCGSHLVDALY-FVCGERGFF-YN---
+UniRef90_A0A7N8YR38/26-53              ---------------------------------------------M-----R-NH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_UPI00313BAF97/39-82           ---------P--LLF-LA-L--V--A-CLV--R-T-E--G---A-V-----T-QH-LCGSHLVEALF-LVCGDRGFY-YNP--
+UniRef90_A0A3B3ILF2/9-50               ------------LTV-IL-L--I--Y-SPG--A-T-S--A-----P-----L-QH-LCGSHLVDALF-FVCGDRGFF-YNP--
+UniRef90_A0A3Q3MFZ2/11-38              ---------------------------------------------G-----G-TH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_Q5BVF4/2-29                   ---------------------------------------------V-----N-KH-LCGSHLVEALY-MVCRDKGFF-YTPM-
+UniRef90_A0A3Q1IHR2/4-30               ---------------------------------------------------P-PH-LCGSHLVDALY-LVCGERGFF-YNPR-
+UniRef90_UPI001BD56F99/10-50           ------------VLL-LL----M--L-RPP--M-A-S--T---A-P-----A-RH-LCGSHLVDALY-FVCGERGFF-YS---
+UniRef90_Q5BVE8/1-29                   -------------------------------------------F-I-----N-RH-LCGSHLVDALY-SACGDKGFF-YVPK-
+UniRef90_UPI000E454D16/10-52           --------VM--LLL-ML-N--S--Q-GV-----S-T--A-----P-----V-RH-LCGSHLVDALY-FVCGERGFF-YSPS-
+UniRef90_A0A668SMA3/8-35               ---------------------------------------------L-----T-NH-LCGSHLVDALY-LVCGDRGFF-YNPR-
+UniRef90_A0A4W2BND6/1-41               MALWTRL-AP--LLA-LL-A--L--W-APA--P-A-R--A---F--------------------ALY-LVCGERGFF-YTPK-
+UniRef90_A0A668SAY2/7-36               ---------------------------------------L---Y-V-----A-LH-LCGSHLVDALY-FVCGERGFF-YNPR-
+UniRef90_A0A3B4AXA6/18-44              ---------------------------------------------S-----S-RH-LCGSHLVDALY-LVCGERGFF-YNP--
+UniRef90_A0A3P9K7S3/39-80              ------------LTV-IL-L--I--Y-SPG--A-T-S--A-----P-----L-QH-LCGSHLVDALF-FVCGDRGFF-YNP--
+UniRef90_A0A8D3CDT8/18-44              ---------------------------------------------------L-HH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_UPI002DDC5CA0/26-69           ---------S--MLL-LL-V--L--C-SPG--V-T-S--A-----P-----A-QH-LCGSSLVDALY-FVCGERGFF-YSPN-
+UniRef90_A0A5C6MP64/81-123             ---------S--VLL-LL-V--L--S-SPG----V-S--P---F-P-----A-QH-LCGSHLVDALY-FVCGERGFF-ADP--
+UniRef90_UPI00148FC28D/3-51            -TLWLQS-VS--LLV-LV-V--V--S-WPS--T-Q-A--A---P-A-----S-KL-LCGSHLVDALY-LVCGDRGFG-F----
+UniRef90_UPI0027E0E211/2-50            VALWLQS-VS--LLV-LL-V--V--L-WPG--C-Q-A--S---P-G-----Q-RP-ICGSHLVDALY-LVCGEKGFF------
+UniRef90_A0A9Q1HP40/5-50               ------R-LG--LLA-LC-L--L--W-VAP--P-C-G--A---F-G-----N-RR-LCGIQLVEALL-FVCGEKGLF-YHP--
+UniRef90_UPI001748EA5B/1-45            MALWTRL-LP--LL-----A--L--W-APA--P-A-Q--S-----E-----D-QH-LCGEYLEDVMT-ITCGDRGFK------
+UniRef90_A0A8C6M6Y3/6-31               -----------------------------------------------------QH-LCGSHLVDALY-FVCGERGFF-YNPN-
+UniRef90_A0A4Z2EQF3/111-157            --LWF-------LLV-LL-V--S--L-APG--S-Q-A--A---S-G-----P-QH-LCGYHLVEALS-MVCAERGFF-YNPK-
+UniRef90_A0A672FZF4/8-33               -----------------------------------------------------GH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A4W6DAA0/7-32               -----------------------------------------------------GH-LCGSHLVDALY-LVCGDRGFF-YNPK-
+UniRef90_A0A3Q1G5Y8/26-75              -ALWLHT-AA--LLV-LL-V--T--S-CPG--S---Q--A---I-S-----T-QH-LCGAHLVDALY-LVCWENGFS-YNP--
+UniRef90_P01334/3-29                   ---------------------------------------------------N-QR-LCGSHLVEALF-LICGERGFY-YSPR-
+UniRef90_A0A8C2X5R0/7-35               -------------------------------------------H-Y-----E-GH-LCGSHLVDALY-MVCGDRGFF-YNPK-
+UniRef90_A0A668S0N7/5-32               ---------------------------------------------P-----R-MH-LCGSHLVDALY-FVCGERGFF-YNPR-
+UniRef90_A0A0M5N0M8/1-44               ------------LLA-LI-A--V--L-APL--A-S-H--A---F-P-----S-QH-LCGRQLVEALA-LICGDQGFY-YNPQ-
+UniRef90_A0A8C7T2Z4/10-35              -----------------------------------------------------AH-LCGSHLVDALY-LVCGEKGFF-YNPK-
+UniRef90_A0A669E7U1/8-34               ---------------------------------------------------S-AH-LCGSHLVDALY-LVCGDRGFF-YNPR-
+UniRef90_UPI0009B3A1A7/37-83           -----RA-VS--VML-LL-V--I--Y-SQG--V-S-T--A---S-V-------QH-LCGSHLVDALY-FVCGEWGFF-YSPN-
+UniRef90_P29335/3-29                   ---------------------------------------------------S-QH-LCGSHLVEALF-LVCGESGFF-YNPN-
+UniRef90_A0A3Q4MW59/5-30               -----------------------------------------------------HH-LCGSHLVDALY-LVCGDRGFF-YNPR-
+UniRef90_A0A673AH44/3-54               -SLWLQS-AS--LLV-LL-V--M--L-CPD--S-S-S--TQ-EI-P-----L-QH-LCGSHLVEALN-LVCGSKGFY-SS---
+UniRef90_A0A3P9BKN7/13-40              ---------------------------------------------I-----T-PH-LCGSHLVDALY-FVCGERGFF-YNPR-
+UniRef90_A0A667ZBW7/12-43              ----------------------------------V-A--A---A-P-----P-QH-LCGSHLVDALY-LVCGDTGFF-YNPN-
+UniRef90_A0A6G1PTT5/9-50               ------S-VM--L---LL-M--V--Y-SQG--V-S-T------A-P-----A-QH-LCGSHLVDALY-FVCGERGFF-YS---
+UniRef90_A0A8C2X285/6-31               -----------------------------------------------------DH-LCGSHLVDALY-MVCGDRGFF-YNPK-
+UniRef90_A0A8D0AB36/3-54               -ALWLHC-VS--LLA-VL-L--V--S-WPG--C-Q-A--A---A-Q-----P-QY-LCGTDIVDALS-LVCGDRGFM-FNPK-
+UniRef90_UPI0035B2814E/11-52           -------------LL-LL-I--L--Y-TPG--V---C--S---T-P-----S-QH-LCGSHLVDMLY-FVCGERGFF-HNPN-
+UniRef90_A0A8C9SXU6/6-33               ---------------------------------------------------D-QR-LCGSHLVDALY-MVCGDRGFF-YSPKS
+UniRef90_A0AAV1P7S5/84-127             ---------S--MLL-LL-V--L--C-SPG--V-T-S--A-----P-----A-QH-LCGSSLVDALY-FVCGERGFF-YSPN-
+UniRef90_UPI00223D2CA9/20-63           ---------S--ILF-LL-V--L-----PT--PWV-G--P---M-P-----T-HH-LCGSHLVDALY-FVCGERGFF-HSPR-
+UniRef90_A0A668S0N2/12-37              ---------------------------------------------------Q-EH-LCGSHLVDALY-FVCGERGFF-YNP--
+UniRef90_UPI00298CAFAC/1-52            MAVWLQA-GA--LFF-WL-A--F--Y-TAG--T---N--A---M-G-----P-QY-LCGSHLVDALY-LVCGPNGFF-YNPK-
+UniRef90_A0A8C4C5S2/3-35               --------------------------------Q-S-S--S---D-A-----P-QY-LCGSHLVDALY-LVCGARGFF-YSPR-
+UniRef90_UPI002DBB7F03/9-52            ---------S--LML-LL-V--L--Y--PR--G-V-S--S---A-P-----A-QH-LCGSYLVDALY-FVCGERGFF-FSPN-
+UniRef90_A0A8C6S0Y4/8-32               -----------------------------------------------------PH-LCGSHLVDALY-LVCGERGFF-YNP--
+UniRef90_A0A0M3VI59/1-44               ------------LLA-LV-A--L--L-API--A-S-H--A---F-P-----E-QR-LCGRQLVEALV-LICGDRGFY-YNPN-
+UniRef90_C0HJI2/3-29                   ---------------------------------------------------S-QH-LCGSHLVEALN-LVCGDRGFF-YNPR-
+UniRef90_A0A9Y4JSZ1/10-50              ------------MLL-VL-M--L--Y-APG--V-L-S--E---P-V-------QH-LCGSHLVDALY-FVCGERGFY-YS---
+UniRef90_A0A8C6S2Z6/7-31               -----------------------------------------------------PH-LCGSHLVDALY-LVCGERGFF-YNP--
+UniRef90_UPI00202B07C9/1-54            MVLWNQI-VL--VAV-LF-I--F--S-CPK--G-I-E--T---Q-P-----S-QH-LCGSQLVDALY-FVCGSKGFY-YEPKT
+UniRef90_A0A9J8B711/3-30               ---------------------------------------------A-----P-QH-LCGSHLVDALY-LVCGPTGFF-YNPK-
+UniRef90_UPI001B3AB16C/3-52            -VLWLHT-AS--LLV-LM-V--M--S-CPG--S---Q--A---M-S-----S-QH-LCGSHLVSALH-LVCGDRGFR-FMV--
+UniRef90_P42633/3-29                   ---------------------------------------------------T-QH-LCGSHLVEALY-LVCGSNGFF-FNPK-
+UniRef90_A0A8C7I7L6/22-48              ---------------------------------------------L-----A-QH-LCGSHLVDALY-LVCGEQGFF-YNP--
+UniRef90_A0A3B4WE18/11-52              -------------ML-LL-V--L--Y-SHG--V-S-S--A-----P-----A-QH-LCGSRLVDALY-FVCGERGFF-YSPN-
+UniRef90_Q98TA9/4-30                   -----------------------------------------------------QH-LCGSHLVEALF-LVCGERGFF-FNPDT
+UniRef90_P68991/3-29                   ---------------------------------------------------T-QR-LCGSHLVDALY-FVCGERGFF-YSPK-
+UniRef90_UPI00189883AC/3-54            -TLWIQT-AA--LMV-LL-V--M--S-CPS--S---Q--A---I-A-----A-QR-LCGSHLVDALS-FVCGDRGFY-FSPAT
+UniRef90_UPI0010A2D4D0/3-52            --LFFQA-AA--VLL-LL-V--T--S-CPG----G-S--S---D-A-----P-QY-LCGSHLVDALY-LVCGARGFF-YSPS-
+UniRef90_A0A668ANN6/16-44              -------------------------------------------P-P-----A-QH-LCGSHLVDALY-FVCGDRGFF-YNPN-
+UniRef90_A0A1A8ACH4/3-53               -TLWTQT-AV--LLV-LL-V--M--S-CPS--S-R-A--T---S-------L-QK-LCGPHLTDALY-LVCGERGFL-FNPR-
+UniRef90_A0A3Q0SH55/8-34               ---------------------------------------------T-----A-DH-LCGSHLVDALY-FVCGERGFF-YNP--
+UniRef90_A0A3Q1H7I4/7-32               -----------------------------------------------------VH-LCGSHLVDALY-FVCGERGFF-YSPS-
+UniRef90_P81881/4-31                   ---------------------------------------------A-----P-QH-LCGSHLVDALY-LVCGPSGFF-YNPK-
+UniRef90_A0A3Q0S4D2/10-35              ---------------------------------------------------P-EH-LCGSHLVDALY-FVCGERGFF-YNP--
+UniRef90_UPI0025ADA986/3-51            -ALWLHS-AS--VLV-LL-V--M--S-WPC----S-R--A---L-S-----S-QH-LCGPHLVEALN-MVCGDRGFF-TS---
+UniRef90_A0A6P8U2F7/8-52               --------VS--MLL-LL-A--L--Y-SRG--V-S-S--A---P-------A-LH-LCGSHLADALY-LVCGELGFF-YSPN-
+UniRef90_A0A0M4TTZ2/1-44               ------------LMA-LI-A--V--L-VPI--A-S-N--A---F-L-----S-QY-LCGPQLVDALV-LVCGDRGFY-YNPQ-
+UniRef90_A0A3Q4N2A5/5-30               ---------------------------------------------------V-MH-LCGSHLVDALY-FVCGERGFF-YNP--
+UniRef90_A0A3Q3KDW5/3-53               -ALWLQS-VS--LLV-LL-I--V--S-WPG--S-Q-A--L---S-P-----P-HH-WCGSHLVEALY-RVCGDSGFY-NTK--
+UniRef90_A0A665UAI4/7-32               -----------------------------------------------------AH-LCGSHLVDALY-FVCGERGFF-YSPN-
+UniRef90_A0AAR2IY52/4-30               ---------------------------------------------------P-QH-LCGSHLVDALY-LVCGPSGFF-YNPK-
+UniRef90_A0A3Q0S9Z7/7-31               -----------------------------------------------------SH-LCGSHLVDALY-FVCGERGFF-YNP--
+UniRef90_A0A3B4U9K3/4-32               -------------------------------------------L-L-----N-AH-LCGSRLVDALY-FVCGERGFF-YSPN-
+UniRef90_P13190/3-29                   ---------------------------------------------------T-QR-LCGSHLVDALY-FVCGERGFF-YSPK-
+UniRef90_UPI000F5F3ED8/45-96           -ALWLQS-FS--LLV-LL-I--I--S-WPG--S-Q-A--A---I-A-----P-QQ-ICGSDLVDALM-LVCGPRGFS-FTTK-
+UniRef90_A0A3B5LRF1/8-32               ---------------------------------------------------P-QH-LCGSHLVDALY-LVCGDRGFF-YS---
+UniRef90_P12704/3-29                   ---------------------------------------------------S-QH-LCGSHLVEALY-FVCGPKGFY-YLPK-
+UniRef90_UPI002ACD8AC7/8-52            --------LS--ILF-LL-V--F--R-TPW----I-T--C---V-P-----T-QH-LCGSHLVDALY-FVCGERGFF-HSTK-
+UniRef90_A0A3P9BKL1/10-34              -----------------------------------------------------SH-LCGSHLVDALY-FVCGERGFF-YNP--
+UniRef90_A0A8C6SLK0/4-53               --SWLQS-AC--LLV-LV-A--A--L-CPG--T---E--G---F-T-----T-QH-LCGPHLVDALN-MVCADRGFY-YNPQ-
+UniRef90_A0AAR2J699/24-50              ---------------------------------------------------P-QH-LCGSHLVDALY-LVCGPSGFF-YNPK-
+UniRef90_A0A3B5LZB0/3-31               -------------------------------------------F-W-----F-SH-LCGSHLVDALY-FICGERGFY-YSPN-
+UniRef90_P01338/5-28                   -----------------------------------------------------QH-LCGSHLVDALY-LVCGDRGFF-YN---
+UniRef90_A0A9N7VN70/95-138             ---------S--LML-LL-V--L--Y-SRG--V-S-S--A-----P-----A-QH-LCGSYLVDALY-FVCGERGFF-FSPN-
+UniRef90_A0A8C1JC90/26-74              -----LL-LQ--AAA-II-L--L--L-ASL--P-G-S-LS---T-P-----S-QH-LCGSNLVDALY-LVCGPRGFF-YSSR-
+UniRef90_UPI000F5DB3C4/12-38           ---------------------------------------------------V-QH-LCGSHLVDALY-FVCGERGFF-YSQK-
+UniRef90_A0A3Q2YRH8/31-78              --SWLQV-LT--VLV-L-----A--T-GSQ--P-A-A--A---D-------P-QH-LCGSDLLDALI-LVCGDRGFI-FNPK-
+UniRef90_A0A6P8GXQ9/28-66              ----------------------L--T-SCF--P-R-G-LT---A-P-----P-QY-LCGSHLVEALY-LVCGDNGFF-YSPS-
+UniRef90_P12705/3-29                   ---------------------------------------------------S-QH-LCGSHLVEALY-FVCGPKGFY-YLPK-
+UniRef90_A0A9Q9YU86/5-51               --------LQ--AAA-II-L--L--L-ASL--P-GSL--S---T-P-----S-QH-LCGSNLVDALY-LVCGPRGFF-YSSR-
+UniRef90_A0A3Q2YJT4/11-52              ---------S--ILF-LL-V--L-----PT--P-W-V-GP---V-P-----T-HH-LCGSHLVDALY-FVCGERGFF-HM---
+UniRef90_UPI0007BA04FD/5-50            --------LQ--AAA-II-L--L--L-ASL--P-GSL--S---T-P-----S-QH-LCGSNLVDALY-LVCGPRGFF-YSS--
+UniRef90_A0A8C4C2W4/20-47              ---------------------------------------------A-----P-QY-LCGSHLVDALY-LVCGARGFF-YSPN-
+UniRef90_A0A556UES4/449-479            ------------------------------------Y--A---I-A-----P-QH-LCGSHLVDALY-LVCGPEGFF-YNPK-
+UniRef90_A0A0M4TUN1/1-44               ------------LLA-LI-A--V--L-API--A-N-H--A---F-P-----S-QH-FCGKQLVDALI-LICGDRGFY-FNPN-
+UniRef90_A0A6G0I8W3/149-200            -ALWLQS-FS--LLV-LL-I--I--S-WPG--S-Q-A--A---I-A-----P-QQ-ICGSDLVDALM-LVCGPRGFS-FTTK-
+UniRef90_A0A8C2JRV2/56-104             -----LL-LQ--AAA-II-L--L--L-ASL--P-G-S-LS---T-P-----S-QH-LCGSNLVDALY-LVCGPRGFF-YSSR-
+UniRef90_A0A8C4SJ48/6-31               -----------------------------------------------------WH-LCGAHLVEALF-FVCGEKGFF-YTPA-
+UniRef90_A0AAV6SMK5/15-60              ------S-VP--VML-LL-L--L--Y-SRE--L-S-S------T-P-----A-RH-LCGSQLVDALY-SVCGERGFF-YGPS-
+UniRef90_A0A8C4R1Z5/9-54               -----AI-IP--LVL-LL-S--R----APP--G-A-D--T---R-T-----T-GH-LCGKDLVNALY-IVCGDRGFF-YDP--
+UniRef90_A0A553MW29/517-558            -------------LL-LL-A--M--S-SVS----S-E--P---G-T-----P-QH-LCGSHLVDALY-LVCGPTGFF-YNPK-
+UniRef90_A0A6P7NMV8/11-52              -------------LL-LL-I--V--S--SQ--E-V-S--M---T-P-----V-QY-LCGSHLVDTLY-FVCGERGFF-YSPN-
+UniRef90_UPI002B1D6FFE/3-51            -ALWLHS-AP--ILV-LL-V--M--S-WPC----S-R--A---L-S-----S-QR-LCGTHLVEALN-MVCEDRGFF-TS---
+UniRef90_A0A8D2J455/1-49               MALWIRS-LP--LLV-LL-A--V--L-APT--A-I-Y--T---Q-E-----NYEH-LCGSSLVDALV-KICGEQGI-------
+UniRef90_UPI00189B3C4E/9-50            ---------S--ALV-LL-V--F--C-SPG--A-S----S---A-P-----S-GH-LCGYHLVDALY-FVCGERGFF-YN---
+UniRef90_A0AB32T7F9/62-102             ------------LIL-LL-A--------SL--PGS-Q--S---S-P-----S-QH-LCGSSLVDALY-LVCGPRGFF-YTN--
+UniRef90_A0AAV6SNS3/47-92              ------S-VP--VML-LL-L--L--Y-SRE--L-S-S------T-P-----A-RH-LCGSQLVDALY-SVCGERGFF-YGPS-
+UniRef90_A0A3B5LU77/14-39              -----------------------------------------------------LH-LCGSHLVDALY-FICGERGFY-YSPN-
+UniRef90_UPI000644FC0B/18-52           ----------------------------SS--G-A-S--L---G-P-----T-QH-LCGSHLVDTLY-FLCGERGFY-YRPN-
+UniRef90_A0A3Q1GGN3/2-28               ---------------------------------------------A-----N-VH-LCGSHLVDALY-FVCGERGFY-YSS--
+UniRef90_A0A3B5LUZ3/7-31               ------------------------------------------------------H-LCGSHLVDALY-FICGERGFY-YSPN-
+UniRef90_A0A553RFN7/10-50              -------------LT--L-L--L--F-SLP--S-A-H--S---A-P-----S-QH-LCGSNLVDALY-LVCGSRGFF-FSN--
+UniRef90_UPI0022220C7E/21-65           -----QA-AA--IIL-LL-A--F----LPG----S-V--A---T-P-----S-QH-LCGSNLVDALY-LICGPKGFF-YSN--
+UniRef90_A0A8B9RHS3/1-49               MALMLQA-AP--VLL-LL----V--Y-SPG--T-H-S--A-----P-----S-QY-LCGSSLVDALY-FVCGARGFF-YA---
+UniRef90_UPI00237E6774/11-53           ------------LLV-LL-V--L--H--PP--M-V-S--P---L-P-----A-RH-LCGSHLVDTLY-FVCGDKGFY-YRPN-
+UniRef90_A0A3Q3WSZ2/6-31               -----------------------------------------------------FH-LCGSHLVDALY-FVCGELGFF-YSPS-
+UniRef90_A0A8X8BLU3/3-50               ---FLQV-FF--LLV-CL-V--L--S-PPQ--A-A-N--A---A-A-----N-GH-RCSSDLMDALY-LVCGDRGFF-YI---
+UniRef90_UPI002ADDCDAB/5-52            ---WLKASLT--VLV-LM-A-------ACR--P-A-A--A---D-P-------MQ-LCGSELVDALY-LVCGDRGFL-YNPK-
+UniRef90_UPI001B7DB4C7/8-54            --------LL--SLA-LL----C--W-GAGRLP-CVE--G---R-V-----T-QH-LCGVHLVEALL-FVCGPKGFF-YTS--
+UniRef90_A0AAW1ZRN6/26-72              ------L-LQ--TAA-II-L--L--L-ASL--P-G-S-LS---T-P-----S-QH-LCGSNLVDALY-LVCGPKGFF-YSN--
+UniRef90_A0A4U5V679/3-52               -ALWLQS-FS--LLV-LL-I--V--S-WPG--S-Q-A--A---I-A-----P-QQ-LCGSDLIDTLQ-LVCGSRGFL-FK---
+UniRef90_A0AAY4AQV5/5-30               -----------------------------------------------------SH-LCGSHLVDALY-LVCGDGGFF-YNPS-
+UniRef90_A0A444UK37/3-32               ------------------------------------K--A---A-V-----N-QH-LCGSHLLEALN-QICRERGFF-YIP--
+UniRef90_A0A3Q3WCN1/16-41              -----------------------------------------------------SH-LCGSHLVDALY-FVCGELGFF-YSPS-
+UniRef90_A0A6P6MZT1/22-63              ------------IIL-LL-A-------SLS--G-S-R--S---T-P-----S-QH-LCGSSLVDALY-LVCGPRGFF-YSSR-
+UniRef90_A0A672SA64/5-51               --------LQ--AAA-II-L--L--L-ASL--P-GSL--S---T-P-----S-QH-LCGSNLVDALF-LVCGPRGFF-YSSR-
+UniRef90_A0A401SFM9/1-54               MVLWNQI-VL--VAV-LF-I--F--S-CPK--G-F-E--T---Q-P-----S-QH-LCGSQLVDAVH-FVCGSKGFY-YEPKT
+UniRef90_A0A8C7WNF9/5-29               -----------------------------------------------------KH-LCGSHLVDALF-FVCGDRGFF-YNP--
+UniRef90_UPI0037239C47/8-51            ------------LTA-LA-V--L--S-SLP--P-AGQ--G---M-V-----L-RR-LCGTHLVEALL-FVCGEKGVF-YRP--
+UniRef90_UPI002014259C/67-113          ------L-LQ--TAA-II-L--L--L-ASL--P-G-S-LS---T-P-----S-QH-LCGSNLVDALY-LVCGPKGFF-YSN--
+UniRef90_UPI0036049276/11-50           -------------LL-LL-L--L--L-SPG--V---C--S---T-P-----T-QH-LCGSHLVDMLY-FVCGERGFY-HN---
+UniRef90_UPI00186531BC/5-53            MALMLQA-AP--MFL-LL-V-----S-SPG----I-H--S---S-P-----S-QH-LCGSSLVDALY-VVCGARGFF-YA---
+UniRef90_A0A3Q3ITQ2/5-30               -----------------------------------------------------LH-LCGSHLVDALY-FVCGEWGFF-YSPN-
+UniRef90_UPI0029671219/1-54            MVLWNQI-VL--VAV-LF-I--F--S-CPK--G-F-E--T---Q-P-----S-QH-LCGSQLVDAVH-FVCGSKGFY-YEPKT
+UniRef90_A0AAN9CLI6/13-49              -------------------------L-ASL--PGS-L--S---T-P-----S-QH-LCGSNLVDALY-LVCGPKGFF-YSN--
+UniRef90_A0A3B5B2L8/7-32               ---------------------------------------------------L-YH-LCGSHLVDALY-FVCGERGFY-YSS--
+UniRef90_A0A673GKI9/3-51               -----QL-LQ--AAA-II-L--L--L-ASL--P-G-S-LS---T-P-----S-QH-LCGSNLVDALF-LVCGPKGFF-YSSR-
+UniRef90_UPI0010556B59/9-49            ------------LML-LL-L--V--I-SSL--G-A-S--S---A-P-----V-QH-LCGSQLVDALY-FVCGERGFF-H----
+UniRef90_A0A3Q2YJF5/4-53               --LWLHS-AS--VLV-LL-V--M--S-WPC----S-R--A---Y-S-----S-KH-LCGPNLVEALS-MVCGDRGFF-TSSK-
+UniRef90_A0A0M4TTY6/1-44               ------------LLA-LI-A--V--L-VPI--A-S-H--A---F-P-----S-QY-LCGRQLVDSLN-LICGDRGFY-WGPR-
+UniRef90_UPI002FD06ADD/12-53           ---------L--LLL-LL-S--S--H-VPE--C-I----S---G-P-----T-KY-LCGPHLVEALY-LVCGDRGFY-YS---
+UniRef90_A0A3B3ZVC2/5-31               ---------------------------------------------------S-QH-LCGPHLVEALN-MACGERGFY-YNPQ-
+UniRef90_A0A0H4AE98/1-48               MAPWMSA-LT--LVV-LC-T--I--C-IPT----S-K--G---F-S-----D-QH-LCGDQLVDALR-VVCGERGFH------
+UniRef90_A0A3Q3AU04/10-36              ---------------------------------------A---T-A-----L-QH-LCGAHLVDALY-LVCGDRGFH-Y----
+UniRef90_A0A8C9F1D1/28-51              ---------------------------------------A---A-A-----N-QH-LCGSHLVEALY-LVCGERG--------
+UniRef90_UPI00272BD920/11-50           ----------------LC-A--G--S-LVT--H-S-G--A---F-G-----N-RR-LCGIHLVEALL-LVCGEKGLF-YQP--
+UniRef90_A0A7J6D9U7/11-50              ----------------LC-A--G--S-LVT--H-S-G--A---F-G-----N-RR-LCGIHLVEALL-LVCGEKGLF-YQP--
+UniRef90_A0A674A6Q9/2-35               -----------------------------D--P-D-I--A---F-G-----N-RS-LCGIQLVEALL-LVCGEKGLF-YQPE-
+UniRef90_UPI0025A547D3/56-103          --LWLYS-TS--VLV-LL-V--M--S-WPC----S-S--A---L-S-----S-QH-LCGTSLVEALN-MVCGDRGFF-TS---
+UniRef90_A0A0M3VI62/1-42               ------------LLA-LI-A--V--L-VPI--A-S-H--A---Y-P-----N-QY-LCGPQLVEALA-FVCGDRGFY-HD---
+UniRef90_UPI00147728C5/40-65           -----------------------------------------------------QL-LCGSQLVDALY-LVCGENGFF-YNPK-
+UniRef90_UPI001CF9F316/8-51            --------MP--LLV-LA-I--M--T-CLM--E-T-E--G---A-G-----T-HH-LCGSHLVEALF-FVCGDRGFF-ST---
+UniRef90_UPI002AD3D21E/3-54            -TLWIHT-IS--VLL-LL-A--V--T-RPS--T-E-A--T---S-L-----L-Q--LCGQPLVDALY-EVCGDKGFY-YESRT
+UniRef90_P01342/10-54                  ------V-IP--LVL-LL-S--R----APP--S-A-D--T---R-T-----T-GH-LCGKDLVNALY-IACGVRGFF-YDP--
+UniRef90_A0A673FM24/7-32               ---------------------------------------------I-----T-LH-LCGSNLVDALY-LVCGPRGFF-YS---
+UniRef90_A0A3B5A7X0/4-28               -----------------------------------------------------GH-LCGAHLVDALY-LVCGENGFS-YNP--
+UniRef90_A0A8C5G4B4/10-35              -------------------------------------------A-P-----V-QH-LCGSQLVDALY-FVCGERGFF-H----
+UniRef90_A0A673FQZ3/4-28               ---------------------------------------------------G-TH-LCGSNLVDALY-LVCGPRGFF-YS---
+UniRef90_UPI0028690287/31-74           -------------AA-II-L--L--L-ASL--PES-L--S---T-P-----S-QH-LCGSSLVDALY-LVCEPRGFF-YSSR-
+UniRef90_A0A673FRD9/9-32               -----------------------------------------------------HH-LCGSNLVDALY-LVCGPRGFF-YS---
+UniRef90_A0AAY5KKI3/40-65              -----------------------------------------------------QL-LCGSQLVDALY-LVCGENGFF-YNPK-
+UniRef90_A0A3P8TKR9/2-44               ---------P--VAR-LT-K--S--W-NKP--P-R-K------E-Q-----E-LH-LCGAHLVDALY-LVCWENGFT-YNP--
+UniRef90_A0A3Q3AFD5/4-28               ---------------------------------------------I-----G-TH-LCGAHLVDALY-LVCGDRGFH-Y----
+UniRef90_A0A8C9ZHT3/3-27               ---------------------------------------------------C-DH-LCGSSLVDALY-FVCGERGFF-YR---
+UniRef90_A0A3P8TKU0/5-36               --------------------------------P-A-V--L---H-Y-----G-SH-LCGAHLVDALY-LVCWENGFT-YNP--
+UniRef90_A0A0M4UV63/1-44               ------------LLA-LL-V--F--L-APM--A-N-H--A---L-P-----S-QH-LCGPALVEAIE-FVCGERGVF-YDTK-
+UniRef90_UPI00358E5AB5/67-111          ------V-IP--LVL-LL-S--R----APP--S-A-D--T---R-T-----T-GH-LCGKDLVNALY-IACGVRGFF-YDP--
+UniRef90_Q5BVF3/1-29                   -------------------------------------------F-V-----S-RH-LCGSNLVETLY-SVCQDDGFF-YIPK-
+UniRef90_A0A3Q2TUI2/9-34               ---------------------------------------------V-----Q-VH-LCGSHLVDTLY-FLCGERGFY-YR---
+UniRef90_Q5BVF0/1-29                   -------------------------------------------F-F-----N-RH-LCGSNLVDALY-VVCKDKGFF-SMPK-
+UniRef90_UPI0031F406D2/5-50            ------L-LL--LLS-LC-A--G--Y-LVT--H-S-G--A---F-G-----N-RK-LCGIQLVEALL-LVCGDKGLF-YQP--
+UniRef90_A0A6J2WZM2/8-50               ------------LLV-LC-A--A--S-LVP--P-G-G--T---F-G-----N-RK-LCGIQLVEALL-LVCGEKGVF-YQP--
+UniRef90_A0A673GZN2/13-55              ------------LLS-LC-A--G--S-LVT--H-S-G--A---F-G-----N-RR-LCGTQLVEALL-LVCGDKGLF-YQP--
+UniRef90_Q5BVD8/2-26                   ---------------------------------------------A-----S-QH-LCGSHLVEALY-MTCGHNGFY--R---
+UniRef90_Q5BVF1/1-29                   -------------------------------------------F-V-----N-RH-LCGSNLVETLY-EVCRDKGFF-SIPK-
+UniRef90_A0A8C6LSP2/6-31               -----------------------------------------------------QK-LCGPHLTDALY-LVCGERGFL-FNPR-
+UniRef90_A0A673BPN7/7-29               -----------------------------------------------------TH-LCGSHLVDALY-FVCGDRGFF-V----
+UniRef90_A0A0M4U3Z0/1-43               ------------LLA-LI-A--V--L-VPL--A-S-H--A---I-P-----S-QY-LCGPQLVEALV-FVCGDRGFY-QNP--
+UniRef90_A0A9D3RJ02/6-50               --------LG--LLA-LC-L--L--C-VAP--S-C-G--A---F-G-----N-RR-LCGIQLVEALL-FVCGEKGLF-YHP--
+UniRef90_UPI0034626A4D/8-48            --------------L-LV-G--V--A-LLP--P-C-G--G---F-G-----N-RR-LCGIQLVEALL-FVCGERGLF-YQP--
+UniRef90_A0A3Q2Q3F3/7-30               -----------------------------------------------------AH-LCGSHLVDTLY-FLCGERGFY-YR---
+UniRef90_UPI00234CD95C/5-50            -----RL-L---LLL-FC-S--V--Y-LLS--P-G-T--G---F-R-----S-RR-LCGVQLVEALL-LVCGEKGLF-YQP--
+UniRef90_UPI0007ACC606/6-50            --------LL--LLS-LC-A--G--S-LVT--H-S-G--A---F-G-----N-RR-LCGTQLVEALL-LVCGDKGLF-YQP--
+UniRef90_UPI003461BAA5/14-53           --------------A-LL----L--L-VPF--P-G-T-HS---T-P-----S-QH-LCGSSLVDALY-FVCGGRGLF-YG---
+UniRef90_UPI001863E487/6-50            --------LA--LVA-LC-L--L--S-LAP--S-C-G--A---F-G-----N-RR-LCGIQLVEALL-FVCGEKGLF-YHP--
+UniRef90_A0A5N5MEY8/29-75              ----VRL-LL--LL--FC-S--V--S-LLS--P-G-A--A---F-G-----K-HR-LCGVQLVEALL-LVCGDKGLF-YQP--
+UniRef90_UPI002306DF61/31-76           -----RL-L---LLS-FC-S--V--S-LLS--P-G-A--A---F-G-----K-HR-LCGVQLVEALL-LVCGDKGLF-YQP--
+UniRef90_A0AAW2AVG1/10-50              --------------S-LC-A--G--S-LVT--H-S-G--A---F-G-----N-RR-LCGIQLVEALL-LVCGEKGLF-YQP--
+UniRef90_UPI00234B52F5/5-52            --AWVRV-VS--LLA-LL-S--Y--L-TET--Q-G-G--A-----------V-QQ-LCGLHLVEALI-LVCEGRGFY-NKP--
+UniRef90_A0A3Q2Q2F4/8-30               ------------------------------------------------------H-LCGSHLVDTLY-FLCGERGFY-YR---
+UniRef90_A0A3P8TPL8/13-40              -------------------------------------------F-A-----F-VH-LCGAHLVDALY-LVCWENGFT-YNP--
+UniRef90_A0A3B1J0U9/8-34               ---------------------------------------------P-----S-QY-LCGSSLVDALY-FVCGARGFF-YVK--
+UniRef90_A0A8T2NS28/10-50              --------------T-LY-L--L--C-MAP--S-C-G--T---F-G-----N-RR-LCGPQLVEALL-LVCGEKGLF-YHP--
+UniRef90_A0AA88QGG8/19-50              --------------------------------H-S-G--A---F-G-----N-RR-LCGIQLVEALL-LVCGEKGLF-YQP--
+UniRef90_UPI0024C4CAFF/66-106          -------------MV-LL-A--L--S-WSR--L-E-A--M---P-R-----P-RH-FCGAHLVDALN-LVCGDRGFF-YN---
+UniRef90_UPI002FD41F02/22-71           -----LL-LL--LLG-CV-C--L--SPGPP--SVL-A--V---P-L-----S-AHRLCGVHLVDALL-LVCGERGLF-YRP--
+UniRef90_UPI0034639393/10-52           --------LS--VLA-VF-S--V--L-PPD----G-E--G---L-V-----L-RR-LCGSQLVEALL-FVCGERGVF-YR---
+UniRef90_A0A9D3SX86/68-112             --------LA--LFA-LC-L--L--S-LAP--S-C-G--A---F-G-----N-RR-LCGIQLVEALL-FVCGEKGLF-YHP--
+UniRef90_A0A673AK04/15-39              ---------------------------------------------------L-QH-LCGSHLVEALN-LVCGSKGFY-SS---
+UniRef90_UPI002222FE7E/20-50           ----------------------------------S-G--G---F-G-----D-QK-LCGIQLVEALL-LVCGERGLF-YQP--
+#=GC RF                                xxxxxxx.xx..xxx.xx.x..x..x.xxx..x.x.x..x...x.x.....x.xx.xxxxxxxxxxx.xxxxxxxxx.xxxxx
+//
