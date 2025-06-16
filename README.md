@@ -33,6 +33,71 @@ The structure was rendered using [Mol* Viewer](https://molstar.org/viewer/).
 
 
 
+## Interpretation of Results
+
+**Input Sequence Used:**
+MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKT
+
+This represents the signal peptide and **B-chain** of human insulin. It **omits**:
+- A-chain (required for insulin structure)
+- C-peptide (in the proinsulin precursor)
+
+As a result:
+- The model lacks necessary domain interactions.
+- Confidence and accuracy suffer.
+- RMSD vs. native structure is very poor.
+
+
+##  MSA & Template Search Results
+
+### UniRef90 MSA Hits
+- Multiple insulin-like sequences aligned from human, mammals, reptiles, amphibians, and fish.
+- Most matched only **partial regions** (primarily the B-chain).
+
+### HHSearch Template Hits
+Top template matches from the PDB:
+| Rank | Template | Description | Score |
+|------|----------|-------------|--------|
+| 1    | 3WY7_B   | Human insulin | 92.7 |
+| 2    | 6S0F_F   | Insulin receptor | 92.7 |
+| 3    | 5URT_B   | Insulin Chain A | 91.5 |
+
+Alignment range was partial: only residues **26–54** matched — confirming only part of the insulin sequence was covered.
+
+
+## Recommendation
+
+To obtain meaningful structural predictions for insulin:
+
+- Use the **full proinsulin sequence**, e.g. MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+
+
+## Model Confidence (pLDDT)
+
+The confidence of each residue in the predicted structure is visualized below:
+
+![AlphaFold Confidence Plot](images/model3_plddt.png)
+
+- Confidence is **high (~85–90)** at the N-terminal, but drops steadily.
+- From residue 20 onward, many residues fall below **pLDDT 60**, indicating structural unreliability.
+- This low confidence contributes to deviation from the experimentally known insulin structure.
+
+---
+
+## RMSD Comparison to Native Insulin (`2HIU`)
+
+The AlphaFold model was structurally aligned to the native human insulin structure from the PDB (`2HIU.pdb`) using backbone Cα atoms.
+
+- **RMSD**: `13.542 Å`
+- A value this high reflects **major structural misalignment**.
+
+**Cause:** Only the B-chain of insulin was used for prediction, while native insulin's correct folding requires both A- and B-chains.
+
+---
+
+
+
+
 # Troubleshooting AlphaFold
 
 ## Storage & Resource Issues
