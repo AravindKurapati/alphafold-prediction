@@ -45,7 +45,7 @@ This represents the signal peptide and **B-chain** of human insulin. It **omits*
 As a result:
 - The model lacks necessary domain interactions.
 - Confidence and accuracy suffer.
-- RMSD vs. native structure is very poor.
+- RMSD vs. native structure is poor.
 
 
 ##  MSA & Template Search Results
@@ -62,7 +62,7 @@ Top template matches from the PDB:
 | 2    | 6S0F_F   | Insulin receptor | 92.7 |
 | 3    | 5URT_B   | Insulin Chain A | 91.5 |
 
-Alignment range was partial: only residues **26–54** matched — confirming only part of the insulin sequence was covered.
+Alignment range was partial: only residues **26–54** matched, which confirms only part of the insulin sequence was covered.
 
 
 ## Recommendation
