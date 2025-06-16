@@ -76,7 +76,7 @@ To obtain meaningful structural predictions for insulin:
 
 The confidence of each residue in the predicted structure is visualized below:
 
-![AlphaFold Confidence Plot](images/UNRELAXED_MODEL_3_PRED_0.PDB.png)
+![AlphaFold Confidence Plot](images/model3_plddt.png)
 
 - Confidence is **high (~85–90)** at the N-terminal, but drops steadily.
 - From residue 20 onward, many residues fall below **pLDDT 60**, indicating structural unreliability.
