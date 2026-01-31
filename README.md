@@ -151,3 +151,11 @@ The AlphaFold model was structurally aligned to the native human insulin structu
   publisher={Nature Publishing Group}
 }
 
+
+## Reproducibility & Debugging
+
+Detailed execution logs and system-level debugging notes are documented separately:
+
+- [COMMANDS.md](COMMANDS.md) — full AlphaFold run commands
+- [TROUBLESHOOTING.md](TROUBLESHOOTING.md) — storage, database, GPU, and Docker issues
+
