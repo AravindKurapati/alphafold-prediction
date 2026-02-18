@@ -1,6 +1,6 @@
 # AlphaFold Insulin Structure Prediction
 
-> End to end deployment of DeepMind's AlphaFold2 on Google Cloud Platform to predict the 3D structure of human insulin...covering infrastructure setup, database downloads, Docker containerization, NVIDIA driver debugging and final structure prediction.
+> End to end deployment of DeepMind's AlphaFold2 on Google Cloud Platform to predict the 3D structure of human insulin.....covering infrastructure setup, database downloads, Docker containerization, NVIDIA driver debugging and final structure prediction.
 
 ---
 
@@ -24,13 +24,13 @@
 This project deploys [DeepMind's AlphaFold2](https://github.com/google-deepmind/alphafold) inference pipeline on a GCP VM to predict the 3D folded structure of human insulin from its amino acid sequence.
 
 **Why insulin?**  
-Insulin is a small protein (54 amino acids in the B-chain sequence used here) with a well-known experimental structure (PDB: [2HIU](https://www.rcsb.org/structure/2HIU)), making it an ideal test case for validating the full pipeline end to end.
+Insulin is a small protein (54 amino acids in the B-chain sequence used here) with a well-known experimental structure (PDB: [2HIU](https://www.rcsb.org/structure/2HIU)),which makes it an ideal test case for validating the full pipeline end to end.
 
 **What AlphaFold does:**  
 AlphaFold2 takes an amino acid sequence (FASTA format) as input and predicts the 3D coordinates of every atom in the folded protein. It searches for evolutionary homologs via Multiple Sequence Alignment (MSA), finds structural templates from the PDB and runs a deep learning model to output per-residue 3D coordinates alongside pLDDT confidence scores (0–100).
 
 **This is inference, not training.**  
-The published model weights (~5.3 GB) and reference databases (~2.5 TB) are downloaded and used directly. No model training is performed here.
+The published model weights (~5.3 GB) and reference databases (~2.5 TB) are downloaded and used directly. There is no model training done here.
 
 ---
 
@@ -50,7 +50,7 @@ The published model weights (~5.3 GB) and reference databases (~2.5 TB) are down
 
 ### Why a Separate Persistent Disk?
 
-AlphaFold's full database suite requires ~2.5 TB. The boot disk (30 GB) is far too small. A separate 3 TB persistent disk was attached and mounted at `/mnt/alphafold-data` to hold all databases, Docker images and output files.
+AlphaFold's full database suite requires ~2.5 TB. The boot disk (30 GB) is far too small for it. So a separate 3 TB persistent disk was attached and mounted at `/mnt/alphafold-data` to hold all databases, docker images and output files.
 
 **Key setup commands:**
 
@@ -100,7 +100,7 @@ git clone https://github.com/google-deepmind/alphafold.git
 
 ### 3. Install NVIDIA Container Toolkit
 
-The NVIDIA Container Toolkit allows Docker containers to access the host GPU.
+The NVIDIA Container Toolkit allows Docker containers to access your host GPU.
 
 ```bash
 # Add NVIDIA package repository (use stable/deb path)
@@ -129,7 +129,7 @@ cd /mnt/alphafold-data/alphafold
 docker build -f docker/Dockerfile -t alphafold .
 ```
 
-This step takes 10–20 minutes and installs all Python dependencies (JAX, TensorFlow, HHblits, Jackhmmer) inside the container.
+This step can take 10–20 minutes and it installs all Python dependencies (JAX, TensorFlow, HHblits, Jackhmmer) inside the container.
 
 ### 5. Create the Insulin FASTA File
 
@@ -144,9 +144,9 @@ EOF
 
 ## Database Downloads
 
-AlphaFold requires multiple reference databases for MSA search and structural template lookup. Total size: ~2.5 TB. Downloads are resumable via `aria2c`.
+AlphaFold requires multiple reference databases for MSA search and structural template lookup. Total size: ~2.5 TB. The downloads are resumable via `aria2c`.
 
-Run the full download script in the background:
+You can run the full download script in the background using:
 
 ```bash
 cd /mnt/alphafold-data/alphafold/scripts
@@ -169,9 +169,9 @@ tail -f /mnt/alphafold-data/download.log
 | **pdb70** | Structural template search | ~56 GB |
 | **pdb_mmcif** | Full PDB structure templates | ~38 GB |
 
-### Why Download These If AlphaFold Is Already Trained?
+### Why Should We Download These If AlphaFold Is Already Trained?
 
-AlphaFold was trained on these databases, but they are not baked into the model weights. At inference time, AlphaFold searches them in real time to build a Multiple Sequence Alignment (MSA) for the specific query sequence. The co-evolutionary signals from the MSA which residue positions co-vary across thousands of species. They are a primary input to the neural network and drive accurate 3D predictions.
+AlphaFold was trained on these databases, but they are not baked into the model weights. At inference time, AlphaFold searches them in real time to build a Multiple Sequence Alignment (MSA) for the specific query sequence. The co-evolutionary signals from the MSA which residue positions co-vary across thousands of species. They are a primary input to the neural network and they drive accurate 3D predictions.
 
 ### Checking Download Status
 
@@ -241,7 +241,7 @@ sudo docker run --rm --gpus all \
 **Key files:**
 - **`.pdb` / `.cif`** — Predicted 3D structure. Open in [Mol*](https://molstar.org/viewer/), PyMOL or ChimeraX.
 - **`confidence_*.json`** — Per-residue pLDDT scores. >90 = very high confidence; 70–90 = confident; <70 = low confidence.
-- **`result_*.pkl`** — Raw logits, distogram and predicted aligned error (PAE) for further analysis.
+- **`result_*.pkl`** — Raw logits, distogram and predicted aligned error (PAE).
 
 ---
 
@@ -257,7 +257,7 @@ AlphaFold ran successfully and produced unrelaxed structures for all 5 models.
 - Templates found: 20 (including exact matches `3w7y_B`, `2jzq_A`, `1dcs_A`, `6ins_E`)
 
 **Why RMSD vs. the native structure would be high:**  
-The FASTA input used only the insulin B-chain (54 amino acids), not the full proinsulin sequence. Insulin's native fold depends on inter-chain contacts between the A-chain and B-chain. Feeding only the B-chain forces AlphaFold to predict a partial structure without those stabilizing interactions. The MSA search confirmed this.... alignments only covered residues corresponding to the B-chain region. Running AlphaFold with the complete proinsulin sequence (or using `--model_preset=multimer` with both chains) would yield substantially more accurate results.
+The FASTA input used only the insulin B-chain (54 amino acids), not the full proinsulin sequence. Insulin's native fold depends on inter-chain contacts between the A-chain and B-chain. Feeding only the B-chain forces AlphaFold to predict a partial structure without those stabilizing interactions. The MSA search confirmed this.... alignments only covered residues corresponding to the B-chain region. Running AlphaFold with the complete proinsulin sequence (or using `--model_preset=multimer` with both chains) would yield more accurate results.
 
 ---
 
@@ -339,7 +339,7 @@ sudo systemctl restart docker
 
 **Problem:** `tar: Wrote only 512 of 10240 bytes` followed by `tar: Exiting with failure status` during BFD extraction.
 
-**Root cause:** Disk ran out of space mid-extraction. The BFD tarball is 272 GB, but the extracted files total ~1.7 TB. Both must fit simultaneously on the disk.
+**Root cause:** Disk ran out of space mid-extraction. The BFD tarball is 272 GB, but the extracted files total ~1.7 TB. Both must fit on the disk.
 
 **Fix:** Request disk quota expansion through GCP console, then resize the filesystem without unmounting:
 ```bash
